@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "0CD41268-D856-41A2-AD15-2AB39C31B6D9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "62D91510-B26B-43D5-804E-9D5ABF7EAB0B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "578A2FAE-CD7C-4BFD-8C2D-956D8E833D73",
+    "height": 75,
+    "width": 435,
+    "x": 451,
+    "y": 332
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "A3B05146-AA2D-4E7C-AE21-BC53E1BF510F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C3CB759E-D0B7-4F71-8060-ADB432DED284"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FD4A77E0-4674-4D1F-8C1B-E381645EFA30"
+    }
+  ],
+  "name": "grp_esignature-question",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "281EC0BA-F19F-43F2-B870-947F96E803FC",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

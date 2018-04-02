@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "59A1DBDD-3B9A-42B8-92A8-8745B9A24021",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "DBB7BE1A-CB93-4B45-B622-4DA73D63B6B6",
+    "do_objectID": "D532F25F-5DFB-48EC-867E-C8E029EDF82F"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 50,
+    "width": 200,
+    "x": 399.9999999999999,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Navigation / tab-inactive Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "16482CD0-DDDA-42D0-B351-4C321DC54B87_stringValue",
+      "value": "Product Definition"
+    }
+  ],
+  "overrides": {
+    "16482CD0-DDDA-42D0-B351-4C321DC54B87": "Product Definition"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "63B00F7A-CD88-451B-9E53-96A331288FEF",
+  "verticalSpacing": 0
+}

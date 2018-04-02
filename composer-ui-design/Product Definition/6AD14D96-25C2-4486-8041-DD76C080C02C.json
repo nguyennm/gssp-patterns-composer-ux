@@ -1,0 +1,107 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "D2C37F9E-BBC5-4E50-B5E1-AE580506E950",
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "6AD14D96-25C2-4486-8041-DD76C080C02C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "036ED8C6-72EE-4255-A7E2-71BF83992A7C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BCF6B130-2DD9-4D95-AD54-DE4EA8C71545",
+    "height": 1024,
+    "width": 768,
+    "x": 4153,
+    "y": 7325
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "54FE26C6-9E00-491C-B103-8431791FB3FB",
+    "guides": [
+      24,
+      744,
+      144,
+      264,
+      384,
+      504,
+      624
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 90,
+    "do_objectID": "894A6F8B-2868-4A7C-89FE-1AE87762F1DB",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 30,
+    "guttersOutside": true,
+    "horizontalOffset": 24,
+    "isEnabled": true,
+    "numberOfColumns": 6,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 720
+  },
+  "name": "Product Definition - Overview - Tablet Portrait",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Tablet",
+    "offersLandscapeVariant": 1,
+    "width": 768
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9AA25F00-9F9F-4B6D-A9A4-1C08CCF740EA",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "1E8885A1-15B0-4DBB-8478-E40D01A6598A",
+    "guides": [
+    ]
+  }
+}

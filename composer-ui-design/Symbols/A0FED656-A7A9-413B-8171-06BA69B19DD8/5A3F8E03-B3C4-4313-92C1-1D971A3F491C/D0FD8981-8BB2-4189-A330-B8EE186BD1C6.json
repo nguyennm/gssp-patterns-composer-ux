@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "D0FD8981-8BB2-4189-A330-B8EE186BD1C6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "3827172B-9B7E-4412-8483-DE6A60D6661B",
+    "do_objectID": "F1F2E45A-E9D5-4B2A-9820-8935E073F503"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 50,
+    "width": 200,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Navigation / tab-active",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "59F6B7D1-256B-4740-9E13-DB5FC94BF06D",
+      "overrideName": "67830810-BDCB-4DE8-84B2-CAFC6B8AAF65_stringValue",
+      "value": "Overview"
+    }
+  ],
+  "overrides": {
+    "67830810-BDCB-4DE8-84B2-CAFC6B8AAF65": "Overview"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "EAA0942A-9D0C-4F96-BFBB-622FD4D20B64",
+  "verticalSpacing": 0
+}

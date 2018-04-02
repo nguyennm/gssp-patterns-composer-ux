@@ -1,0 +1,95 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "DC5CF1DA-1321-4EAB-8F34-95E2FEB0A4E0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "30074908-B24D-485B-B874-BEA52D7BF268",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "DD262DDD-B8F7-4BE6-8EC8-2D64D92B47A3",
+    "height": 74,
+    "width": 74.00000000000001,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "6883C531-BB61-4D59-8791-3F63569E726C"
+    }
+  ],
+  "name": "Oval 2 Copy 7",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "21EEB80C-2D24-48BC-B6B7-66A91A6147D7",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 6.3,
+      "type": 0
+    },
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 0,
+        "thickness": 0.63
+      }
+    ],
+    "do_objectID": "4B1F3197-D123-4A6F-ADF9-92B2C664E079",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0.7764705882352942,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "sharedObjectID": "16D2F590-3D3B-4BB4-93C3-5DE12A9B8C48",
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

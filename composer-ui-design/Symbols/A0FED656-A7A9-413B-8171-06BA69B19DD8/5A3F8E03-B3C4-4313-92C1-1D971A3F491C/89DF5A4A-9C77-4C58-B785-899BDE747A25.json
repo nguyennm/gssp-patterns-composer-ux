@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "89DF5A4A-9C77-4C58-B785-899BDE747A25",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "4CB350AC-0F82-4D8C-AA74-6D0FF9EF7E03",
+    "do_objectID": "8C56311B-7F7F-43D0-B164-55BFB46912AE"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 50,
+    "width": 200,
+    "x": 200.0000000000001,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Navigation / tab-inactive",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F63A615E-F00A-472D-9278-FEB14D79359E",
+      "overrideName": "16482CD0-DDDA-42D0-B351-4C321DC54B87_stringValue",
+      "value": "Client Configuration"
+    }
+  ],
+  "overrides": {
+    "16482CD0-DDDA-42D0-B351-4C321DC54B87": "Client Configuration"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "63B00F7A-CD88-451B-9E53-96A331288FEF",
+  "verticalSpacing": 0
+}

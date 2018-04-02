@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "FA983263-8504-4705-9BD9-E4A1496B7BB5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "19E021A9-15F8-44AB-B087-A3FD60F8AB1D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "81006AC9-E4C3-451D-8115-4958037B3EDD",
+    "height": 53,
+    "width": 1140,
+    "x": 150,
+    "y": 70
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Navigation / breadcrumb-nav-bar-tenant",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A1C662E1-6ADE-4B65-BF94-F75F40C00D4C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "21512FF4-7F7F-45BD-B34C-1DD1C691AF8C",
+  "verticalSpacing": 0
+}

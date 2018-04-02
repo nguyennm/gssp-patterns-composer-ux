@@ -1,0 +1,46 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGY2RYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHAcIDxAcHR4fKywtLi8wMTIzOT1FRkdISUxQW19VJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAbgANfEBJOYXYgSXRlbSBUZXh0IEhlcmXTERIKExcbV05TLmtleXNaTlMub2JqZWN0c6MUFRaABIAFgAajGBkagAeAEYAZgBBfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAQTlNQYXJhZ3JhcGhTdHlsZdMREgogJRukISIjJIAIgAmACoALpCYnKCmADIANgA6AD4AQU3JlZFVhbHBoYVRibHVlVWdyZWVuIz/dXV1dXV1dIz/wAAAAAAAAIz/e3t7e3t7fIz/eHh4eHh4d0jQ1NjdaJGNsYXNzbmFtZVgkY2xhc3Nlc1xOU0RpY3Rpb25hcnmiNjhYTlNPYmplY3TSCjo7PF8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBiAEtMREgo+QUSiP0CAE4AUokJDgBWAFoAXXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQCwAAAAAAABeUm9ib3RvLVJlZ3VsYXLSNDVKS18QE05TTXV0YWJsZURpY3Rpb25hcnmjSjY40jQ1TU5fEBBOU0ZvbnREZXNjcmlwdG9yok84XxAQTlNGb250RGVzY3JpcHRvctZRUlNUClVWV1hZWlhfEBJOU1BhcmFncmFwaFNwYWNpbmdbTlNBbGlnbm1lbnRfEA9OU01pbkxpbmVIZWlnaHRaTlNUYWJTdG9wc18QD05TTWF4TGluZUhlaWdodCNAJAAAAAAAABACI0AwAAAAAAAAgACAGtI0NVxdXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjXF44XxAQTlNQYXJhZ3JhcGhTdHlsZdI0NWBhXxASTlNBdHRyaWJ1dGVkU3RyaW5nomI4XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0WVmVHJvb3SAAQAIABEAGgAjAC0AMgA3AFYAXABjAGwAcwCAAIIAhACGAJsAogCqALUAuQC7AL0AvwDDAMUAxwDJAMsA+AEaAS0BNAE5ATsBPQE/AUEBRgFIAUoBTAFOAVABVAFaAV8BZQFuAXcBgAGJAY4BmQGiAa8BsgG7AcAB3QHfAeEB6AHrAe0B7wHyAfQB9gH4Ag4CJAItAjwCQQJXAlsCYAJzAnYCiQKWAqsCtwLJAtQC5gLvAvEC+gL8Av4DAwMdAyEDNAM5A04DUQNmA3gDewOAAAAAAAAAAgEAAAAAAAAAZwAAAAAAAAAAAAAAAAAAA4I="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "D6C5B939-770C-4EB5-A04A-811AE08E15C6",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 16,
+    "width": 270,
+    "x": 0,
+    "y": 19
+  },
+  "glyphBounds": "{{76, 3}, {118, 11}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Nav Item Text Here",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "4BFEFEEB-B6CF-447C-AC3C-82D49B88BF66"
+  },
+  "textBehaviour": 1
+}

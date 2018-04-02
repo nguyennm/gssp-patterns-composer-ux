@@ -1,0 +1,110 @@
+{
+  "_class": "page",
+  "do_objectID": "ECAFA7D1-DAD5-4655-862B-E1762C6FD155",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "551DD822-EE80-496A-9264-31800C734FA3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DB224B6E-2AAE-4FCF-B484-852513A659C9",
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "923F735A-80AD-4123-8966-81860553B438",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -311,
+    "do_objectID": "F6BCF198-1935-45A0-87A7-90784018A535",
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "41CD78FE-6069-40FE-8533-78A88A0C7839"
+    },
+    {
+      "class": "artboard",
+      "id": "C62679ED-6D3F-49AE-9E3F-B2FE75A53D4C"
+    },
+    {
+      "class": "artboard",
+      "id": "DE7B4498-85FA-4B0A-9387-BEEF4F71D5B0"
+    },
+    {
+      "class": "artboard",
+      "id": "1927388F-90E5-4055-8C5B-40145B23C259"
+    },
+    {
+      "class": "artboard",
+      "id": "3B7F4D1E-9C15-4D2E-B000-818CFFE1AD08"
+    },
+    {
+      "class": "artboard",
+      "id": "7657FBCE-AD90-49AB-9067-C2A0F54AF204"
+    },
+    {
+      "class": "artboard",
+      "id": "36FE7A9C-04EF-4BE6-A5A5-9F9126E62612"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "do_objectID": "5ABA9772-46F2-4FFE-875C-437D385B616B",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 960
+  },
+  "name": "Publications",
+  "nameIsFixed": true,
+  "resizingConstraint": 0,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2B4AA836-3DED-473A-835F-52924A1D963E",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -189,
+    "do_objectID": "9F508D7D-E751-41FB-9AD9-7E31813CD91B",
+    "guides": [
+    ]
+  }
+}

@@ -65,12 +65,28 @@
       "id": "B845E697-DBDA-4107-AF20-366564AE75CA"
     },
     {
+      "class": "text",
+      "id": "1F80804B-E5C5-48F5-AA07-592E7A7E9134"
+    },
+    {
       "class": "symbolInstance",
       "id": "4BBF1C5F-F70C-4229-8927-0BCD5C22F7D3"
     },
     {
       "class": "symbolInstance",
       "id": "13FFAFBE-20B3-4545-AF62-6D37FE14A58E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9021D7BF-E426-46B8-A02A-B454E453D3CC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DFC3D695-91E4-47C1-A48F-C6C501CE7D9C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "59B6F581-88B2-4DDF-A8DA-A4D46AEEA2A9"
     }
   ],
   "name": "Icons - Custom",

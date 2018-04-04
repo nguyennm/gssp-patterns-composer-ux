@@ -13,7 +13,8 @@
   "flow": {
     "_class": "MSImmutableFlowConnection",
     "animationType": -1,
-    "destinationArtboardID": "11936C9F-FE6F-4DCB-9790-82011E1B4D3C"
+    "destinationArtboardID": "11936C9F-FE6F-4DCB-9790-82011E1B4D3C",
+    "do_objectID": "9C9096F9-625F-4BE3-A90A-858FA4034ACE"
   },
   "frame": {
     "_class": "rect",

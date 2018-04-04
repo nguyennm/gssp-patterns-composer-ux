@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "F41E4B7E-CC5B-4307-9A7A-6B5EBEAC1672",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 50,
+    "width": 1140,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D8B62B1D-D55A-48E9-A09E-5C517DF81A53"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5A77F651-F776-4FD9-8513-07A47C5FCAE9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "58C15597-0400-4209-BD01-B196252913EE"
+    }
+  ],
+  "name": "grp_designer-flow-nav",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

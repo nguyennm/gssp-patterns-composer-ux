@@ -22,7 +22,7 @@
     "constrainProportions": false,
     "height": 1024,
     "width": 1440,
-    "x": -182,
+    "x": -1668,
     "y": 562
   },
   "grid": {
@@ -32,7 +32,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,

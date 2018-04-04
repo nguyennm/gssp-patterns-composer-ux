@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "76CA80FE-5656-45C6-BD5A-C0A18EC6B215",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F7455EA2-3407-4633-8F6A-997BC86F1901",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "2238E5D7-0ECA-4CA4-A264-9D71A106B178",
+    "height": 16,
+    "width": 16,
+    "x": 510,
+    "y": 7
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Icons/Navigation/ic_cancel",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "D19EEC00-9977-4B27-A90B-D80F79E3ACC0",
+      "opacity": 0.3
+    },
+    "do_objectID": "59C6CDAF-3C40-4F16-8D87-3573A22422A1",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "5BC3B2AE-CE48-4796-B676-8147CB182309",
+  "verticalSpacing": 0
+}

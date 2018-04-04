@@ -16,7 +16,7 @@
     "height": 141,
     "width": 1111,
     "x": 164,
-    "y": 352
+    "y": 404
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -27,8 +27,15 @@
   "name": "Statics / model-definition-row",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E4EC8A10-453E-4D07-A8F3-D703BAAFC122",
+      "overrideName": "D2846528-8112-4EEC-91DA-92F08C6D1931_stringValue",
+      "value": "EDIT"
+    }
   ],
   "overrides": {
+    "D2846528-8112-4EEC-91DA-92F08C6D1931": "EDIT"
   },
   "resizingConstraint": 63,
   "resizingType": 0,

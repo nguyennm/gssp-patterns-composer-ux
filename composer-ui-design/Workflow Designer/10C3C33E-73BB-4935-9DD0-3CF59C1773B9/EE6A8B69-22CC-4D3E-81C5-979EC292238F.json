@@ -1,0 +1,78 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "EE6A8B69-22CC-4D3E-81C5-979EC292238F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 50,
+    "width": 1140,
+    "x": 150,
+    "y": 173
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Workflow Designer / flow-nav-products",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5921AC50-46DB-4BBD-895B-DBCA26F33838",
+      "overrideName": "B9F1F33C-4869-4DDA-A9E5-4612102BD760_symbolID",
+      "value": "63B00F7A-CD88-451B-9E53-96A331288FEF"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7642C53C-F8F3-4BA7-80E1-A99B4897F55B",
+      "overrideName": "F3D4F8AB-4378-4CE2-B96E-414FF388C643_symbolID",
+      "value": "EAA0942A-9D0C-4F96-BFBB-622FD4D20B64"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0AD5A788-736A-49BB-A8F8-34C1B32A6632",
+      "overrideName": "F3D4F8AB-4378-4CE2-B96E-414FF388C643/67830810-BDCB-4DE8-84B2-CAFC6B8AAF65_stringValue",
+      "value": "Application"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7C056FBA-87DB-4318-BBE7-573399962D1C",
+      "overrideName": "B9F1F33C-4869-4DDA-A9E5-4612102BD760/16482CD0-DDDA-42D0-B351-4C321DC54B87_stringValue",
+      "value": "Quoting & Illustration"
+    }
+  ],
+  "overrides": {
+    "B9F1F33C-4869-4DDA-A9E5-4612102BD760": {
+      "16482CD0-DDDA-42D0-B351-4C321DC54B87": "Quoting & Illustration",
+      "symbolID": "63B00F7A-CD88-451B-9E53-96A331288FEF"
+    },
+    "F3D4F8AB-4378-4CE2-B96E-414FF388C643": {
+      "67830810-BDCB-4DE8-84B2-CAFC6B8AAF65": "Application",
+      "symbolID": "EAA0942A-9D0C-4F96-BFBB-622FD4D20B64"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "53D5D80A-6F3B-4CA1-8B20-9E4A7C7FF1C2",
+  "verticalSpacing": 0
+}

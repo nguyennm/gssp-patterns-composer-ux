@@ -23,11 +23,15 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",
       "id": "633CAD87-5443-4E4D-B022-5825CC32555E"
+    },
+    {
+      "class": "text",
+      "id": "CC5FAC30-6CC6-493B-8228-527DE265DF10"
     },
     {
       "class": "symbolInstance",
@@ -40,10 +44,6 @@
     {
       "class": "symbolInstance",
       "id": "B0D6DDC1-7BAE-4BA4-B5ED-640ACD3ECAF4"
-    },
-    {
-      "class": "group",
-      "id": "7AAEB727-C1A4-49EC-A549-3E0B2993E519"
     }
   ],
   "name": "grp_designer-toolbar",

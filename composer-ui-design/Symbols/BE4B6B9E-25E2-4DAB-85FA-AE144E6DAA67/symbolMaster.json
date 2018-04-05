@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 4,
+  "changeIdentifier": 16,
   "do_objectID": "BE4B6B9E-25E2-4DAB-85FA-AE144E6DAA67",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 799,
     "width": 270,
-    "x": 7668,
-    "y": 1761
+    "x": 9744,
+    "y": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -49,8 +49,8 @@
       "id": "54E198C8-54F5-4513-AA84-863DF7ABEB05"
     }
   ],
-  "name": "Workflow Designer / side-nav-application",
-  "nameIsFixed": false,
+  "name": "Workflow Designer / SideNav / Application",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

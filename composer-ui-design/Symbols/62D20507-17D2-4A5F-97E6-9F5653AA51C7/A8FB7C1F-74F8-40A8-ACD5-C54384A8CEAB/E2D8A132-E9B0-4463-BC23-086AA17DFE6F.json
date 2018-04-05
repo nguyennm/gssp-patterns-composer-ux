@@ -24,17 +24,17 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Workflow Designer / toolbar-section-header Copy",
+  "name": "Workflow Designer / Toolbar / Header",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
       "overrideName": "9476A6EF-02E2-475A-B0B7-A0EB32B3F26F_stringValue",
-      "value": "Properties"
+      "value": "PROPERTIES"
     }
   ],
   "overrides": {
-    "9476A6EF-02E2-475A-B0B7-A0EB32B3F26F": "Properties"
+    "9476A6EF-02E2-475A-B0B7-A0EB32B3F26F": "PROPERTIES"
   },
   "resizingConstraint": 63,
   "resizingType": 0,

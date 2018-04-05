@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "25F4207A-D2D9-470F-96D4-D14358803C99",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EE5C72A9-6663-416B-B88C-20F3943FF06B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CD86CAAA-0373-4D2D-A131-2986F3DB9878",
+    "height": 19,
+    "width": 127,
+    "x": 8,
+    "y": 6
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Checkbox / Checked",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "279AC067-0805-4BF0-A008-0A7A6565917B",
+      "overrideName": "8FE6A5B5-0C06-4C52-B541-14F0673AFADB_stringValue",
+      "value": "Label"
+    }
+  ],
+  "overrides": {
+    "8FE6A5B5-0C06-4C52-B541-14F0673AFADB": "Label"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7EC97731-9396-4349-B6AF-71A9076CAE7C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "B398F3AB-D5B2-4D50-8358-98801DF15C76",
+  "verticalSpacing": 0
+}

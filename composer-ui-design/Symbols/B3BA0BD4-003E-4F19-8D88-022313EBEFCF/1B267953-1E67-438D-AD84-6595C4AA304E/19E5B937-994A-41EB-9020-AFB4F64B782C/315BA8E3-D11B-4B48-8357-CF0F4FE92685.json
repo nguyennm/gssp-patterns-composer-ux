@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "315BA8E3-D11B-4B48-8357-CF0F4FE92685",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "43A557A8-F981-4328-B919-6BDF360F1E46",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1C2F23D4-E946-49EE-B688-27582F3DE7E5",
+    "height": 24,
+    "width": 23,
+    "x": 3,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Icons / datepicker-component",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "25712A36-E4B6-4408-B52E-AE37E3849A8B",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "ADEA47EE-FED0-4950-841E-AC0A0D055963",
+  "verticalSpacing": 0
+}

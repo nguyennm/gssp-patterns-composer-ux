@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 244,
+  "changeIdentifier": 248,
   "do_objectID": "EC4926B4-48DA-45C6-A2EB-1A5D81894070",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 54,
     "width": 270,
-    "x": 7668,
-    "y": 3819
+    "x": 9744,
+    "y": 2957
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -49,8 +49,8 @@
       "id": "50180B2E-D173-41E9-B911-24F3761F2CD3"
     }
   ],
-  "name": "Workflow Designer / side-nav-item-active",
-  "nameIsFixed": false,
+  "name": "Workflow Designer / SideNav / Item Active",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

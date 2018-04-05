@@ -13,9 +13,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 117,
-    "width": 238,
-    "x": 15,
+    "height": 129,
+    "width": 222,
+    "x": 24,
     "y": 75
   },
   "hasClickThrough": false,
@@ -35,11 +35,19 @@
     },
     {
       "class": "group",
+      "id": "40AC098B-A4DC-474E-BC1B-1FA7650D865E"
+    },
+    {
+      "class": "group",
       "id": "5D5104F9-9DD8-4AE7-A2EB-390C79E879E9"
     },
     {
       "class": "group",
       "id": "C23CA76C-A3FD-4E1C-8633-C866939338F1"
+    },
+    {
+      "class": "group",
+      "id": "182674B8-B240-46C8-8D8E-AE1F2A460003"
     }
   ],
   "name": "grp_component-icons",

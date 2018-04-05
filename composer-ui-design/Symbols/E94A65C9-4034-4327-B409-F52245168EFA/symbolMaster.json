@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 176,
+  "changeIdentifier": 180,
   "do_objectID": "E94A65C9-4034-4327-B409-F52245168EFA",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 30,
     "width": 270,
-    "x": 7668,
-    "y": 2790
+    "x": 9744,
+    "y": 1928
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -42,15 +42,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
       "id": "1E78D25D-9DAA-466A-AF7C-3E9E2AF5AD0D"
     }
   ],
-  "name": "Workflow Designer / side-nav-header-no-add",
-  "nameIsFixed": false,
+  "name": "Workflow Designer / SideNav / Header Non-Actionable",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

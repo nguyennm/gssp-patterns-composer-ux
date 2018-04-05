@@ -1,0 +1,55 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "A64592DB-D541-45BF-A258-AE61CB2E0376",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C0B9F1FE-C171-4F3E-BA0F-DA2E928382EB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "05D17CB6-39E1-455D-AD19-FCF9B03DBE1F",
+    "height": 24,
+    "width": 24,
+    "x": 494,
+    "y": 34
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Icons/Action/ic_today",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "5822747A-F804-4435-B14A-97618A309626",
+      "opacity": 0.2956295289855073
+    },
+    "do_objectID": "8C0306B7-78C9-48DA-AB78-E9F873B678FD",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "69B89CA3-3399-4F8B-B76C-CCE6B46414AE",
+  "verticalSpacing": 0
+}

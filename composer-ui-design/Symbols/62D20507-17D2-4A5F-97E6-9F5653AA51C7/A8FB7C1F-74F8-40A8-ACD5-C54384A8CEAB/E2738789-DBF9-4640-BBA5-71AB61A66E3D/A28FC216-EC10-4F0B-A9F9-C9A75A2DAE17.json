@@ -30,11 +30,11 @@
     {
       "_class": "overrideValue",
       "overrideName": "6B6EF206-56E2-466D-9489-25C5CB64A344_stringValue",
-      "value": "client-lastname"
+      "value": "lastName"
     }
   ],
   "overrides": {
-    "6B6EF206-56E2-466D-9489-25C5CB64A344": "client-lastname"
+    "6B6EF206-56E2-466D-9489-25C5CB64A344": "lastName"
   },
   "resizingConstraint": 63,
   "resizingType": 0,

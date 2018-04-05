@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 26,
+  "changeIdentifier": 30,
   "do_objectID": "A8503080-FBDC-4DA3-A15C-A56CB7BBF0AA",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 31,
     "width": 536,
-    "x": 7668,
-    "y": 431
+    "x": 9008,
+    "y": 1036
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -49,8 +49,8 @@
       "id": "B342D3C5-8566-43FA-90A7-D1317B6F9FA0"
     }
   ],
-  "name": "Workflow Designer / drop-item-inactive",
-  "nameIsFixed": false,
+  "name": "Workflow Designer / Dropzone Inputs / drop-item-inactive",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

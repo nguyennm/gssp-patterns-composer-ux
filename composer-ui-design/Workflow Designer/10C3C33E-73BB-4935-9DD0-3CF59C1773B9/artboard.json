@@ -20,10 +20,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1024,
+    "height": 1440,
     "width": 1440,
-    "x": 1489,
-    "y": 8229
+    "x": 7649,
+    "y": 3813
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -53,23 +53,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "3E0666C1-2B88-4560-AC50-77AE31D91095"
+      "class": "group",
+      "id": "1BBDC057-B5B1-41EA-A189-5EF93A699722"
     },
     {
       "class": "group",
-      "id": "53CB0EF5-4D9D-488C-849E-88A3B101EFFC"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "955CDF49-C068-4B03-BE2B-7887038BE5DC"
-    },
-    {
-      "class": "text",
-      "id": "85E640D7-4D5D-4690-9E9A-7BD6590445AD"
+      "id": "395EB949-DD97-4A2B-9058-F88D8578A27D"
     },
     {
       "class": "symbolInstance",
@@ -86,6 +78,10 @@
     {
       "class": "symbolInstance",
       "id": "943676C7-F7A0-4063-B4BB-23FFAF3849EC"
+    },
+    {
+      "class": "group",
+      "id": "F2D180C0-0FCA-407B-8BD9-7A1EFA278ECD"
     }
   ],
   "layout": {

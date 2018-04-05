@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 16,
+  "changeIdentifier": 21,
   "do_objectID": "36859E25-929F-4D7C-9493-F95B8F681A9F",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 30,
     "width": 270,
-    "x": 7668,
-    "y": 6825
+    "x": 10214,
+    "y": 1798
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -42,15 +42,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
       "id": "FF51816F-3CDA-4A89-9EAE-C79FD2B89771"
     }
   ],
-  "name": "Workflow Designer / toolbar-section-header",
-  "nameIsFixed": false,
+  "name": "Workflow Designer / Toolbar / Header",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

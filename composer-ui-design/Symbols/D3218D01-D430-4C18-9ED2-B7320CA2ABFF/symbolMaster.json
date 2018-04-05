@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 27,
+  "changeIdentifier": 34,
   "do_objectID": "D3218D01-D430-4C18-9ED2-B7320CA2ABFF",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 30,
     "width": 270,
-    "x": 7668,
-    "y": 7215
+    "x": 10214,
+    "y": 2188
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -42,15 +42,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
       "id": "5EE03EB3-CDB6-4FB0-AE8B-A3EC923141DF"
     }
   ],
-  "name": "Workflow Designer / toolbar-tabs",
-  "nameIsFixed": false,
+  "name": "Workflow Designer / Toolbar / Tabs",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

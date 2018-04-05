@@ -1,0 +1,63 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "1E550571-9389-47AF-AB3C-9EEDEF28BA1E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A450EDAB-1D5B-459C-8B9C-478AAB83E45E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B15C2A31-8D49-44FB-BB7E-1F04F33BC4B6",
+    "height": 71,
+    "width": 536,
+    "x": 0,
+    "y": 486
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Workflow Designer / Dropzone Inputs / drop-item-inactive Copy 6",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "C4A7542A-177C-493D-894B-FD38E16D1431_symbolID",
+      "value": "5BC3B2AE-CE48-4796-B676-8147CB182309"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "D395022D-B212-4EA5-9B07-7B0BFB5567FC_stringValue",
+      "value": "Marital Status"
+    }
+  ],
+  "overrides": {
+    "C4A7542A-177C-493D-894B-FD38E16D1431": {
+      "symbolID": "5BC3B2AE-CE48-4796-B676-8147CB182309"
+    },
+    "D395022D-B212-4EA5-9B07-7B0BFB5567FC": "Marital Status"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5FFB6DCB-5C6E-4035-9CF3-72EAE6759E16",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "559A8E7D-A7EE-4396-8ECA-9D3E13443FFC",
+  "verticalSpacing": 0
+}

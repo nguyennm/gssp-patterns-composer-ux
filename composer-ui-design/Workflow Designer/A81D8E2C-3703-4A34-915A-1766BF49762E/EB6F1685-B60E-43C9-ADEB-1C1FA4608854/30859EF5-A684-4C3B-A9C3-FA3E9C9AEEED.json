@@ -1,0 +1,55 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "30859EF5-A684-4C3B-A9C3-FA3E9C9AEEED",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8BDD230C-C2D9-4185-A97C-FBBD7BE90BE9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4F19EE86-5186-4453-AEB5-6F7DB3634B6C",
+    "height": 53.93654524089307,
+    "width": 270,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "SideNav / nav-item-active",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "D56F6824-E8DF-46CD-9F2F-2D84E0DA7A57_stringValue",
+      "value": "Basic Settings"
+    }
+  ],
+  "overrides": {
+    "D56F6824-E8DF-46CD-9F2F-2D84E0DA7A57": "Basic Settings"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0B4F3B20-7D5E-4448-9D11-A44A72956AAF",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "F8E156BE-BEAB-4FBA-9DB5-7E3BEAF9E854",
+  "verticalSpacing": 0
+}

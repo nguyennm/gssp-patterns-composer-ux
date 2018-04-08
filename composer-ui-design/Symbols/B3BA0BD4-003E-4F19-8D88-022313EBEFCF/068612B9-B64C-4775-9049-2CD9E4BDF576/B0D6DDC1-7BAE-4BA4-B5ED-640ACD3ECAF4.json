@@ -31,11 +31,11 @@
       "_class": "overrideValue",
       "do_objectID": "D64F74B9-1F20-409F-9D03-B29F1B93D07A",
       "overrideName": "9476A6EF-02E2-475A-B0B7-A0EB32B3F26F_stringValue",
-      "value": "PROPERTIES"
+      "value": "TEMPLATES"
     }
   ],
   "overrides": {
-    "9476A6EF-02E2-475A-B0B7-A0EB32B3F26F": "PROPERTIES"
+    "9476A6EF-02E2-475A-B0B7-A0EB32B3F26F": "TEMPLATES"
   },
   "resizingConstraint": 63,
   "resizingType": 0,

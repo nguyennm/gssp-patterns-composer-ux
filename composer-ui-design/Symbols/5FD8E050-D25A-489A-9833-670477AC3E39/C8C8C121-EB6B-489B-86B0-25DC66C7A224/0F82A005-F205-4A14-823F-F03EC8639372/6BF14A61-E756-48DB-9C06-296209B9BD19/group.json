@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "6BF14A61-E756-48DB-9C06-296209B9BD19",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 45,
+    "width": 50,
+    "x": 90,
+    "y": 1
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "4272E3BE-8696-481D-9BD9-5666DDED03D9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "92137716-8B5D-423D-8C30-C608D1000FF2"
+    }
+  ],
+  "name": "grp_designer-textbox-component-icon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

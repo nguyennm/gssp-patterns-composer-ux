@@ -13,7 +13,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 799,
+    "height": 1215,
     "width": 270,
     "x": 0,
     "y": 0
@@ -86,8 +86,8 @@
       "id": "4CF50CA5-4443-45D5-8386-F6EAE27C8971"
     },
     {
-      "class": "group",
-      "id": "AFAC6A0D-48E5-4739-8238-440B1B93473A"
+      "class": "symbolInstance",
+      "id": "71D069ED-1BC3-4067-99C9-D46E21C483F4"
     }
   ],
   "name": "grp_designer-side-nav",

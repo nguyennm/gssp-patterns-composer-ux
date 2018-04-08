@@ -13,7 +13,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 799,
+    "height": 1215,
     "width": 270,
     "x": 0,
     "y": 0
@@ -35,7 +35,19 @@
     },
     {
       "class": "symbolInstance",
-      "id": "C0D6A15A-999A-4CEB-B781-2FB470868CCD"
+      "id": "F4884E60-507E-4847-BDB7-3E92C29E953D"
+    },
+    {
+      "class": "group",
+      "id": "FB1AC631-1AF8-431C-9566-FF0448FC9AAA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B0D6DDC1-7BAE-4BA4-B5ED-640ACD3ECAF4"
+    },
+    {
+      "class": "group",
+      "id": "1B267953-1E67-438D-AD84-6595C4AA304E"
     },
     {
       "class": "symbolInstance",
@@ -43,7 +55,7 @@
     },
     {
       "class": "symbolInstance",
-      "id": "B0D6DDC1-7BAE-4BA4-B5ED-640ACD3ECAF4"
+      "id": "C0D6A15A-999A-4CEB-B781-2FB470868CCD"
     }
   ],
   "name": "grp_designer-toolbar",

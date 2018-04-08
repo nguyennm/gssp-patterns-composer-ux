@@ -13,7 +13,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 799,
+    "height": 1215,
     "width": 270,
     "x": 150,
     "y": 225
@@ -24,7 +24,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Workflow Designer / SideNav / Illustration",
+  "name": "Workflow Designer / SideNav / Illustration (Complete)",
   "nameIsFixed": false,
   "overrideValues": [
   ],

@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 29,
+  "changeIdentifier": 32,
   "do_objectID": "6BCD8E0F-94DF-437C-ADC6-B7B8E82C5436",
   "exportOptions": {
     "_class": "exportOptions",
@@ -33,7 +33,7 @@
     "height": 16,
     "width": 12,
     "x": 1722,
-    "y": 0
+    "y": 1605
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -58,8 +58,8 @@
       "id": "17C1C60D-A4B9-479E-8D12-95193DE5048A"
     }
   ],
-  "name": "icons/sort",
-  "nameIsFixed": false,
+  "name": "Icons / sort-double-arrow",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

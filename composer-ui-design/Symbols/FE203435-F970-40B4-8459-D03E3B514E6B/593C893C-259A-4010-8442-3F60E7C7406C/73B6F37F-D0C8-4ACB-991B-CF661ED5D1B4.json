@@ -30,11 +30,11 @@
     {
       "_class": "overrideValue",
       "overrideName": "CA17BCA0-B0DC-4EB7-A363-29D6FB2663CA_stringValue",
-      "value": "Insured Information"
+      "value": "Product Information"
     }
   ],
   "overrides": {
-    "CA17BCA0-B0DC-4EB7-A363-29D6FB2663CA": "Insured Information"
+    "CA17BCA0-B0DC-4EB7-A363-29D6FB2663CA": "Product Information"
   },
   "resizingConstraint": 63,
   "resizingType": 0,

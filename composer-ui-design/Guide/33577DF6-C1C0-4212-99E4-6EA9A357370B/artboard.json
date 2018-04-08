@@ -46,7 +46,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "text",
@@ -69,6 +69,10 @@
       "id": "1F80804B-E5C5-48F5-AA07-592E7A7E9134"
     },
     {
+      "class": "text",
+      "id": "10376315-BE87-480A-BF8E-C471202A1AFA"
+    },
+    {
       "class": "symbolInstance",
       "id": "4BBF1C5F-F70C-4229-8927-0BCD5C22F7D3"
     },
@@ -87,6 +91,46 @@
     {
       "class": "symbolInstance",
       "id": "59B6F581-88B2-4DDF-A8DA-A4D46AEEA2A9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "484EF4B9-9E6C-42F5-9B66-E5CA4D638597"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "64593534-7305-4679-99C3-A88F15BB6B28"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "018A22F7-6C23-462D-B59E-8F625BEB2B98"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "65048116-655F-42A1-B2D2-98F9848B5603"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "38F30A64-2949-471C-AD83-878ED8997088"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "76271C6C-52F6-42A5-85CC-ECC39775BFAD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D0D3AF30-E972-4B68-AA81-39A86697D633"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2B93153B-06F4-4858-86B5-6CEDFA04A675"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6F2CFEBD-BBE4-4E9B-B3DA-CDFD0A36E98A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F107BB2E-E313-4B87-82E0-0625FC324B9A"
     }
   ],
   "name": "Icons - Custom",

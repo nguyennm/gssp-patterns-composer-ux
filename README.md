@@ -1,1 +1,0 @@
-# gssp-patterns-composer-ux

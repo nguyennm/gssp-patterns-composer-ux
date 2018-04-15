@@ -22,7 +22,7 @@
     "constrainProportions": false,
     "height": 1440,
     "width": 2040,
-    "x": 1377,
+    "x": -128,
     "y": -552
   },
   "grid": {
@@ -46,7 +46,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "text",

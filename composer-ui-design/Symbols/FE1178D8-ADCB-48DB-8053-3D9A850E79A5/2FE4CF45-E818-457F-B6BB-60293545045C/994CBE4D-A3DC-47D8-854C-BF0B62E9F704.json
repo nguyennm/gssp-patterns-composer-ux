@@ -15,10 +15,10 @@
     "_class": "rect",
     "constrainProportions": true,
     "do_objectID": "F92620E5-ADA9-4465-BAA0-FFACBB7B5830",
-    "height": 100,
-    "width": 108.3333333333333,
-    "x": 189,
-    "y": 28
+    "height": 96,
+    "width": 96,
+    "x": 195,
+    "y": 30
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -50,6 +50,6 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "0402A282-414A-4A30-8F92-DC0E4B67626A",
+  "symbolID": "ECFA9507-D51D-44A1-A20A-2C13CAB18A24",
   "verticalSpacing": 0
 }

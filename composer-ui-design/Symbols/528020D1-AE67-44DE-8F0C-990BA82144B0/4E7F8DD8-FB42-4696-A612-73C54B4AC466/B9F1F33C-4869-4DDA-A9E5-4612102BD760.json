@@ -41,12 +41,12 @@
     {
       "_class": "overrideValue",
       "overrideName": "67830810-BDCB-4DE8-84B2-CAFC6B8AAF65_stringValue",
-      "value": "Quoting & Illustration"
+      "value": "Product Definition"
     }
   ],
   "overrides": {
     "16482CD0-DDDA-42D0-B351-4C321DC54B87": "Client Configuration",
-    "67830810-BDCB-4DE8-84B2-CAFC6B8AAF65": "Quoting & Illustration"
+    "67830810-BDCB-4DE8-84B2-CAFC6B8AAF65": "Product Definition"
   },
   "resizingConstraint": 63,
   "resizingType": 0,

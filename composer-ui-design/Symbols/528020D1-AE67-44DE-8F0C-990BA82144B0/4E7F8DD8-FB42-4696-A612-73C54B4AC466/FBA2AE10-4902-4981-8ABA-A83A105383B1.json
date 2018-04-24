@@ -13,15 +13,15 @@
   "flow": {
     "_class": "MSImmutableFlowConnection",
     "animationType": -1,
-    "destinationArtboardID": "A81D8E2C-3703-4A34-915A-1766BF49762E",
-    "do_objectID": "684A7669-B4D6-4818-B117-54B76910199F"
+    "destinationArtboardID": "A68A8BA6-1C79-4732-844A-C7261179F6A7",
+    "do_objectID": "0F0C5313-919C-495D-9853-868F3464EEC7"
   },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
     "height": 50,
     "width": 200,
-    "x": 400,
+    "x": 200,
     "y": 0
   },
   "horizontalSpacing": 0,

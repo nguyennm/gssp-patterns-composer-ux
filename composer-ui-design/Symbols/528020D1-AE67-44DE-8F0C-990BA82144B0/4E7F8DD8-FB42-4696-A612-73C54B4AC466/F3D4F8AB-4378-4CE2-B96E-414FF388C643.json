@@ -28,7 +28,7 @@
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
-  "isVisible": true,
+  "isVisible": false,
   "layerListExpandedType": 0,
   "name": "Navigation / tab-inactive",
   "nameIsFixed": false,
@@ -36,11 +36,11 @@
     {
       "_class": "overrideValue",
       "overrideName": "16482CD0-DDDA-42D0-B351-4C321DC54B87_stringValue",
-      "value": "Application"
+      "value": "Forms"
     }
   ],
   "overrides": {
-    "16482CD0-DDDA-42D0-B351-4C321DC54B87": "Application"
+    "16482CD0-DDDA-42D0-B351-4C321DC54B87": "Forms"
   },
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -1,0 +1,63 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "DBFC0DE5-5E3A-4A34-A811-C97224F09F2A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "195DDCEE-C272-4828-AF3E-52238B52DD73",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B877A821-C26B-4913-9A8B-E2A361EB9091",
+    "height": 53,
+    "width": 830,
+    "x": 2,
+    "y": 82
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Statics / rider-row",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7A65E0B1-867E-42BC-8161-452435E9BEF5",
+      "overrideName": "CCD4346A-311D-4EE2-A939-AD730111FDF6_stringValue",
+      "value": "Accident Medical Reimbursement (AMR)"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6DC054EB-6319-4C88-A78E-1590CDDC9B1E",
+      "overrideName": "718B1709-C62B-4A54-AA31-F634A09B7173_stringValue",
+      "value": "Applies to: Circle 3"
+    }
+  ],
+  "overrides": {
+    "718B1709-C62B-4A54-AA31-F634A09B7173": "Applies to: Circle 3",
+    "CCD4346A-311D-4EE2-A939-AD730111FDF6": "Accident Medical Reimbursement (AMR)"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F59FFF19-E192-46F1-8566-D62EC50851B9",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "DE1C95F8-268B-4747-89A7-EBE848EC8C26",
+  "verticalSpacing": 0
+}

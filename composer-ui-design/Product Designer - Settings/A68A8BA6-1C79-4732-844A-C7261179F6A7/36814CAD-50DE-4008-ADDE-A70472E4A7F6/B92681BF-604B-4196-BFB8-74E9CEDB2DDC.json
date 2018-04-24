@@ -1,0 +1,63 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "B92681BF-604B-4196-BFB8-74E9CEDB2DDC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "334B906F-A9BC-4C40-81A0-6E4A7FD7BCF3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CD79D5A1-2AD1-4A62-97D7-4115FB8F4FDE",
+    "height": 53,
+    "width": 830,
+    "x": 2,
+    "y": 136
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Statics / rider-row",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "71ADE6FC-FAB1-4D27-B612-789A7AA94AB0",
+      "overrideName": "CCD4346A-311D-4EE2-A939-AD730111FDF6_stringValue",
+      "value": "War Risk for AD, PPD, PTD (WRB)"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0F783AD4-E8EE-4D89-BEC7-76B583AD8D23",
+      "overrideName": "718B1709-C62B-4A54-AA31-F634A09B7173_stringValue",
+      "value": "Applies to: Circle 1, Circle 2, Circle 3, Circle 4"
+    }
+  ],
+  "overrides": {
+    "718B1709-C62B-4A54-AA31-F634A09B7173": "Applies to: Circle 1, Circle 2, Circle 3, Circle 4",
+    "CCD4346A-311D-4EE2-A939-AD730111FDF6": "War Risk for AD, PPD, PTD (WRB)"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A7A24558-9207-420D-9BFE-FDC997614E5E",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "DE1C95F8-268B-4747-89A7-EBE848EC8C26",
+  "verticalSpacing": 0
+}

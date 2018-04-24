@@ -21,7 +21,7 @@
     "constrainProportions": false,
     "height": 50,
     "width": 200,
-    "x": 399.9999999999999,
+    "x": 199.9999999999999,
     "y": 0
   },
   "horizontalSpacing": 0,
@@ -36,11 +36,11 @@
     {
       "_class": "overrideValue",
       "overrideName": "16482CD0-DDDA-42D0-B351-4C321DC54B87_stringValue",
-      "value": "Product Definition"
+      "value": "Products"
     }
   ],
   "overrides": {
-    "16482CD0-DDDA-42D0-B351-4C321DC54B87": "Product Definition"
+    "16482CD0-DDDA-42D0-B351-4C321DC54B87": "Products"
   },
   "resizingConstraint": 63,
   "resizingType": 0,

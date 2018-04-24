@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "D69D4AD8-F41D-4D6D-ABFE-C173359783C5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5644CFF1-91E8-4912-B007-C03220FC900B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9187A199-56AA-4CCC-9DA3-44EC6496E840",
+    "height": 265,
+    "width": 486,
+    "x": 477,
+    "y": 267
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Workflow Designer / empty-dropzone",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "88186A82-8164-42FD-8809-F7ED50281E37",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "E55A90C9-F745-465A-9F2F-71B03512DA0A",
+  "verticalSpacing": 0
+}

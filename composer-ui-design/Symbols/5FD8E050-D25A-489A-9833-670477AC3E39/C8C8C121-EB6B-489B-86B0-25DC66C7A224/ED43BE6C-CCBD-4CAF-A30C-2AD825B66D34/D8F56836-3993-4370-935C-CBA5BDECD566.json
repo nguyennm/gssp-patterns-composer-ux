@@ -1,0 +1,55 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "D8F56836-3993-4370-935C-CBA5BDECD566",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "041A4D97-C756-42D2-A4A0-CBF737384253",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5B33042D-84BB-4CF0-BADC-C1C8CEAA81F2",
+    "height": 36,
+    "width": 250,
+    "x": 0,
+    "y": 21
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Input / Text",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "6B6EF206-56E2-466D-9489-25C5CB64A344_stringValue",
+      "value": "Label of selected item"
+    }
+  ],
+  "overrides": {
+    "6B6EF206-56E2-466D-9489-25C5CB64A344": "Label of selected item"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "10EE6646-F2C0-4D09-A069-DB533E344055",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "9F7A31B5-C35D-437B-ACBE-C677D8C84828",
+  "verticalSpacing": 0
+}

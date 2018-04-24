@@ -39,11 +39,11 @@
       "_class": "overrideValue",
       "do_objectID": "B2EC5137-4DEE-4688-9EFC-ACC316EDF2A1",
       "overrideName": "7B0121C7-90B9-42DB-BB0D-D4453B9F3C90_stringValue",
-      "value": "Client Information"
+      "value": "-Select-"
     }
   ],
   "overrides": {
-    "7B0121C7-90B9-42DB-BB0D-D4453B9F3C90": "Client Information"
+    "7B0121C7-90B9-42DB-BB0D-D4453B9F3C90": "-Select-"
   },
   "resizingConstraint": 63,
   "resizingType": 0,

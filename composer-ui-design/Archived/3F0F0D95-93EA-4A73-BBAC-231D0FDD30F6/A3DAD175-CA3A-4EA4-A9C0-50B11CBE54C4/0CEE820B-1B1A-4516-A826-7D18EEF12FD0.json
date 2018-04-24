@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "0CEE820B-1B1A-4516-A826-7D18EEF12FD0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "34450A2E-ED40-4D1A-B1D9-45AD010A6271",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "1FEB1B1E-95AE-4D3B-9748-7FFCD0CC0EEC",
+    "do_objectID": "BF1E611D-5BCC-456F-982F-45ED8A0213F5"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DC5520DD-7474-4F61-87FC-2C62CAFB13D4",
+    "height": 40,
+    "width": 157,
+    "x": 169,
+    "y": 188
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Buttons / Primary",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "29CC78FB-19C9-4659-8881-1D333B2D1100",
+      "overrideName": "CD6C78BC-230F-41C2-8041-829ECCA73478_stringValue",
+      "value": "ADD SECTION"
+    }
+  ],
+  "overrides": {
+    "CD6C78BC-230F-41C2-8041-829ECCA73478": "ADD SECTION"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E7CC1F27-2F8D-44FF-B1F8-BF8E8B43B9A8",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "E35F300E-3B3D-4B03-A154-1BF2FDC00282",
+  "verticalSpacing": 0
+}

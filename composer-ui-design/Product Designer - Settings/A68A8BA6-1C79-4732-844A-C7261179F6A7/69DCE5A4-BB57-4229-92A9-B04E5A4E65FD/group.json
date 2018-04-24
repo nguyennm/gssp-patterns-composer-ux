@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "do_objectID": "69DCE5A4-BB57-4229-92A9-B04E5A4E65FD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CA77C24E-6A98-4098-A402-C21FD4067D9B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E4C495B6-D71A-445F-AF83-78636DFB6CD7",
+    "height": 1215,
+    "width": 270,
+    "x": 150,
+    "y": 225
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "15FE998C-7ABC-4C1B-BE6C-C9D6816F4765"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CE14AC22-E6FF-4706-99CD-5C0CFA9FAABC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B73611C9-084E-4446-BC27-1DA45EA277B7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BF5A66E0-0DBB-43E0-8BC2-79178D763BAD"
+    }
+  ],
+  "name": "SideNav / tenant-overview",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8A98B084-3A25-4641-A827-E88DD583E621",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

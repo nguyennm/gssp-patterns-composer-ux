@@ -1,0 +1,109 @@
+{
+  "_class": "group",
+  "do_objectID": "CDCA1CFC-36A3-421A-87D6-4D7E8C8AFA24",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1215,
+    "width": 270,
+    "x": 150,
+    "y": 225
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "DAF05305-35D4-4DD1-806F-76506BC22F96"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0C791A63-6755-40DC-8D80-94BF62AE909C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8F659DC4-D0F5-4879-9DCE-D6F677223928"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B54ABA05-AB78-4928-83FB-33C48B4CEB19"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0DCD7D4B-DF64-4B59-BD85-19C055710C75"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "892B8F0F-3B38-486E-AC0E-1784EA18451D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9F6D413F-5726-4109-B4C8-88147403732C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E71B5126-B22A-43DC-992E-6BDE7A7CB5CA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "018BCB56-5F68-4C04-AFA5-8459DC453F49"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9E741167-6549-43C5-B126-453BAF2776F8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2FE0E105-7409-4870-98C8-8312DF20F319"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5F1F9CD9-3986-4917-B1E3-C7B7E8A59143"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6221794D-C88E-430E-AD1B-A845536BA9E3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2559BD5E-5A0D-4F38-8250-BCF573E01721"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "310B9516-FCEE-4A4E-93EB-5831C497037B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "93C6A163-DA9A-4A80-810C-8524AFB7D788"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C9101762-A5E0-4AA2-BDAD-3C3244254B5E"
+    }
+  ],
+  "name": "grp_designer-side-nav",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "B657AB91-5E80-4204-99AE-110A3D99235A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "599C0F17-1F95-4D5B-B6FC-CEBD71E82FA7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "536BE4BD-003F-42BF-9D1F-8C197DD3C4CC",
+    "height": 50,
+    "width": 1140,
+    "x": 150,
+    "y": 173
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Workflow Designer / flow-nav-products",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5921AC50-46DB-4BBD-895B-DBCA26F33838",
+      "overrideName": "B9F1F33C-4869-4DDA-A9E5-4612102BD760_symbolID",
+      "value": "63B00F7A-CD88-451B-9E53-96A331288FEF"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7642C53C-F8F3-4BA7-80E1-A99B4897F55B",
+      "overrideName": "F3D4F8AB-4378-4CE2-B96E-414FF388C643_symbolID",
+      "value": "EAA0942A-9D0C-4F96-BFBB-622FD4D20B64"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D16BCE5F-5E5C-4C87-BB18-54E759883B7D",
+      "overrideName": "F3D4F8AB-4378-4CE2-B96E-414FF388C643/67830810-BDCB-4DE8-84B2-CAFC6B8AAF65_stringValue",
+      "value": "Forms"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E688F018-DED4-482F-BC42-85AAB374DFA0",
+      "overrideName": "B9F1F33C-4869-4DDA-A9E5-4612102BD760/16482CD0-DDDA-42D0-B351-4C321DC54B87_stringValue",
+      "value": "Product Definition"
+    }
+  ],
+  "overrides": {
+    "B9F1F33C-4869-4DDA-A9E5-4612102BD760": {
+      "16482CD0-DDDA-42D0-B351-4C321DC54B87": "Product Definition",
+      "symbolID": "63B00F7A-CD88-451B-9E53-96A331288FEF"
+    },
+    "F3D4F8AB-4378-4CE2-B96E-414FF388C643": {
+      "67830810-BDCB-4DE8-84B2-CAFC6B8AAF65": "Forms",
+      "symbolID": "EAA0942A-9D0C-4F96-BFBB-622FD4D20B64"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DB612276-C194-44D1-BB9F-C5FEE1256792",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "53D5D80A-6F3B-4CA1-8B20-9E4A7C7FF1C2",
+  "verticalSpacing": 0
+}

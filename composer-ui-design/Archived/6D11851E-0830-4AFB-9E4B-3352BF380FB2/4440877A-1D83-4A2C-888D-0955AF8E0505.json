@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "4440877A-1D83-4A2C-888D-0955AF8E0505",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C97490E2-3D62-42AF-9338-A65DD79A8A23",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "298A4DB1-EF62-4F74-9079-0C18D862F2BC",
+    "height": 50,
+    "width": 1140,
+    "x": 150,
+    "y": 123
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Workflow Designer / document-nav",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AD2A4763-8D7D-4D0B-9F77-9C6FB7E72841",
+      "overrideName": "74598616-E8A8-4F91-B27D-25162EFB1979/7B0121C7-90B9-42DB-BB0D-D4453B9F3C90_stringValue",
+      "value": "Circles of Protection"
+    }
+  ],
+  "overrides": {
+    "74598616-E8A8-4F91-B27D-25162EFB1979": {
+      "7B0121C7-90B9-42DB-BB0D-D4453B9F3C90": "Circles of Protection"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D68B0BF1-65A4-4241-8C7F-0CB97C584FB2",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "F4EA078B-B3DB-48B9-AE2B-F3C8D295B06E",
+  "verticalSpacing": 0
+}

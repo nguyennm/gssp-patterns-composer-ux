@@ -1,0 +1,105 @@
+{
+  "_class": "group",
+  "do_objectID": "111AAEF5-919A-42B0-80B0-69F7A3A5553D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 2375,
+    "width": 950,
+    "x": 245,
+    "y": 182
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "FA36E528-5662-4D6D-9683-C79E7190CA3A"
+    },
+    {
+      "class": "text",
+      "id": "81F3145D-35F2-4691-967F-18656C9B18D4"
+    },
+    {
+      "class": "group",
+      "id": "B26C5B5E-6B55-4F63-8055-A0A7C7873575"
+    },
+    {
+      "class": "text",
+      "id": "95E1874E-927C-4951-9487-25464E7C9A5A"
+    },
+    {
+      "class": "group",
+      "id": "B079AB68-1467-4324-A78D-019BF2DD6109"
+    },
+    {
+      "class": "group",
+      "id": "80543732-51D6-4A89-925D-DF17513214AB"
+    },
+    {
+      "class": "group",
+      "id": "61EEFDDE-CBC0-404D-BA2D-657F636014E1"
+    },
+    {
+      "class": "group",
+      "id": "27075A38-61E0-49CB-9F99-656CEB6B1E20"
+    },
+    {
+      "class": "group",
+      "id": "4A2FBB54-A6AF-4EC9-AC49-280D99E8C3F6"
+    },
+    {
+      "class": "group",
+      "id": "81644668-2AAC-468A-BAF6-CCA8867A5535"
+    },
+    {
+      "class": "group",
+      "id": "407B43C3-ED16-439C-A7BE-7C284DC6E412"
+    },
+    {
+      "class": "group",
+      "id": "5C2A6F89-CFA8-48AF-BCF6-B8AE30969D27"
+    },
+    {
+      "class": "group",
+      "id": "13967370-DC82-4E69-B01B-94F22FD5D3A3"
+    },
+    {
+      "class": "group",
+      "id": "60B41D6A-D195-4B95-9879-21CF451CAFF5"
+    },
+    {
+      "class": "group",
+      "id": "C8D8E1BB-0251-4D96-B4C7-FA2C816F8390"
+    },
+    {
+      "class": "group",
+      "id": "EB2CF57F-4221-4938-A57F-D3915EB54805"
+    }
+  ],
+  "name": "grp_dialog",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

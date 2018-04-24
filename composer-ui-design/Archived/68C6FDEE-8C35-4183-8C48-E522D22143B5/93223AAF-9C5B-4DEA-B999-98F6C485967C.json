@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "93223AAF-9C5B-4DEA-B999-98F6C485967C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "636A76A7-0533-47BA-BCC9-A9D94454E125",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2F8FCF2E-9F51-45AD-A678-E36909D99E2F",
+    "height": 50,
+    "width": 1140,
+    "x": 150,
+    "y": 173
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Workflow Designer / flow-nav-client-info",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F6A0F35C-148E-43F8-ACDF-6DD3299D5166",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "6715AA90-F562-4989-AB94-431EDF357FD2",
+  "verticalSpacing": 0
+}

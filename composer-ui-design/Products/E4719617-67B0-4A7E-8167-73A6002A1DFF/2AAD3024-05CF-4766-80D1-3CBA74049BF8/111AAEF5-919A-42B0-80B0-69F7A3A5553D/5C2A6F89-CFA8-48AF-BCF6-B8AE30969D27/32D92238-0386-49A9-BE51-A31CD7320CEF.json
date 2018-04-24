@@ -1,0 +1,60 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "32D92238-0386-49A9-BE51-A31CD7320CEF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 53,
+    "width": 830,
+    "x": 2,
+    "y": 80
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Statics / coverage-row",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A1FDE4D6-16AC-4429-B491-CAB474F292C3",
+      "overrideName": "B1D2C8AB-C131-43C1-91DB-7FF881E28503_stringValue",
+      "value": "Circle 2"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "33BF8A6E-60DF-4626-8422-0B5EBC9B7EE8",
+      "overrideName": "E32E595C-D1D2-4C40-8F73-282CAFBA888F_stringValue",
+      "value": "This is another description for Circle 2 coverage."
+    }
+  ],
+  "overrides": {
+    "B1D2C8AB-C131-43C1-91DB-7FF881E28503": "Circle 2",
+    "E32E595C-D1D2-4C40-8F73-282CAFBA888F": "This is another description for Circle 2 coverage."
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "C72F39EE-E9B9-4B4F-BF92-06F0C5EF131C",
+  "verticalSpacing": 0
+}

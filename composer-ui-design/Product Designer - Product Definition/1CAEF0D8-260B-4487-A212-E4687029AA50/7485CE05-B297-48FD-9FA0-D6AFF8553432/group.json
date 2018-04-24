@@ -1,0 +1,105 @@
+{
+  "_class": "group",
+  "do_objectID": "7485CE05-B297-48FD-9FA0-D6AFF8553432",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1165,
+    "width": 536,
+    "x": 452,
+    "y": 255
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "A2491D49-724D-46F1-8F41-170DB6D09DD6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "58F139BB-570C-458C-A7A6-B8C6841EA65E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "883FF0AD-FBFF-4937-909E-E5C95F978EE9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "96B21B8B-7CA4-421D-8028-766E1198D5F9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C9C6EB77-2E50-4DAA-B68A-A71EB598F455"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5EB3DE93-6E95-4F18-AFE8-F524FD37110A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B1D0AC3D-78BD-439A-8D87-B48621042D70"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E41F0D00-5963-48E8-82B1-85930C12B1B8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F3ACB316-4633-463D-8ADD-8D2FCF8DD6D0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B1A01958-CE77-48C8-8DC8-25B74A9FC68A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DDE1D1D9-D9B9-4527-BBAB-C7A5B3E3B0C4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5D90F075-F39D-4314-883E-710DAC6785CB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "92E53D2A-37ED-4E8D-9971-98023570E7E8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A10BD90E-2502-463B-9B33-B21BA3F8FA6F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "74ED0D71-DACA-4F8E-85F9-CFF56C43E0F8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F8C46FA5-0074-402B-83AC-CED8F1EA9FF0"
+    }
+  ],
+  "name": "grp_dropped_fields",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

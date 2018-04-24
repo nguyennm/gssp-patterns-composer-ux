@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "44745633-D26F-4FBC-B60F-EF4CD3EC5AD4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "30647EC1-3A5D-4E63-84A4-E2596DEC81F4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4BA61855-9498-4D4B-8633-1E3C4A5D9F0E",
+    "height": 31,
+    "width": 536,
+    "x": 0,
+    "y": 729
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Workflow Designer / Dropzone Inputs / label (normal)",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9C68904A-9992-40D4-8C76-D2D48289A6B2",
+      "overrideName": "EEDA47B9-2EDA-443A-B6F1-0420AEA638E4_symbolID",
+      "value": "4AD30566-D36B-4234-A6F0-4A6FC8C70912"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "88BA145E-E201-4C7E-9E33-78F9F25BBEB9",
+      "overrideName": "66A909D3-C8C6-4F0D-9DF6-E5134E65AA0A_stringValue",
+      "value": "Address"
+    }
+  ],
+  "overrides": {
+    "66A909D3-C8C6-4F0D-9DF6-E5134E65AA0A": "Address",
+    "EEDA47B9-2EDA-443A-B6F1-0420AEA638E4": {
+      "symbolID": "4AD30566-D36B-4234-A6F0-4A6FC8C70912"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7038F73E-CE65-426B-85C1-4B7DC36A5EBD",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "398A46D5-310F-4837-981B-EDDA6B4BE173",
+  "verticalSpacing": 0
+}

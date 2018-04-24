@@ -1,0 +1,73 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "018DC815-DE32-4BA2-A0B9-25C0C2025A06",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C74A429E-852A-40D2-97E3-D15A8B5BF352",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A14CCC94-0776-452C-AED7-FA99C0928E13",
+    "height": 1215,
+    "width": 270,
+    "x": 150,
+    "y": 225
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Workflow Designer / SideNav / Generic",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "1F4A8101-CF19-49D6-8963-D7A483898ED2/5E2F3239-73D1-4751-B70B-78A6DFB7945E_stringValue",
+      "value": "Personal Information"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "1049529F-4BF1-41FD-A212-079736C53188/CA17BCA0-B0DC-4EB7-A363-29D6FB2663CA_stringValue",
+      "value": "Financial Information"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C3FA1EAB-3D21-4FE2-B130-BB9468A7C763/CA17BCA0-B0DC-4EB7-A363-29D6FB2663CA_stringValue",
+      "value": "Residential Information"
+    }
+  ],
+  "overrides": {
+    "1049529F-4BF1-41FD-A212-079736C53188": {
+      "CA17BCA0-B0DC-4EB7-A363-29D6FB2663CA": "Financial Information"
+    },
+    "1F4A8101-CF19-49D6-8963-D7A483898ED2": {
+      "5E2F3239-73D1-4751-B70B-78A6DFB7945E": "Personal Information"
+    },
+    "C3FA1EAB-3D21-4FE2-B130-BB9468A7C763": {
+      "CA17BCA0-B0DC-4EB7-A363-29D6FB2663CA": "Residential Information"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2596F96C-9519-4A43-9A0F-69FF2EBF1F93",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "D8306B33-B3D6-43A3-8049-58449111BD7C",
+  "verticalSpacing": 0
+}

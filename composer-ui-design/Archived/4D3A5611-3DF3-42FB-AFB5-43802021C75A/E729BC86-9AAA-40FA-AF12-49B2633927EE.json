@@ -1,0 +1,81 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "E729BC86-9AAA-40FA-AF12-49B2633927EE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BDA0E3AD-C776-4CD5-B00C-999F7B0CFF90",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "74CCC853-D8EF-491C-8327-202F3B34B793",
+    "height": 50,
+    "width": 1140,
+    "x": 150,
+    "y": 173
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Workflow Designer / flow-nav-client-info",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FC01DF26-2AF2-42AA-8979-945E364918DC",
+      "overrideName": "58C15597-0400-4209-BD01-B196252913EE_symbolID",
+      "value": "EAA0942A-9D0C-4F96-BFBB-622FD4D20B64"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AD7A252F-7488-44D6-B6B9-48613444E9AA",
+      "overrideName": "5A77F651-F776-4FD9-8513-07A47C5FCAE9_symbolID",
+      "value": "63B00F7A-CD88-451B-9E53-96A331288FEF"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0A6DCC2D-88BA-4807-B446-DD43C41AA69B",
+      "overrideName": "5A77F651-F776-4FD9-8513-07A47C5FCAE9/16482CD0-DDDA-42D0-B351-4C321DC54B87_stringValue",
+      "value": "Prospect Management"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F8739B84-7C36-485B-8CF3-E3515972A85F",
+      "overrideName": "58C15597-0400-4209-BD01-B196252913EE/67830810-BDCB-4DE8-84B2-CAFC6B8AAF65_stringValue",
+      "value": "Settings"
+    }
+  ],
+  "overrides": {
+    "58C15597-0400-4209-BD01-B196252913EE": {
+      "67830810-BDCB-4DE8-84B2-CAFC6B8AAF65": "Settings",
+      "symbolID": "EAA0942A-9D0C-4F96-BFBB-622FD4D20B64"
+    },
+    "5A77F651-F776-4FD9-8513-07A47C5FCAE9": {
+      "16482CD0-DDDA-42D0-B351-4C321DC54B87": "Prospect Management",
+      "symbolID": "63B00F7A-CD88-451B-9E53-96A331288FEF"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2DBDB142-3A78-4EAA-B05F-5B11515D13AD",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "6715AA90-F562-4989-AB94-431EDF357FD2",
+  "verticalSpacing": 0
+}

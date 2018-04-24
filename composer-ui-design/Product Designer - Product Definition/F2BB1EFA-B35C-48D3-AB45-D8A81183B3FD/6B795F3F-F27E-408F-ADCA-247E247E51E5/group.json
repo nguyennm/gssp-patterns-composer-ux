@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "6B795F3F-F27E-408F-ADCA-247E247E51E5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 259,
+    "width": 349,
+    "x": 193,
+    "y": 250
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "961E3BC4-651E-4107-8C58-02F95BD7D82A"
+    },
+    {
+      "class": "text",
+      "id": "DFE81970-DAFD-4B3C-A4EA-76066836157C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "58E031CD-2A63-43CF-9D01-750EC95CF599"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0ED0269E-8661-4B31-8930-CE82BFD21E93"
+    },
+    {
+      "class": "text",
+      "id": "9E8F66A7-C7A4-4668-8C2B-593D9C368AE4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7780040A-6799-4FDD-A859-C9CB47C2FFBE"
+    }
+  ],
+  "name": "grp_flyout",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

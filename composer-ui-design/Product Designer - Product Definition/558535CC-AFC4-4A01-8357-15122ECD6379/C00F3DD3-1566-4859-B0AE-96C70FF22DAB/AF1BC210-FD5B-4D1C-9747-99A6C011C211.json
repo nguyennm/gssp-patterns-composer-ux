@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "AF1BC210-FD5B-4D1C-9747-99A6C011C211",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "558535CC-AFC4-4A01-8357-15122ECD6379",
+    "do_objectID": "F4CBD792-0894-4DB5-8983-2D46A1C23A01"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 54,
+    "width": 270,
+    "x": 0,
+    "y": 799.4313244807615
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Workflow Designer / SideNav / Item Inactive",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8EDC76C9-42FA-463F-80A2-7FD1DA343A68",
+      "overrideName": "7DEE7BF0-5C34-485A-9FB5-B341497FC4D9_symbolID",
+      "value": "4CF682F7-DAE0-407F-9BD5-3F0FE158DB25"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F3C0B077-A0C3-4C2C-8309-0EEF4A5C3558",
+      "overrideName": "5E2F3239-73D1-4751-B70B-78A6DFB7945E_stringValue",
+      "value": "Accident Medical Reimbursement (AMR)"
+    }
+  ],
+  "overrides": {
+    "5E2F3239-73D1-4751-B70B-78A6DFB7945E": "Accident Medical Reimbursement (AMR)",
+    "7DEE7BF0-5C34-485A-9FB5-B341497FC4D9": {
+      "symbolID": "4CF682F7-DAE0-407F-9BD5-3F0FE158DB25"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "94D37E96-B4FF-413E-8A86-61CC67CFEFC5",
+  "verticalSpacing": 0
+}

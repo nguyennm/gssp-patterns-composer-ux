@@ -1,0 +1,71 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "467D19FB-9B7C-47B2-A1BA-202AC0D78E2A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "436D922D-93CE-41D4-995D-BAC6E07E936A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "CAD12C03-BDBF-4241-AA62-EA7C22640B33",
+    "do_objectID": "8088E167-E075-4152-BA1A-096E294C624F"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5AC292B5-F9D7-4E3A-BCBB-6BFBBA4169E9",
+    "height": 55,
+    "width": 270,
+    "x": 0,
+    "y": 359
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Workflow Designer / SideNav / Item Inactive Copy 4",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "045C0006-747B-4E62-99B5-C9C9DE90C00A",
+      "overrideName": "7DEE7BF0-5C34-485A-9FB5-B341497FC4D9_symbolID",
+      "value": "4CF682F7-DAE0-407F-9BD5-3F0FE158DB25"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D6A0A152-92BF-4316-B326-2927E433E603",
+      "overrideName": "5E2F3239-73D1-4751-B70B-78A6DFB7945E_stringValue",
+      "value": "Terms and Conditions"
+    }
+  ],
+  "overrides": {
+    "5E2F3239-73D1-4751-B70B-78A6DFB7945E": "Terms and Conditions",
+    "7DEE7BF0-5C34-485A-9FB5-B341497FC4D9": {
+      "symbolID": "4CF682F7-DAE0-407F-9BD5-3F0FE158DB25"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AF3F1062-8397-48C3-A5D4-787C62C123B0",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "94D37E96-B4FF-413E-8A86-61CC67CFEFC5",
+  "verticalSpacing": 0
+}

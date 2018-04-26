@@ -1,0 +1,63 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "F75CADDE-13D5-46FB-A51A-142F69B80732",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7FFB0710-BA31-4786-A6D3-030942FF2F27",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8112EE1D-A2C7-4EDF-8658-E420F7141B02",
+    "height": 54,
+    "width": 270,
+    "x": 0,
+    "y": 851.6554307116094
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Workflow Designer / SideNav / Item Inactive",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "CA17BCA0-B0DC-4EB7-A363-29D6FB2663CA_stringValue",
+      "value": "PTD Sickness (PTDS)"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "07E2F189-535C-4A62-8EAD-23877FF39747_symbolID",
+      "value": "4CF682F7-DAE0-407F-9BD5-3F0FE158DB25"
+    }
+  ],
+  "overrides": {
+    "07E2F189-535C-4A62-8EAD-23877FF39747": {
+      "symbolID": "4CF682F7-DAE0-407F-9BD5-3F0FE158DB25"
+    },
+    "CA17BCA0-B0DC-4EB7-A363-29D6FB2663CA": "PTD Sickness (PTDS)"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C7D15D10-2E41-4609-8A78-068011C51FBE",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "2569CB32-ADC6-46D3-B9A3-8486DC31875B",
+  "verticalSpacing": 0
+}

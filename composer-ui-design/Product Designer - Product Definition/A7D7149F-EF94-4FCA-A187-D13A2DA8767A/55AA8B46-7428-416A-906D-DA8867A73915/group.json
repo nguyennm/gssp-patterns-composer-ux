@@ -15,7 +15,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "53D07F6A-3923-4168-9FE5-5ACAC14C2FDC",
-    "height": 476,
+    "height": 314,
     "width": 536,
     "x": 452,
     "y": 255
@@ -42,14 +42,6 @@
     {
       "class": "symbolInstance",
       "id": "1FCDE8F8-4D79-4BF0-9652-AB2059CF3B4D"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "7E1663EC-323A-4013-A7CB-2548FA401798"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "5E4FA670-AB22-46B3-BE2A-9C0D2399DB65"
     }
   ],
   "name": "grp_dropped_fields",

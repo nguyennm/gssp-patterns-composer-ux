@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 12,
+  "changeIdentifier": 13,
   "do_objectID": "B9A7AABE-5D81-462B-BA43-100E5B3B503B",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,7 +23,7 @@
     "constrainProportions": false,
     "height": 32,
     "width": 32,
-    "x": 1722,
+    "x": 1795,
     "y": 1845
   },
   "hasBackgroundColor": false,
@@ -42,7 +42,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",

@@ -18,12 +18,6 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "flow": {
-    "_class": "MSImmutableFlowConnection",
-    "animationType": -1,
-    "destinationArtboardID": "67B4A6AD-978D-4128-A7C4-9D5CE3BD9D8F",
-    "do_objectID": "EA0AD3AB-9485-4540-973F-C4AEA4FD64A9"
-  },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,

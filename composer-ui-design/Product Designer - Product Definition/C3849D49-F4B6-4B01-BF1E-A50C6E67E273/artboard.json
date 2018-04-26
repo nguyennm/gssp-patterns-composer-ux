@@ -22,7 +22,7 @@
     "constrainProportions": false,
     "height": 1440,
     "width": 1440,
-    "x": 7264,
+    "x": 8804,
     "y": 4330
   },
   "hasBackgroundColor": true,
@@ -56,12 +56,12 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "group",
-      "id": "61EAAB00-A816-420E-86A9-E82F2E6664DA"
-    },
-    {
       "class": "symbolInstance",
       "id": "1015859A-6643-4C6A-809A-524694A2FAF3"
+    },
+    {
+      "class": "group",
+      "id": "A4A17B2C-7BC4-4A50-B806-5B649F2EFAE1"
     },
     {
       "class": "symbolInstance",

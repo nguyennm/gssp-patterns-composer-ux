@@ -1,0 +1,66 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "37889CFE-0015-4458-9AF4-BDB368097366",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "CAD12C03-BDBF-4241-AA62-EA7C22640B33",
+    "do_objectID": "A692F27A-40CB-4E4D-95E5-CCBDB1C125BA"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 55,
+    "width": 270,
+    "x": 0,
+    "y": 359
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Workflow Designer / SideNav / Item Inactive Copy 4",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "07E2F189-535C-4A62-8EAD-23877FF39747_symbolID",
+      "value": "4CF682F7-DAE0-407F-9BD5-3F0FE158DB25"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "CA17BCA0-B0DC-4EB7-A363-29D6FB2663CA_stringValue",
+      "value": "Terms and Conditions"
+    }
+  ],
+  "overrides": {
+    "07E2F189-535C-4A62-8EAD-23877FF39747": {
+      "symbolID": "4CF682F7-DAE0-407F-9BD5-3F0FE158DB25"
+    },
+    "CA17BCA0-B0DC-4EB7-A363-29D6FB2663CA": "Terms and Conditions"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "2569CB32-ADC6-46D3-B9A3-8486DC31875B",
+  "verticalSpacing": 0
+}

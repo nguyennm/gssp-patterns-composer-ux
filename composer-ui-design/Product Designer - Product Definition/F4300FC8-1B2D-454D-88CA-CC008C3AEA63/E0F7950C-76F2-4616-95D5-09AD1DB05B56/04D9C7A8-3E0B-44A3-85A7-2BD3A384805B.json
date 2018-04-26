@@ -22,7 +22,7 @@
     "height": 55,
     "width": 270,
     "x": 0,
-    "y": 359
+    "y": 139
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -38,10 +38,19 @@
       "do_objectID": "3245E22A-34E5-48D9-9406-F09BB97869D1",
       "overrideName": "5E2F3239-73D1-4751-B70B-78A6DFB7945E_stringValue",
       "value": "Product Information"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5C4566C4-F6FC-498E-8C4E-9CD229BE446B",
+      "overrideName": "7DEE7BF0-5C34-485A-9FB5-B341497FC4D9_symbolID",
+      "value": "4CF682F7-DAE0-407F-9BD5-3F0FE158DB25"
     }
   ],
   "overrides": {
-    "5E2F3239-73D1-4751-B70B-78A6DFB7945E": "Product Information"
+    "5E2F3239-73D1-4751-B70B-78A6DFB7945E": "Product Information",
+    "7DEE7BF0-5C34-485A-9FB5-B341497FC4D9": {
+      "symbolID": "4CF682F7-DAE0-407F-9BD5-3F0FE158DB25"
+    }
   },
   "resizingConstraint": 63,
   "resizingType": 0,

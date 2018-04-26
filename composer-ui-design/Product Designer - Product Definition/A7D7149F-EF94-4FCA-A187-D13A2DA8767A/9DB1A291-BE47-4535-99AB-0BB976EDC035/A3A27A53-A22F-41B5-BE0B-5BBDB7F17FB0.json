@@ -1,0 +1,71 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "A3A27A53-A22F-41B5-BE0B-5BBDB7F17FB0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9B603941-E154-45D5-BFEA-1A1973445E8F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "CAD12C03-BDBF-4241-AA62-EA7C22640B33",
+    "do_objectID": "53D96A96-1896-484B-A32A-686B86B08A08"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0DC739A1-5B5F-4BAC-9A25-74F794B9FE37",
+    "height": 55,
+    "width": 270,
+    "x": 0,
+    "y": 359
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Workflow Designer / SideNav / Item Inactive Copy 4",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D54FDE47-EED9-4BAD-9B55-0B406BC41E3A",
+      "overrideName": "07E2F189-535C-4A62-8EAD-23877FF39747_symbolID",
+      "value": "4CF682F7-DAE0-407F-9BD5-3F0FE158DB25"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5900DF4B-3B6A-4082-90E0-E42B061E89E5",
+      "overrideName": "CA17BCA0-B0DC-4EB7-A363-29D6FB2663CA_stringValue",
+      "value": "Terms and Conditions"
+    }
+  ],
+  "overrides": {
+    "07E2F189-535C-4A62-8EAD-23877FF39747": {
+      "symbolID": "4CF682F7-DAE0-407F-9BD5-3F0FE158DB25"
+    },
+    "CA17BCA0-B0DC-4EB7-A363-29D6FB2663CA": "Terms and Conditions"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5FE3634C-9A62-4F12-BDFD-4A7805FC7484",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "2569CB32-ADC6-46D3-B9A3-8486DC31875B",
+  "verticalSpacing": 0
+}

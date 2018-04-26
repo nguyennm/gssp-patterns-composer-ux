@@ -22,7 +22,7 @@
     "constrainProportions": false,
     "height": 1440,
     "width": 1440,
-    "x": 4184,
+    "x": 5724,
     "y": 5979
   },
   "hasBackgroundColor": true,
@@ -53,15 +53,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
-      "id": "8B5F7336-2FB4-44F1-85EA-F9FA3C794CB1"
+      "id": "200B12A9-4800-4532-AAEE-72BBC1C33A83"
     },
     {
       "class": "group",
-      "id": "200B12A9-4800-4532-AAEE-72BBC1C33A83"
+      "id": "82A8A79A-5466-4583-A035-9310BFB8F37A"
     },
     {
       "class": "symbolInstance",

@@ -1,0 +1,63 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "28907460-56CD-476C-8D6B-1FAD7D4C5705",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EF26C293-A2D0-483E-91AC-1A40FFA30001",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F90BF8A2-0F65-4701-9997-27AC23A6BA28",
+    "height": 71,
+    "width": 536,
+    "x": 0,
+    "y": 162
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Workflow Designer / Dropzone Inputs / datepicker (normal)",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "10EDFFE7-806D-4B86-B0DA-D79BB648F1CB_symbolID",
+      "value": "4AD30566-D36B-4234-A6F0-4A6FC8C70912"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "48DAF236-EE2D-4868-B892-2F97A5AF41B0_stringValue",
+      "value": "Date of Birth"
+    }
+  ],
+  "overrides": {
+    "10EDFFE7-806D-4B86-B0DA-D79BB648F1CB": {
+      "symbolID": "4AD30566-D36B-4234-A6F0-4A6FC8C70912"
+    },
+    "48DAF236-EE2D-4868-B892-2F97A5AF41B0": "Date of Birth"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A24D6C50-5F84-4E7D-A648-C2CA00DE7470",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "1CFEB152-4D63-4582-A4DE-63E48C373ADD",
+  "verticalSpacing": 0
+}

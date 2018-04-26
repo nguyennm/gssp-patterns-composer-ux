@@ -33,11 +33,11 @@
       "_class": "overrideValue",
       "do_objectID": "64ABD95A-B71C-4832-9F3C-3C0A213A448C",
       "overrideName": "6B6EF206-56E2-466D-9489-25C5CB64A344_stringValue",
-      "value": "Product Information"
+      "value": "Spouse Information"
     }
   ],
   "overrides": {
-    "6B6EF206-56E2-466D-9489-25C5CB64A344": "Product Information"
+    "6B6EF206-56E2-466D-9489-25C5CB64A344": "Spouse Information"
   },
   "resizingConstraint": 63,
   "resizingType": 0,

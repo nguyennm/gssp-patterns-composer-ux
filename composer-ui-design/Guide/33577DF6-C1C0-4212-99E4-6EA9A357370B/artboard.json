@@ -32,7 +32,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -135,6 +135,10 @@
     {
       "class": "symbolInstance",
       "id": "B59AE0CC-908B-4046-A961-48230ADA6EB6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "10F92678-F2C7-4D10-8F3B-ED69C4D5C1D0"
     }
   ],
   "name": "Icons - Custom",

@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "7446057D-B44A-4AF1-A28A-1116D835F684",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "20267F43-BFE6-44E1-BB36-0613CBA8C9DC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "861C7B53-24F5-4704-A73E-2245F489E9F3",
+    "height": 30,
+    "width": 270,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Workflow Designer / SideNav / Header Actionable",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E6EF8C4B-10A7-4705-895A-5B0576F2D84B",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "E0BE65E5-D22F-4702-BCEC-EEBD1B2B3C87",
+  "verticalSpacing": 0
+}

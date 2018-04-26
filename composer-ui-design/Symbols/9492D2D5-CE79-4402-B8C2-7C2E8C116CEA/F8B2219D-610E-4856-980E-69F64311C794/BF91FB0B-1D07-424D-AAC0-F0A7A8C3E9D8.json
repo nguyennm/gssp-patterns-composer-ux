@@ -10,13 +10,19 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "1981A09A-C589-4F21-B3C1-F6CD21733EA7",
+    "do_objectID": "0D746C03-F8FC-4579-BA35-58091844A3A4"
+  },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
     "height": 54,
     "width": 270,
     "x": 0,
-    "y": 496.6554307116094
+    "y": 551.6554307116094
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,

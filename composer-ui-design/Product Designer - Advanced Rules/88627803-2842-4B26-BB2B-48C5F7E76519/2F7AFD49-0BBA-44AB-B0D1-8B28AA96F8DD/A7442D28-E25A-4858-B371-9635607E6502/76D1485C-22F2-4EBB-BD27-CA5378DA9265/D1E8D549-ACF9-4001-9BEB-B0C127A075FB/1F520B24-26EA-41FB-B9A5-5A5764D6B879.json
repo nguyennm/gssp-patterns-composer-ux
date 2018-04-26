@@ -1,0 +1,55 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "1F520B24-26EA-41FB-B9A5-5A5764D6B879",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4E803ABC-9322-43A7-AFDD-D6E139C42817",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "48D7EF6A-A569-4859-80F8-5DAE50F17AF2",
+    "height": 19,
+    "width": 200,
+    "x": 0,
+    "y": 142
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Radio / Checked",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "F464E4F3-B951-4BF6-BBEC-37D6E596F573_stringValue",
+      "value": "Events"
+    }
+  ],
+  "overrides": {
+    "F464E4F3-B951-4BF6-BBEC-37D6E596F573": "Events"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "67790461-B311-4E35-9070-789A397310F3",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "C80DC1E8-0276-4E8B-99B4-F6F656C799BC",
+  "verticalSpacing": 0
+}

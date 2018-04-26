@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "92541BBA-287F-4105-96C0-B6EFFFF05C57",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "1981A09A-C589-4F21-B3C1-F6CD21733EA7",
+    "do_objectID": "BE5D7F7E-9AF6-4786-8AB1-88017E8DBB4C"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 54,
+    "width": 270,
+    "x": 0,
+    "y": 661.6554307116094
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Workflow Designer / SideNav / Item Inactive",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2B5ED60E-E9CA-48BD-B2C5-56957797FBC8",
+      "overrideName": "7DEE7BF0-5C34-485A-9FB5-B341497FC4D9_symbolID",
+      "value": "4CF682F7-DAE0-407F-9BD5-3F0FE158DB25"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7B5F78C7-7F45-4F10-AD23-3FB304C8A004",
+      "overrideName": "5E2F3239-73D1-4751-B70B-78A6DFB7945E_stringValue",
+      "value": "Circle 3"
+    }
+  ],
+  "overrides": {
+    "5E2F3239-73D1-4751-B70B-78A6DFB7945E": "Circle 3",
+    "7DEE7BF0-5C34-485A-9FB5-B341497FC4D9": {
+      "symbolID": "4CF682F7-DAE0-407F-9BD5-3F0FE158DB25"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "94D37E96-B4FF-413E-8A86-61CC67CFEFC5",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,128 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "58E49CA5-5B83-41E7-AF8A-D6041DC96FA5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1215,
+    "width": 270,
+    "x": 1020,
+    "y": 225
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Workflow Designer / Toolbar / Default",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "9E082CA3-B940-408C-B80F-4341157AF5C5/6B6EF206-56E2-466D-9489-25C5CB64A344_stringValue",
+      "value": "What is your monthly income?"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "2DDA9F82-9CEE-4CFE-AC4B-ADAA0D376DB3/6B6EF206-56E2-466D-9489-25C5CB64A344_stringValue",
+      "value": "Monthly Income"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C93EC6D2-AB8B-4440-A48A-771EFF4034AC_symbolID",
+      "value": "CA554AD6-C6D3-44E6-86AE-A74FBB3A31AF"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C93EC6D2-AB8B-4440-A48A-771EFF4034AC/6C05BED9-19AF-49A7-88EB-C4AE1A5EF78F_stringValue",
+      "value": "person.monthlyIncome"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "A28FC216-EC10-4F0B-A9F9-C9A75A2DAE17_symbolID",
+      "value": "CA554AD6-C6D3-44E6-86AE-A74FBB3A31AF"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "A28FC216-EC10-4F0B-A9F9-C9A75A2DAE17/6C05BED9-19AF-49A7-88EB-C4AE1A5EF78F_stringValue",
+      "value": "monthlyIncome"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "6C605E0B-1CAA-4387-B2C4-392DF29335E0_symbolID",
+      "value": "A1022A88-E697-4918-824C-1606F81600BF"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "6C605E0B-1CAA-4387-B2C4-392DF29335E0/D54CE5A7-F1D7-4163-B528-A47CDB300E97_stringValue",
+      "value": "Number"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "5683683B-DB25-4678-A724-970FCFCB3C2B/6B6EF206-56E2-466D-9489-25C5CB64A344_stringValue",
+      "value": "Your annual income divided by 12"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "414D9740-452D-4567-93EC-8C51CF1D3E4D/37657E18-470D-4C6B-B669-4052C8BB9F8A_stringValue",
+      "value": "Circle 4"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "88C25242-BBC0-4EDB-8250-C5264BC23E1D/4A868392-AA27-4190-806C-D0B8AE5F1D00_stringValue",
+      "value": "Collection"
+    }
+  ],
+  "overrides": {
+    "2DDA9F82-9CEE-4CFE-AC4B-ADAA0D376DB3": {
+      "6B6EF206-56E2-466D-9489-25C5CB64A344": "Monthly Income"
+    },
+    "414D9740-452D-4567-93EC-8C51CF1D3E4D": {
+      "37657E18-470D-4C6B-B669-4052C8BB9F8A": "Circle 4"
+    },
+    "5683683B-DB25-4678-A724-970FCFCB3C2B": {
+      "6B6EF206-56E2-466D-9489-25C5CB64A344": "Your annual income divided by 12"
+    },
+    "6C605E0B-1CAA-4387-B2C4-392DF29335E0": {
+      "D54CE5A7-F1D7-4163-B528-A47CDB300E97": "Number",
+      "symbolID": "A1022A88-E697-4918-824C-1606F81600BF"
+    },
+    "88C25242-BBC0-4EDB-8250-C5264BC23E1D": {
+      "4A868392-AA27-4190-806C-D0B8AE5F1D00": "Collection"
+    },
+    "9E082CA3-B940-408C-B80F-4341157AF5C5": {
+      "6B6EF206-56E2-466D-9489-25C5CB64A344": "What is your monthly income?"
+    },
+    "A28FC216-EC10-4F0B-A9F9-C9A75A2DAE17": {
+      "6C05BED9-19AF-49A7-88EB-C4AE1A5EF78F": "monthlyIncome",
+      "symbolID": "CA554AD6-C6D3-44E6-86AE-A74FBB3A31AF"
+    },
+    "C93EC6D2-AB8B-4440-A48A-771EFF4034AC": {
+      "6C05BED9-19AF-49A7-88EB-C4AE1A5EF78F": "person.monthlyIncome",
+      "symbolID": "CA554AD6-C6D3-44E6-86AE-A74FBB3A31AF"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "8C48AA52-AB2E-4147-8DAE-1EBD3A9E6CCC",
+  "verticalSpacing": 0
+}

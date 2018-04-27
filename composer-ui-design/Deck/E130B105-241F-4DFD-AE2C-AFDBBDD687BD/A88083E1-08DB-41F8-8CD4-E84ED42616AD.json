@@ -14,8 +14,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 16,
-    "width": 136,
-    "x": 1139,
+    "width": 269,
+    "x": 1006,
     "y": 209
   },
   "horizontalSpacing": 0,
@@ -27,8 +27,15 @@
   "name": "Links / sort-menu",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2337A490-7F67-4588-B2DA-B4052A9C3038",
+      "overrideName": "BFF0890A-CDFC-46B9-B560-7924D7746713_stringValue",
+      "value": "RECENT ACTIVITY (LATEST)"
+    }
   ],
   "overrides": {
+    "BFF0890A-CDFC-46B9-B560-7924D7746713": "RECENT ACTIVITY (LATEST)"
   },
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 14,
+  "changeIdentifier": 93,
   "do_objectID": "6011DFF6-8309-4B35-9C5E-584EAE9F24CC",
   "exportOptions": {
     "_class": "exportOptions",
@@ -22,7 +22,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 16,
-    "width": 136,
+    "width": 269,
     "x": 2535,
     "y": 0
   },
@@ -42,11 +42,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "8731C4DC-94E8-4EB6-A076-A0D1E5925A14"
+      "class": "text",
+      "id": "BFF0890A-CDFC-46B9-B560-7924D7746713"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "63EE292B-9518-4896-82D7-6F42629DA985"
     }
   ],
   "name": "Links / sort-menu",

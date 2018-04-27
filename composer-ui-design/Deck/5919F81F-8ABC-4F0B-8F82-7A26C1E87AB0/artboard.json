@@ -3,11 +3,11 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
+    "blue": 0,
+    "green": 0,
+    "red": 0
   },
-  "do_objectID": "94ADE255-67D3-4B77-B3E1-0053D76F0C62",
+  "do_objectID": "5919F81F-8ABC-4F0B-8F82-7A26C1E87AB0",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -20,10 +20,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1440,
+    "height": 1024,
     "width": 1440,
-    "x": 1100,
-    "y": 4330
+    "x": -51,
+    "y": 147
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -53,35 +53,19 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "1213BF87-E2D2-4423-9CC5-9130EF6BE5DB"
+      "class": "text",
+      "id": "7C3EB8CD-9BF8-46C4-8274-FA3B4D131411"
     },
     {
-      "class": "symbolInstance",
-      "id": "7C40352D-D612-4E07-B099-63BB0B83EA60"
+      "class": "text",
+      "id": "9EF290DC-B94C-4282-B68D-41869D7064CE"
     },
     {
-      "class": "symbolInstance",
-      "id": "7F06510E-9A90-45E3-BBB1-17F4B7E0A2BF"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "D1C7613F-4E95-4B55-AFF9-4F78B9D2DC78"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "B9D2CC9F-9059-4597-9021-72AC82DD52D2"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "C8E79EB0-3269-4ED0-8FB4-00ED858E7FB6"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "FD101B26-C53F-4E5B-A134-20CE5957FAB2"
+      "class": "text",
+      "id": "6D991D41-4687-4E98-81B3-3A8239E82B9A"
     }
   ],
   "layout": {
@@ -99,7 +83,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1140
   },
-  "name": "Product Designer - Default - Desktop HD",
+  "name": "Landing Deck - Cover Page",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
@@ -127,6 +111,53 @@
           "red": 1
         },
         "fillType": 0,
+        "isEnabled": false,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      },
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 0.5,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              },
+              "position": 0
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 0.5,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              },
+              "position": 1
+            }
+          ],
+          "to": "{0.5, 1}"
+        },
         "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,

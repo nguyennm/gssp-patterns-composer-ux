@@ -44,22 +44,24 @@
     },
     {
       "_class": "overrideValue",
-      "overrideName": "59A1DBDD-3B9A-42B8-92A8-8745B9A24021_symbolID",
+      "do_objectID": "23D40C31-C6F5-4F5D-8755-E4314E6673E0",
+      "overrideName": "B9775647-F6A9-4C60-BCF4-78BB986E956D_symbolID",
       "value": "EAA0942A-9D0C-4F96-BFBB-622FD4D20B64"
     },
     {
       "_class": "overrideValue",
-      "overrideName": "59A1DBDD-3B9A-42B8-92A8-8745B9A24021/67830810-BDCB-4DE8-84B2-CAFC6B8AAF65_stringValue",
+      "do_objectID": "50F85E70-7694-4E4D-A337-7550A61CEF7C",
+      "overrideName": "B9775647-F6A9-4C60-BCF4-78BB986E956D/67830810-BDCB-4DE8-84B2-CAFC6B8AAF65_stringValue",
       "value": "Products"
     }
   ],
   "overrides": {
-    "59A1DBDD-3B9A-42B8-92A8-8745B9A24021": {
-      "67830810-BDCB-4DE8-84B2-CAFC6B8AAF65": "Products",
-      "symbolID": "EAA0942A-9D0C-4F96-BFBB-622FD4D20B64"
-    },
     "89DF5A4A-9C77-4C58-B785-899BDE747A25": {
       "16482CD0-DDDA-42D0-B351-4C321DC54B87": "Client Configuration"
+    },
+    "B9775647-F6A9-4C60-BCF4-78BB986E956D": {
+      "67830810-BDCB-4DE8-84B2-CAFC6B8AAF65": "Products",
+      "symbolID": "EAA0942A-9D0C-4F96-BFBB-622FD4D20B64"
     },
     "D0FD8981-8BB2-4189-A330-B8EE186BD1C6": {
       "16482CD0-DDDA-42D0-B351-4C321DC54B87": "Overview",

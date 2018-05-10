@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "EEEE60B7-1D59-4958-B316-8538B4417F75",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BE4D3442-E569-47D5-8C03-3DA900D22DCF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3BACEBC3-E720-49E6-AFD0-3556BA38D889",
+    "height": 19,
+    "width": 200,
+    "x": 0,
+    "y": 87
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Checkbox / Unchecked Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C90E58AD-7AC2-4FEC-9F8E-3C453D4FA509",
+      "overrideName": "88004E03-25D2-4FC2-97B8-09545590739E_stringValue",
+      "value": "Required"
+    }
+  ],
+  "overrides": {
+    "88004E03-25D2-4FC2-97B8-09545590739E": "Required"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0773C23D-331C-4FE1-8E8C-F7107C6436D8",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "81BC068D-30A4-4C17-8F3B-DC54CEF52CC1",
+  "verticalSpacing": 0
+}

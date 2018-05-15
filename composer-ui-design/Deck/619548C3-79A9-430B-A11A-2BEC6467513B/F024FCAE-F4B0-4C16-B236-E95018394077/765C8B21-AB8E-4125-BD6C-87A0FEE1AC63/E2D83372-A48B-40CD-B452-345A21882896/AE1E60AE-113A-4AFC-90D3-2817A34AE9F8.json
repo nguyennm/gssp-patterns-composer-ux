@@ -1,0 +1,88 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "AE1E60AE-113A-4AFC-90D3-2817A34AE9F8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "13A52406-DEE9-42C8-B948-F5C98FEC30D2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B17C173E-87A5-4EBB-BB4A-86AB93CE9D85",
+    "height": 295,
+    "width": 350,
+    "x": 403,
+    "y": 245
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Cards / deck-tenant-desktop",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C7832530-396C-4EAC-A568-9E9ACD48EB8E",
+      "overrideName": "F4DAC4C7-87A4-49AD-A92F-4D5C42D7C1A6/1E3BBBE7-920C-45D1-B329-AF17F5CE9C65_stringValue",
+      "value": "1 ACTIVE USER"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B8E57554-DD58-4247-B6E0-C4696ADCCB11",
+      "overrideName": "01E9E28A-BD11-47A2-B467-CD3FDDC69628_stringValue",
+      "value": "E"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "623A3241-E12A-448C-962B-9D1858C11B22",
+      "overrideName": "FB2515BB-25A8-4765-A02D-AF8642BA793A_stringValue",
+      "value": "Egypt"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "065361C6-C08A-4EA4-80CF-AD83B28DDE44",
+      "overrideName": "1170D0F1-851B-46A9-8172-0B9A9626173A_stringValue",
+      "value": "Last updated on: 01/15/2018 4:30 PM by Charlie Brown"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "883160C2-C1EB-446E-9F26-45A60AEA5A36",
+      "overrideName": "17923A23-1643-46E4-BDEB-59786E4514E5_symbolID",
+      "value": "2EC7763D-186C-40CE-B241-106908158AD0"
+    }
+  ],
+  "overrides": {
+    "01E9E28A-BD11-47A2-B467-CD3FDDC69628": "E",
+    "1170D0F1-851B-46A9-8172-0B9A9626173A": "Last updated on: 01/15/2018 4:30 PM by Charlie Brown",
+    "17923A23-1643-46E4-BDEB-59786E4514E5": {
+      "symbolID": "2EC7763D-186C-40CE-B241-106908158AD0"
+    },
+    "F4DAC4C7-87A4-49AD-A92F-4D5C42D7C1A6": {
+      "1E3BBBE7-920C-45D1-B329-AF17F5CE9C65": "1 ACTIVE USER"
+    },
+    "FB2515BB-25A8-4765-A02D-AF8642BA793A": "Egypt"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E206657C-B5F6-4780-B608-6D6B8F01D87D",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "422C9FC4-F610-4CF4-B2B2-AC2CBBEB4601",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "FC257555-7B54-44B0-8DEF-00EE35D93D8C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4D89077B-582A-4BF2-9861-6897231AEBE9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5B94D05C-11EE-47AE-B13F-F2BD7A761B5C",
+    "height": 108,
+    "width": 566,
+    "x": 0,
+    "y": 26
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Input / Textarea (Placeholder)",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FCCCAFA5-6B20-43C2-9F16-41573097CE9B",
+      "overrideName": "F41FD211-EDEB-47D5-91D2-A004EE662D83_stringValue",
+      "value": "(Optional)"
+    }
+  ],
+  "overrides": {
+    "F41FD211-EDEB-47D5-91D2-A004EE662D83": "(Optional)"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B09B1ED0-FEE8-464E-A2CC-AA9CCE1F83A9",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "A967B186-F392-4359-91E0-CF4F5997CA6C",
+  "verticalSpacing": 0
+}

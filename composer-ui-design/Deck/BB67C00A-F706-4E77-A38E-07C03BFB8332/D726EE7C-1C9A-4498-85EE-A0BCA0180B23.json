@@ -33,11 +33,11 @@
       "_class": "overrideValue",
       "do_objectID": "2337A490-7F67-4588-B2DA-B4052A9C3038",
       "overrideName": "BFF0890A-CDFC-46B9-B560-7924D7746713_stringValue",
-      "value": "RECENT ACTIVITY (LATEST)"
+      "value": "RECENT ACTIVITY (NEWEST)"
     }
   ],
   "overrides": {
-    "BFF0890A-CDFC-46B9-B560-7924D7746713": "RECENT ACTIVITY (LATEST)"
+    "BFF0890A-CDFC-46B9-B560-7924D7746713": "RECENT ACTIVITY (NEWEST)"
   },
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -23,7 +23,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "8D4E4AEF-6897-4CD5-9C17-AF7F0BC30913",
-    "height": 3250,
+    "height": 4550,
     "width": 2250,
     "x": -861,
     "y": 1271
@@ -46,6 +46,10 @@
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
+    {
+      "class": "group",
+      "id": "496AF180-6207-4670-87D2-BFAE2EEEC4BC"
+    },
     {
       "class": "group",
       "id": "F024FCAE-F4B0-4C16-B236-E95018394077"

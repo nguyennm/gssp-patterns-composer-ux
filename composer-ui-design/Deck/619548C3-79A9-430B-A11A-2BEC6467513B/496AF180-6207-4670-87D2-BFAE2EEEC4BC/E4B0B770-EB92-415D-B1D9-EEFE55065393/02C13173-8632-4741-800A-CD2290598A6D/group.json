@@ -1,0 +1,89 @@
+{
+  "_class": "group",
+  "do_objectID": "02C13173-8632-4741-800A-CD2290598A6D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 911,
+    "width": 1140,
+    "x": 0,
+    "y": 43
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "1756412B-A3C5-4946-AA33-FECDC7487695"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BD43050E-2665-4A82-B0DF-BD3751178679"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "04C8470B-7B9A-4A28-99D0-09E58CC1F7A8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FF8D5037-955F-4231-A08A-814A494A94A2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8C975A63-6528-4DBF-93CC-08512F6B0995"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2001EF39-404E-4BB2-B751-75C224F9F9A5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B3D601E2-A66F-48C6-96E2-07EDBBAA1A93"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D401F2DD-619D-45D7-AD3B-64F4568748B7"
+    },
+    {
+      "class": "text",
+      "id": "3AF2417F-83DD-4ED6-8407-C81EE2A61F4D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5E19667B-4923-4E7C-8FA7-F2016114D9D8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "505DFA4D-8137-439C-86A3-16883AE1615E"
+    },
+    {
+      "class": "text",
+      "id": "6A68A1F5-363C-4A75-A797-E97C980065C4"
+    }
+  ],
+  "name": "Group",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

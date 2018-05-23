@@ -57,19 +57,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "text",
       "id": "DDB39C5E-104C-4960-81A4-F2725CAECC68"
-    },
-    {
-      "class": "text",
-      "id": "0326B983-6169-4352-869A-9F486C0CFF9A"
-    },
-    {
-      "class": "text",
-      "id": "AE2DBF03-F2C6-4B43-AF67-EC94CF26A605"
     }
   ],
   "layout": {

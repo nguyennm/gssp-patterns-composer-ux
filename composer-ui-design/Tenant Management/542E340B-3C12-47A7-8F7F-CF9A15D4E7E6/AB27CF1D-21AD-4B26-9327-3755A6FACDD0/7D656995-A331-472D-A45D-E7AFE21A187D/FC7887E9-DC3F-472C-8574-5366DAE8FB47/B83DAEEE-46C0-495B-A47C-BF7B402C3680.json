@@ -1,9 +1,9 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "3C2FC3F5-5503-4ACD-B0B7-7FB22851CC5C",
+  "do_objectID": "B83DAEEE-46C0-495B-A47C-BF7B402C3680",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "D24C8944-C58A-4400-A68F-449E2BA4BDE7",
+    "do_objectID": "1225FD87-1843-4A8F-BC46-F218049040C5",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -14,11 +14,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "44E2DFB5-7D04-4F5A-89AA-0857BE364EB0",
-    "height": 36,
-    "width": 145,
+    "do_objectID": "B84782D9-DC98-4E62-8D1D-B361572FE9F1",
+    "height": 53,
+    "width": 1140,
     "x": 0,
-    "y": 0
+    "y": 70
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -26,7 +26,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Buttons / Secondary",
+  "name": "Navigation / breadcrumb-nav-bar-tenant",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -39,11 +39,11 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "9B681DE2-9FE7-4576-B399-AC9295C0CC31",
+    "do_objectID": "626C5B49-3C5F-4AFF-8C70-E20396702266",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "B6470CF9-7D69-4AD6-B3F1-4C99FE773686",
+  "symbolID": "21512FF4-7F7F-45BD-B34C-1DD1C691AF8C",
   "verticalSpacing": 0
 }

@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "F2941519-D76A-413D-BC5B-07BEF9570354",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5C9CA148-63D7-4F97-9614-3469663EF030",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E9BFEC9E-CDE3-4E87-8540-15E2CBEE2167",
+    "height": 50,
+    "width": 1140,
+    "x": 0,
+    "y": 123
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Navigation / tabs",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F0BDF728-BACD-40D5-831C-90FFD4649253",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "0D20AF47-0B06-4334-A21F-6B31F2E834F6",
+  "verticalSpacing": 0
+}

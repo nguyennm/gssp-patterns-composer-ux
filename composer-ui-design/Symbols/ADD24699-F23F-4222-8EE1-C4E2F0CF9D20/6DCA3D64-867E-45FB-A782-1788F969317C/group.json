@@ -42,12 +42,20 @@
       "id": "10DAE82B-2C20-4137-969C-2124B5BD6CF9"
     },
     {
+      "class": "text",
+      "id": "BB6867F3-DDBA-4902-898D-2EF225F1A7D3"
+    },
+    {
       "class": "symbolInstance",
       "id": "9E20A006-D083-4288-8021-EE287C84D533"
     },
     {
       "class": "symbolInstance",
       "id": "16F855E0-F697-42E5-B3A7-46B1A4E33DBA"
+    },
+    {
+      "class": "text",
+      "id": "B27DAFE2-AD0E-4725-85AE-C2A2CF23DFA9"
     }
   ],
   "name": "grp_publication_row",

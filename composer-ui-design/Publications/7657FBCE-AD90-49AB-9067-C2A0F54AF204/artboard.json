@@ -22,8 +22,8 @@
     "constrainProportions": false,
     "height": 1024,
     "width": 1440,
-    "x": 3029,
-    "y": 3813
+    "x": 4569,
+    "y": 4937
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -72,24 +72,8 @@
       "id": "55E47235-41EA-453D-ACBD-6122D8E3D437"
     },
     {
-      "class": "symbolInstance",
-      "id": "C44EDF66-A7FB-4EB4-9C84-11E845F2435A"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "0B4481A2-D394-41D4-AA29-FE9040E4B05F"
-    },
-    {
       "class": "group",
-      "id": "95DAE8EA-A51A-409F-BB80-3E74B88D20F3"
-    },
-    {
-      "class": "group",
-      "id": "00DD5B2C-82F6-433B-91D9-7E39F817DC69"
-    },
-    {
-      "class": "text",
-      "id": "83A534BC-8D71-4C2A-B6B3-4997E416FB22"
+      "id": "D4EDA95B-7F69-4C87-BAFD-5FC29C4F6F50"
     },
     {
       "class": "group",
@@ -98,6 +82,10 @@
     {
       "class": "group",
       "id": "612FE00A-C810-44E7-A3A2-261946758F43"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1B612858-1029-41B7-8704-FEFD0C8D5E9B"
     }
   ],
   "layout": {
@@ -115,7 +103,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1140
   },
-  "name": "Publications - Publish-Evaluate - Desktop HD",
+  "name": "Publications - Publish (Success) - Desktop HD",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

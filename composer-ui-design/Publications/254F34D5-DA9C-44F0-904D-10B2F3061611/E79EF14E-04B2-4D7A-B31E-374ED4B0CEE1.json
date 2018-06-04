@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "E79EF14E-04B2-4D7A-B31E-374ED4B0CEE1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 52,
+    "width": 1140,
+    "x": 150,
+    "y": 379
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Alerts / alert-info",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CAF99363-E691-4286-BA55-A104EA070F3A",
+      "overrideName": "669711BB-2FBB-473D-B27E-77FEE7ADD0E9_stringValue",
+      "value": "Oh no! We found some issues with your changes."
+    }
+  ],
+  "overrides": {
+    "669711BB-2FBB-473D-B27E-77FEE7ADD0E9": "Oh no! We found some issues with your changes."
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "399187F3-734B-4B8F-974B-827D1B879518",
+  "verticalSpacing": 0
+}

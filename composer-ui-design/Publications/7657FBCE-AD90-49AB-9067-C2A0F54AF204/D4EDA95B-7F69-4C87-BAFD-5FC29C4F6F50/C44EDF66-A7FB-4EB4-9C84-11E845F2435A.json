@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "C44EDF66-A7FB-4EB4-9C84-11E845F2435A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 75,
+    "width": 1111,
+    "x": 0,
+    "y": 52
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Statics / publication-row",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E0AB8F8D-274E-4197-800D-3E5A451A4478",
+      "overrideName": "B27DAFE2-AD0E-4725-85AE-C2A2CF23DFA9_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C4C1EF5C-867E-4253-80F1-9409AC26CD2D",
+      "overrideName": "915D7EE8-081C-4B32-9165-F681B331C326_stringValue",
+      "value": "Version 3.0.0"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EB115115-6763-4BB7-A43B-443D3AE67F2C",
+      "overrideName": "AD3135F4-7790-4A6A-8D0B-401565A79278_stringValue",
+      "value": "(Success)"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A5571539-017D-4444-B6E4-E790BFE49C64",
+      "overrideName": "10DAE82B-2C20-4137-969C-2124B5BD6CF9_stringValue",
+      "value": "05/21/2018 09:10AM by Nick Nguyen"
+    }
+  ],
+  "overrides": {
+    "10DAE82B-2C20-4137-969C-2124B5BD6CF9": "05/21/2018 09:10AM by Nick Nguyen",
+    "915D7EE8-081C-4B32-9165-F681B331C326": "Version 3.0.0",
+    "AD3135F4-7790-4A6A-8D0B-401565A79278": "(Success)",
+    "B27DAFE2-AD0E-4725-85AE-C2A2CF23DFA9": " "
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "03406E0F-F2FB-41C8-B0B3-D6A09FA69CD6",
+  "verticalSpacing": 0
+}

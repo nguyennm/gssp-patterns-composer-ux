@@ -15,10 +15,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "F2CFFB5C-EA44-48A5-9B3E-68444E73E2B3",
-    "height": 847,
+    "height": 1135,
     "width": 950,
     "x": 245,
-    "y": 187
+    "y": 100
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -66,6 +66,18 @@
     {
       "class": "group",
       "id": "23215D4A-5EF7-4790-BA68-525C238143BF"
+    },
+    {
+      "class": "group",
+      "id": "CA542938-3059-4C0C-88F9-F31E2B145B04"
+    },
+    {
+      "class": "group",
+      "id": "FAF574E9-69E3-400B-AA61-9DE5E1275951"
+    },
+    {
+      "class": "group",
+      "id": "1AF52D5C-6E6A-4AD6-8BF2-C76C184D2A18"
     }
   ],
   "name": "grp_dialog",

@@ -15,7 +15,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "327AC33D-1EE4-4BC9-83F1-658FE6E1E852",
-    "height": 688,
+    "height": 898,
     "width": 2069,
     "x": 0,
     "y": 71
@@ -70,6 +70,10 @@
     {
       "class": "text",
       "id": "753E2489-1173-4511-8478-5BAB63EFA8DD"
+    },
+    {
+      "class": "text",
+      "id": "9FBD5981-7996-4345-8BE0-D9744987A459"
     }
   ],
   "name": "SPECS",

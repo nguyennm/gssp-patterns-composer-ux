@@ -22,7 +22,7 @@
     "constrainProportions": false,
     "height": 1440,
     "width": 1440,
-    "x": 1885,
+    "x": 4235,
     "y": -553
   },
   "grid": {
@@ -32,7 +32,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -59,7 +59,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
@@ -98,8 +98,8 @@
       "id": "C192A9CE-B754-4839-B546-BD2C2F881540"
     },
     {
-      "class": "group",
-      "id": "E0160369-BF1A-41B5-A379-FAB1E4DF99CC"
+      "class": "symbolInstance",
+      "id": "83C4DEFF-9088-4BD4-B7DE-192B398C49E9"
     }
   ],
   "layout": {

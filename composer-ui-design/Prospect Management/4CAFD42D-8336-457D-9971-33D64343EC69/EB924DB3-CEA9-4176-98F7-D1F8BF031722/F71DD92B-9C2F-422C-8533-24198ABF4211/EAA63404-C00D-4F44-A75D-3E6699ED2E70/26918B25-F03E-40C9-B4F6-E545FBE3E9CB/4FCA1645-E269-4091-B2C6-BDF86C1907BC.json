@@ -1,0 +1,55 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "4FCA1645-E269-4091-B2C6-BDF86C1907BC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "29E047F1-EEF0-4368-A617-5A8B9953B5B8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7E2FE686-B380-48CA-8C4C-CF8F6466ABE4",
+    "height": 30,
+    "width": 270,
+    "x": 0,
+    "y": 151
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Workflow Designer / Toolbar / Header",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "9476A6EF-02E2-475A-B0B7-A0EB32B3F26F_stringValue",
+      "value": "PROPERTIES"
+    }
+  ],
+  "overrides": {
+    "9476A6EF-02E2-475A-B0B7-A0EB32B3F26F": "PROPERTIES"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C3D470EF-A0C8-4C00-9130-6F38087CA4E0",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "66EE7DF3-C5B2-4A54-9048-97F784F72F65",
+  "verticalSpacing": 0
+}

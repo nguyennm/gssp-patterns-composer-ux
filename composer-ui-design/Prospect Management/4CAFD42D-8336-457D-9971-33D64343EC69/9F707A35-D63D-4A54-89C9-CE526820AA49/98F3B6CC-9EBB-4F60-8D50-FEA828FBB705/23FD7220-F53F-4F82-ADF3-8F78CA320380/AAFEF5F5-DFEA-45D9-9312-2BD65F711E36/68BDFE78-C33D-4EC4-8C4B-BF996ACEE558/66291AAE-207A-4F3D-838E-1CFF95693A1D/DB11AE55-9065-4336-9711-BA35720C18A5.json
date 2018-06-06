@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "DB11AE55-9065-4336-9711-BA35720C18A5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "63CDF4B0-4745-4894-B53F-42155C4D3B07",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "85E7F774-A2EA-440D-960F-EF59D104A1BA",
+    "height": 16,
+    "width": 16,
+    "x": 576,
+    "y": 7.892857142857142
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Icons/Action/ic_lock_outline",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "D7F69012-050B-42EB-94D4-FED0D0568D31",
+      "opacity": 0.3
+    },
+    "do_objectID": "C23A619D-3E82-4686-BBA7-8F8A762291CD",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "4CF682F7-DAE0-407F-9BD5-3F0FE158DB25",
+  "verticalSpacing": 0
+}

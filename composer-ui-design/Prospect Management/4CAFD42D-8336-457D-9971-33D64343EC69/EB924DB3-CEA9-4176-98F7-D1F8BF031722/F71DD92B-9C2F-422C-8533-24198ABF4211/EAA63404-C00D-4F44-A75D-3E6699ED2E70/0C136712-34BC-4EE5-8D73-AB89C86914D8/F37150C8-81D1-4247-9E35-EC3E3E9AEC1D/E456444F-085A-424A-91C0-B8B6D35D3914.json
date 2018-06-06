@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "E456444F-085A-424A-91C0-B8B6D35D3914",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A307F152-BEEE-4A79-8CEA-A4955A5F99A1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "32ACFF8B-2647-4EAC-B020-EDC748122B45",
+    "height": 196,
+    "width": 600,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Workflow Designer / Dropzone Group (inactive)",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "049BE745-F150-4457-9E70-4FCA0AE3CD59",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "7F8F5460-AE99-4BC2-8940-1DDA9A396464",
+  "verticalSpacing": 0
+}

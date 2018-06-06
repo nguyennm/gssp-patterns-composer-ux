@@ -38,9 +38,18 @@
       "do_objectID": "AB93725B-1F67-48D1-8813-89F84F3D9955",
       "overrideName": "E0C67B2E-9D62-4FB4-BC62-B91074054DE5_stringValue",
       "value": "Nickname"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EBF50273-1F3C-4478-8F8A-6211D6972275",
+      "overrideName": "24B3C4D6-931E-4494-B9C1-C38D18A971C4/D2E235B6-FD1B-43A2-9F02-D6410D1FC3BD_stringValue",
+      "value": "What is your nickname?"
     }
   ],
   "overrides": {
+    "24B3C4D6-931E-4494-B9C1-C38D18A971C4": {
+      "D2E235B6-FD1B-43A2-9F02-D6410D1FC3BD": "What is your nickname?"
+    },
     "B96FFD3A-8304-4387-B2AF-8BCCE5AF816A": {
       "symbolID": "4AD30566-D36B-4234-A6F0-4A6FC8C70912"
     },

@@ -15,7 +15,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "5CFCFF09-C57F-424A-ADE1-05DCCAE47601",
-    "height": 231,
+    "height": 303,
     "width": 250,
     "x": 10,
     "y": 70
@@ -25,39 +25,51 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "EEEE60B7-1D59-4958-B316-8538B4417F75"
+      "id": "1EBC5E52-4ECA-4A5E-AC35-2DF0F178C3B8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E688166A-20EE-48DB-BA30-4E97ADDCC097"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FD07836D-8099-44BC-95B3-BE0428077CC9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "60925DF7-52A3-4208-ADA1-F9391CA13D64"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "253D6B89-B927-48D6-AFB0-E1A64DA19C19"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FD498934-1C8B-478A-B021-563F10FC5E2B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8A9EC177-C1A5-493A-B664-A17DB446B7A6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "419CB670-9DCC-4D64-B178-745F8E93FF27"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EC36C1A8-7FD8-4CAD-80A4-FA5DB4F0FFE6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "302EE228-BC7D-4132-ABCD-9E6679FD7334"
     },
     {
       "class": "text",
-      "id": "00122F49-D339-4D8F-B00C-447E5F5163F5"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "C7E08739-B258-424E-AF35-835F56F8B01F"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "4C3ED851-1D65-48EC-9BF4-C087AD7AB897"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "69A734BA-03EF-4F65-9C84-3B3BAFCB6385"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "B1607415-DBD3-4E5B-86CD-72B3C2FB2170"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "344865B4-B293-4425-8F27-4FAB58C11A6D"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "DACEA937-9C87-4218-9C9E-9AFAB134EBD7"
+      "id": "5963C863-8DB4-4678-9114-19FE287EDC8C"
     }
   ],
   "name": "grp_component-rules",

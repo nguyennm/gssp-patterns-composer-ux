@@ -25,7 +25,7 @@
     "do_objectID": "D5572AC6-EDC8-4B9F-9CCF-010E41335E43",
     "height": 1440,
     "width": 1440,
-    "x": -1223,
+    "x": 1127,
     "y": -553
   },
   "grid": {
@@ -63,7 +63,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
@@ -98,16 +98,12 @@
       "id": "E0B943E6-EE7D-42E3-B91B-B8919837FD38"
     },
     {
-      "class": "group",
-      "id": "D1535DA4-122C-4C11-BEB3-AFD0A21E8881"
+      "class": "symbolInstance",
+      "id": "E107A134-0AC7-4542-A95E-871B38F4CEAD"
     },
     {
       "class": "symbolInstance",
       "id": "F6063F3A-0B3D-4B48-B7BB-6B4D06787CCA"
-    },
-    {
-      "class": "group",
-      "id": "AA896710-5DF5-40D4-A7E2-6D4681236BD1"
     }
   ],
   "layout": {

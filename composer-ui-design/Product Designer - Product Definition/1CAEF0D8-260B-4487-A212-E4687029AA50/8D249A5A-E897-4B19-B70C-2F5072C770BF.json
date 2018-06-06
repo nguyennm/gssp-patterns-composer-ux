@@ -73,20 +73,11 @@
       "_class": "overrideValue",
       "overrideName": "5683683B-DB25-4678-A724-970FCFCB3C2B/6B6EF206-56E2-466D-9489-25C5CB64A344_stringValue",
       "value": "Your annual income divided by 12"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "BFD88501-F321-4A17-BE69-F3C78FE44D47",
-      "overrideName": "4D1D2A3F-4835-4126-9BD2-5FDAE61D7D61/4A868392-AA27-4190-806C-D0B8AE5F1D00_stringValue",
-      "value": "Hidden"
     }
   ],
   "overrides": {
     "2DDA9F82-9CEE-4CFE-AC4B-ADAA0D376DB3": {
       "6B6EF206-56E2-466D-9489-25C5CB64A344": "Monthly Income"
-    },
-    "4D1D2A3F-4835-4126-9BD2-5FDAE61D7D61": {
-      "4A868392-AA27-4190-806C-D0B8AE5F1D00": "Hidden"
     },
     "5683683B-DB25-4678-A724-970FCFCB3C2B": {
       "6B6EF206-56E2-466D-9489-25C5CB64A344": "Your annual income divided by 12"

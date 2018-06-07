@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "DBFE1CA8-73B9-4B82-AA44-17E4609D4342",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 30,
+    "width": 270,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Workflow Designer / Toolbar / Tabs",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "9091E7BC-C85C-4398-B7A6-2811CD902E81_symbolID",
+      "value": "81228941-32CF-4422-934A-8322D149E106"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "8E23346F-1098-4F7A-A342-1889F259DAD1_symbolID",
+      "value": "C75EA826-5587-42D2-8F21-CA145AC1AF4A"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "9091E7BC-C85C-4398-B7A6-2811CD902E81/A4B619D5-7833-4038-AC41-04B303C118CE_stringValue",
+      "value": "RULES"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "8E23346F-1098-4F7A-A342-1889F259DAD1/DD8B5A81-D9E4-4D8B-BC20-B0BB33E123DE_stringValue",
+      "value": "TOOLBAR"
+    }
+  ],
+  "overrides": {
+    "8E23346F-1098-4F7A-A342-1889F259DAD1": {
+      "DD8B5A81-D9E4-4D8B-BC20-B0BB33E123DE": "TOOLBAR",
+      "symbolID": "C75EA826-5587-42D2-8F21-CA145AC1AF4A"
+    },
+    "9091E7BC-C85C-4398-B7A6-2811CD902E81": {
+      "A4B619D5-7833-4038-AC41-04B303C118CE": "RULES",
+      "symbolID": "81228941-32CF-4422-934A-8322D149E106"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "AAF40AF9-879C-46F1-B5E1-7322D547F6FE",
+  "verticalSpacing": 0
+}

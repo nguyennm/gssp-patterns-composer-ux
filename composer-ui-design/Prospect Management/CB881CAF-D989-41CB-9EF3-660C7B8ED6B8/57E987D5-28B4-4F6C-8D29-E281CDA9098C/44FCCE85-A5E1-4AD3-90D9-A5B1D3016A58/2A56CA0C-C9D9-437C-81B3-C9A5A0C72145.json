@@ -1,0 +1,46 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGXV5YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHAcIDxAcHR4fKywtLi8wMTIzOT9CRk5PUFFSVVlVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAbgANfEBpSdWxlcyBFZGl0b3IgZm9yOiBOaWNrbmFtZdMREgoTFxtXTlMua2V5c1pOUy5vYmplY3RzoxQVFoAEgAWABqMYGRqAB4ARgBOAEF8QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZV8QEE5TUGFyYWdyYXBoU3R5bGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRl0xESCiAlG6QhIiMkgAiACYAKgAukJicoKYAMgA2ADoAPgBBTcmVkVWFscGhhVGJsdWVVZ3JlZW4jP8mZmZmZmZojP/AAAAAAAAAjP8mZmZmZmZojP8mZmZmZmZrSNDU2N1okY2xhc3NuYW1lWCRjbGFzc2VzXE5TRGljdGlvbmFyeaI2OFhOU09iamVjdNM6Cjs8PT5aTlNUYWJTdG9wc1tOU0FsaWdubWVudIAAgBIQBNI0NUBBXxAQTlNQYXJhZ3JhcGhTdHlsZaJAONIKQ0RFXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAGoAU0xESCkdKTaJISYAVgBaiS0yAF4AYgBlfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAOAAAAAAAAFxHZW9yZ2lhLUJvbGTSNDVTVF8QE05TTXV0YWJsZURpY3Rpb25hcnmjUzY40jQ1VldfEBBOU0ZvbnREZXNjcmlwdG9yolg4XxAQTlNGb250RGVzY3JpcHRvctI0NVpbXxASTlNBdHRyaWJ1dGVkU3RyaW5nolw4XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0V9gVHJvb3SAAQAIABEAGgAjAC0AMgA3AFYAXABjAGwAcwCAAIIAhACGAKMAqgCyAL0AwQDDAMUAxwDLAM0AzwDRANMBAAETATUBPAFBAUMBRQFHAUkBTgFQAVIBVAFWAVgBXAFiAWcBbQF2AX8BiAGRAZYBoQGqAbcBugHDAcoB1QHhAeMB5QHnAewB/wICAgcCJAImAigCLwIyAjQCNgI5AjsCPQI/AlUCawJ0AoEChgKcAqACpQK4ArsCzgLTAugC6wMAAxIDFQMaAAAAAAAAAgEAAAAAAAAAYQAAAAAAAAAAAAAAAAAAAxw="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "2A56CA0C-C9D9-437C-81B3-C9A5A0C72145",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 27,
+    "width": 568,
+    "x": 42,
+    "y": 64
+  },
+  "glyphBounds": "{{0, 3}, {338, 20}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 1,
+  "name": "Rules Editor for: Ni",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "C08D5B10-28BB-4AA5-9F36-9F3877518885"
+  },
+  "textBehaviour": 1
+}

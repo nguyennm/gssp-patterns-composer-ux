@@ -17,8 +17,8 @@
     "do_objectID": "59C3BCD1-E41C-4E4A-8065-66ABB3BB2E49",
     "height": 19,
     "width": 200,
-    "x": 47,
-    "y": 125
+    "x": 25,
+    "y": 84
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -31,12 +31,13 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "overrideName": "4A868392-AA27-4190-806C-D0B8AE5F1D00_stringValue",
+      "do_objectID": "7F216F10-BAE1-43A3-B39F-74C12837AD35",
+      "overrideName": "88004E03-25D2-4FC2-97B8-09545590739E_stringValue",
       "value": "Prospect Update"
     }
   ],
   "overrides": {
-    "4A868392-AA27-4190-806C-D0B8AE5F1D00": "Prospect Update"
+    "88004E03-25D2-4FC2-97B8-09545590739E": "Prospect Update"
   },
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -50,6 +51,6 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "18DBAD74-3045-4BEC-A3F3-419893DE450C",
+  "symbolID": "81BC068D-30A4-4C17-8F3B-DC54CEF52CC1",
   "verticalSpacing": 0
 }

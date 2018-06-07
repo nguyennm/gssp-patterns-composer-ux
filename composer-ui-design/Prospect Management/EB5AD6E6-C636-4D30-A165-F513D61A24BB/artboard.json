@@ -59,7 +59,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
@@ -117,7 +117,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1140
   },
-  "name": "Prospect Management - Dropdown Selected - Rules - Desktop HD",
+  "name": "Prospect Management - Component Rules (Flow Selection) - Desktop HD",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

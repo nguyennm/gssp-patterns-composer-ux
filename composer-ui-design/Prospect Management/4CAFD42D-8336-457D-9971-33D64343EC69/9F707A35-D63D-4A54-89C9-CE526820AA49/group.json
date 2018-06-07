@@ -16,14 +16,14 @@
     "height": 1112,
     "width": 1478,
     "x": 671,
-    "y": 2921
+    "y": 2968
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
@@ -34,7 +34,7 @@
       "id": "CE38D406-FBE5-4A29-87EF-818F108D0F46"
     }
   ],
-  "name": "Editing Rules View",
+  "name": "Flow Selection View",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,

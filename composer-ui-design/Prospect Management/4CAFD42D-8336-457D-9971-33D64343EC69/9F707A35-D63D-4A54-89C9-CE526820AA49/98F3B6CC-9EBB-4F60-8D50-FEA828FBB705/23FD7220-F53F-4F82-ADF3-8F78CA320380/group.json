@@ -27,27 +27,23 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "10D162BA-2F3D-4AE2-987A-BC7984C8E878"
+      "id": "D90A5554-1180-4FF8-B65E-8630655B532A"
     },
     {
       "class": "group",
-      "id": "AAFEF5F5-DFEA-45D9-9312-2BD65F711E36"
+      "id": "BFFF57EC-E8BF-481A-96A2-722F83EFC3BC"
     },
     {
       "class": "group",
-      "id": "DEFA57C7-E233-4A36-9504-689127FAD56B"
+      "id": "3090A92F-9E75-4DF9-9643-CC20AE561F90"
     },
     {
       "class": "group",
-      "id": "EC977559-81EA-4BFB-AF79-2F822F723C27"
+      "id": "250A6A72-5752-4CCF-AEF7-45FB5B4D91FA"
     },
     {
       "class": "symbolInstance",
-      "id": "2DDE879A-CCCF-4B00-B70A-CED88FE8B90E"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "D748A891-D02C-4565-9AB6-AC1107DE2B46"
+      "id": "F7BA3192-10FB-41E5-AED2-619F4A07C165"
     }
   ],
   "name": "Group 2",

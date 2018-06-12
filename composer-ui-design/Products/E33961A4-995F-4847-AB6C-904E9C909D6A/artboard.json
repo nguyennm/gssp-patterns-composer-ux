@@ -25,7 +25,7 @@
     "do_objectID": "1D2E147C-3268-4727-BF01-A1BD8C1ACA64",
     "height": 1024,
     "width": 1440,
-    "x": 6109,
+    "x": 8459,
     "y": 2689
   },
   "hasBackgroundColor": true,
@@ -57,7 +57,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",

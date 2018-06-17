@@ -15,9 +15,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "8C5E81EC-0F81-477B-93E3-058660A74C3F",
-    "height": 79,
-    "width": 868,
-    "x": 0,
+    "height": 305,
+    "width": 866,
+    "x": 1,
     "y": 46
   },
   "hasClickThrough": false,
@@ -29,15 +29,19 @@
   "layers": [
     {
       "class": "symbolInstance",
+      "id": "31024E82-1DCB-4B48-9655-24B68A47684F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E115E93C-BB65-4797-B0F2-C58A28FC88CA"
+    },
+    {
+      "class": "symbolInstance",
       "id": "B54C4806-73DC-4C31-87F1-8DA02419A8D0"
     },
     {
       "class": "shapeGroup",
       "id": "7FD3ED9E-EB73-4F82-B142-663B6C2A9F99"
-    },
-    {
-      "class": "text",
-      "id": "4CFD9EDF-CB4A-42AC-A830-DBC64FDB026A"
     }
   ],
   "name": "rules-list",

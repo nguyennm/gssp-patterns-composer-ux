@@ -23,7 +23,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -31,7 +31,7 @@
     },
     {
       "class": "group",
-      "id": "186AA877-2530-43DF-B680-479EC26BE40F"
+      "id": "91722A99-BE10-4917-8263-7FBEA7ACABEB"
     },
     {
       "class": "symbolInstance",

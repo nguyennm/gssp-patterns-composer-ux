@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 38,
+  "changeIdentifier": 157,
   "do_objectID": "50F77E58-7C8F-4E15-A9AD-18D41667A024",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,7 +21,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 53,
+    "height": 101,
     "width": 866,
     "x": 7734,
     "y": 328
@@ -42,11 +42,27 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
       "id": "980BB4A6-3A99-427B-AF0B-72898279CD3E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1F808639-49FB-445C-BA9A-6BCD1B125240"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "85C5AF04-7994-4992-8DC7-866F14CFD0F2"
+    },
+    {
+      "class": "text",
+      "id": "9B17995E-E055-4D93-A1EE-6CE22A7F04C5"
+    },
+    {
+      "class": "text",
+      "id": "00FDD5B3-1729-4912-B5F7-74E6CB719220"
     }
   ],
   "name": "Statics / event-rule-row-collapsed",

@@ -1,0 +1,73 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "D4F5E59E-880E-4B75-BBEF-21FA7C01B2A7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F415DFAE-DDF1-458B-A074-CF9F530D9235",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1B4222D4-475A-4DE4-8E7A-5C81C7D6A432",
+    "height": 75,
+    "width": 1111,
+    "x": 0,
+    "y": 52
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Statics / publication-row",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "B27DAFE2-AD0E-4725-85AE-C2A2CF23DFA9_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "10DAE82B-2C20-4137-969C-2124B5BD6CF9_stringValue",
+      "value": "05/01/2018 4:10PM by Nick Nguyen"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "915D7EE8-081C-4B32-9165-F681B331C326_stringValue",
+      "value": "Version 2.0.0"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "AD3135F4-7790-4A6A-8D0B-401565A79278_stringValue",
+      "value": "(Success)"
+    }
+  ],
+  "overrides": {
+    "10DAE82B-2C20-4137-969C-2124B5BD6CF9": "05/01/2018 4:10PM by Nick Nguyen",
+    "915D7EE8-081C-4B32-9165-F681B331C326": "Version 2.0.0",
+    "AD3135F4-7790-4A6A-8D0B-401565A79278": "(Success)",
+    "B27DAFE2-AD0E-4725-85AE-C2A2CF23DFA9": " "
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C894EED0-D890-42AE-AA93-4BB424A12BE7",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "03406E0F-F2FB-41C8-B0B3-D6A09FA69CD6",
+  "verticalSpacing": 0
+}

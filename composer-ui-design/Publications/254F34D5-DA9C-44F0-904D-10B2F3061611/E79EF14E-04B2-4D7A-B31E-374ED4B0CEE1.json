@@ -31,11 +31,27 @@
       "_class": "overrideValue",
       "do_objectID": "CAF99363-E691-4286-BA55-A104EA070F3A",
       "overrideName": "669711BB-2FBB-473D-B27E-77FEE7ADD0E9_stringValue",
-      "value": "Oh no! We found some issues with your changes."
+      "value": "Oh no! An error occurred while attempting to validate your changes."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CEA94D65-3104-4714-8E1B-676C4FEA76F1",
+      "overrideName": "74DA6515-4ECE-4F32-8379-6792E150FD19_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "561659F4-432E-48F6-B430-AFA00F00902D",
+      "overrideName": "715777CA-5983-44BB-A704-8620B299C56A_stringValue",
+      "value": " "
     }
   ],
   "overrides": {
-    "669711BB-2FBB-473D-B27E-77FEE7ADD0E9": "Oh no! We found some issues with your changes."
+    "669711BB-2FBB-473D-B27E-77FEE7ADD0E9": "Oh no! An error occurred while attempting to validate your changes.",
+    "715777CA-5983-44BB-A704-8620B299C56A": " ",
+    "74DA6515-4ECE-4F32-8379-6792E150FD19": {
+      "symbolID": ""
+    }
   },
   "resizingConstraint": 63,
   "resizingType": 0,

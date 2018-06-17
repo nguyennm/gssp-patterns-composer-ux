@@ -15,33 +15,25 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "C6C3AC21-4A68-4C95-9C8F-91757BEB18ED",
-    "height": 155,
-    "width": 133,
-    "x": 36,
-    "y": 107
+    "height": 338,
+    "width": 190,
+    "x": 30,
+    "y": 30
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "250BE0A5-2819-467E-8741-27C28248BA18"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "B4D5E119-CFC0-4961-83C1-6923BAE55A85"
+      "class": "group",
+      "id": "E021D458-061A-4A31-8E9D-1824711DF8CA"
     },
     {
       "class": "text",
-      "id": "7071C1FD-D030-4A4A-9C81-8724765BE887"
-    },
-    {
-      "class": "group",
-      "id": "1E37B6E1-6BA2-4287-B45F-2FCBD1D93CC3"
+      "id": "EC28C346-A0BC-4638-B58B-188B623CA48F"
     }
   ],
   "name": "Select / Select (Disabled) Copy",

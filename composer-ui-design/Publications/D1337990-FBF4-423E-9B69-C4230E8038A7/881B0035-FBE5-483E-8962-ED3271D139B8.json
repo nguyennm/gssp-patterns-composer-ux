@@ -38,11 +38,20 @@
       "do_objectID": "781B7DF9-498A-4BE0-8E02-B52251BE1D8E",
       "overrideName": "F77C34FB-D392-4A0F-B3B9-D755F5DDDFF9_stringValue",
       "value": "Way to go! Everything looks good from our end."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7A7DFCB6-C210-45B0-B52B-079F9B0E88F9",
+      "overrideName": "CDA84E52-2897-459D-A193-3B5096EE4B8C_symbolID",
+      "value": ""
     }
   ],
   "overrides": {
     "91CDEBBD-E202-41A3-A853-74E367AB5CEC": {
       "symbolID": "1C13707F-C377-4BF7-A433-D55A0E5F315B"
+    },
+    "CDA84E52-2897-459D-A193-3B5096EE4B8C": {
+      "symbolID": ""
     },
     "F77C34FB-D392-4A0F-B3B9-D755F5DDDFF9": "Way to go! Everything looks good from our end."
   },

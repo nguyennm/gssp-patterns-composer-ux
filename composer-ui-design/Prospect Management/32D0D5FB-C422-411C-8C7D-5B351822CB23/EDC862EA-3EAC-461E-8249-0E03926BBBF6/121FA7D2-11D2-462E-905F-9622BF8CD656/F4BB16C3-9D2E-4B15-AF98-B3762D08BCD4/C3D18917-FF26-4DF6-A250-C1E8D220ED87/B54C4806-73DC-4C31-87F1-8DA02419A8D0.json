@@ -15,10 +15,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "5966EF5C-52E4-46B2-88BB-96FBE8DA1C81",
-    "height": 53,
+    "height": 101,
     "width": 866,
-    "x": 2,
-    "y": 26
+    "x": 0,
+    "y": 2
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -33,31 +33,40 @@
       "_class": "overrideValue",
       "do_objectID": "69C6CD3E-B3A7-4B74-9939-9FC334119F89",
       "overrideName": "99EC0BC5-1B3E-4F46-B15E-9112EC0D7E1B_stringValue",
-      "value": "00"
+      "value": "DISABLE"
     },
     {
       "_class": "overrideValue",
       "do_objectID": "B0A9AC8B-E1A7-49E8-8376-1851457C9012",
       "overrideName": "A8686BD5-0ADF-4FDE-BABA-47EFEF00FE50_stringValue",
-      "value": "Disabled when"
+      "value": "When @gpe.value prospect.attrs.firstName === ‘Nick’,"
     },
     {
       "_class": "overrideValue",
       "do_objectID": "78EC0C75-28CA-46DA-B950-3F10CFF793FF",
       "overrideName": "505BA853-2CD4-42A1-B52C-54412B2AD027_stringValue",
-      "value": "true"
+      "value": "disable this component."
     },
     {
       "_class": "overrideValue",
       "do_objectID": "0EC887D0-1BE4-4E25-BD6E-996AB3EEECD8",
       "overrideName": "FA5344AF-1B4E-4AAE-B144-7EB6D819E9A5/AFC41224-15DF-4C2A-B727-8254764CDCA2_stringValue",
       "value": "Prospect Update"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "258D7AE0-9B1F-429B-AC44-7CEB9758F08C",
+      "overrideName": "68795A32-628D-489B-8CFE-3960875ED3F1_symbolID",
+      "value": ""
     }
   ],
   "overrides": {
-    "505BA853-2CD4-42A1-B52C-54412B2AD027": "true",
-    "99EC0BC5-1B3E-4F46-B15E-9112EC0D7E1B": "00",
-    "A8686BD5-0ADF-4FDE-BABA-47EFEF00FE50": "Disabled when",
+    "505BA853-2CD4-42A1-B52C-54412B2AD027": "disable this component.",
+    "68795A32-628D-489B-8CFE-3960875ED3F1": {
+      "symbolID": ""
+    },
+    "99EC0BC5-1B3E-4F46-B15E-9112EC0D7E1B": "DISABLE",
+    "A8686BD5-0ADF-4FDE-BABA-47EFEF00FE50": "When @gpe.value prospect.attrs.firstName === ‘Nick’,",
     "FA5344AF-1B4E-4AAE-B144-7EB6D819E9A5": {
       "AFC41224-15DF-4C2A-B727-8254764CDCA2": "Prospect Update"
     }

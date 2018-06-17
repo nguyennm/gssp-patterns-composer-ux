@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 71,
+  "changeIdentifier": 564,
   "do_objectID": "029CA529-EA08-4D29-B3D0-781C40B7903F",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,7 +21,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 148,
+    "height": 153,
     "width": 866,
     "x": 7734,
     "y": 481
@@ -42,11 +42,27 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
       "id": "580AB37B-024F-4CDD-A9FB-8040DE17BAC9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C793BA05-540F-404F-8DCB-103425587A97"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4C6A7C06-1182-4983-B093-4BC1E7FBDF10"
+    },
+    {
+      "class": "text",
+      "id": "D1A3982F-6FC7-4A60-BD2B-F8547408052B"
+    },
+    {
+      "class": "text",
+      "id": "1E5EF20F-59EF-4B8A-8F76-072F43567CD1"
     }
   ],
   "name": "Statics / event-rule-row-expanded",

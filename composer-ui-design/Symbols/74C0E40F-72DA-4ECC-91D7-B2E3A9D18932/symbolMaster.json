@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 4039,
+  "changeIdentifier": 4158,
   "do_objectID": "74C0E40F-72DA-4ECC-91D7-B2E3A9D18932",
   "exportOptions": {
     "_class": "exportOptions",
@@ -42,15 +42,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
       "id": "5EF5E7ED-036A-4FAA-A492-02AA1148BE7D"
-    },
-    {
-      "class": "group",
-      "id": "BAF44BDA-951F-4A24-BE15-5E4936A281D5"
     }
   ],
   "name": "Workflow Designer / Rules / Field Selected",

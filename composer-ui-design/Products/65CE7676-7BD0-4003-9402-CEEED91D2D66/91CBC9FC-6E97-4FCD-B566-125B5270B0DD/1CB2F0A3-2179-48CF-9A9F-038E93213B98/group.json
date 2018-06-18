@@ -15,7 +15,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "F2CFFB5C-EA44-48A5-9B3E-68444E73E2B3",
-    "height": 1135,
+    "height": 1229,
     "width": 950,
     "x": 245,
     "y": 100
@@ -78,6 +78,10 @@
     {
       "class": "group",
       "id": "1AF52D5C-6E6A-4AD6-8BF2-C76C184D2A18"
+    },
+    {
+      "class": "group",
+      "id": "EA4AED51-E90B-4ABD-BA8C-7D6EF991564E"
     }
   ],
   "name": "grp_dialog",

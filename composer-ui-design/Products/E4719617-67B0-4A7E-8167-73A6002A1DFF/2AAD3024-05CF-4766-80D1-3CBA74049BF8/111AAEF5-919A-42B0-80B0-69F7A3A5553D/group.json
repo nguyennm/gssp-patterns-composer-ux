@@ -13,7 +13,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 2586,
+    "height": 2920,
     "width": 950,
     "x": 245,
     "y": 182
@@ -100,6 +100,10 @@
     {
       "class": "group",
       "id": "EB2CF57F-4221-4938-A57F-D3915EB54805"
+    },
+    {
+      "class": "group",
+      "id": "48198CDB-EE90-4969-B248-DA9EC070438C"
     }
   ],
   "name": "grp_dialog",

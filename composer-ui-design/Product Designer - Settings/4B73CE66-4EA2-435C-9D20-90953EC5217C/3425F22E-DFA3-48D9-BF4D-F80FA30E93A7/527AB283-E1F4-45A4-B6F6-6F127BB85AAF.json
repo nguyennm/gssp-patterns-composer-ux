@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "527AB283-E1F4-45A4-B6F6-6F127BB85AAF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "26B95EE5-6905-4DFA-9D17-DC3BCCA726F0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D71A49B5-388A-4421-B712-8B819577ECAC",
+    "height": 53,
+    "width": 830,
+    "x": 0,
+    "y": 110
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Statics / coverage-row",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "B1D2C8AB-C131-43C1-91DB-7FF881E28503_stringValue",
+      "value": "Circle 3"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E32E595C-D1D2-4C40-8F73-282CAFBA888F_stringValue",
+      "value": "This is yet another description for Circle 3 coverage."
+    }
+  ],
+  "overrides": {
+    "B1D2C8AB-C131-43C1-91DB-7FF881E28503": "Circle 3",
+    "E32E595C-D1D2-4C40-8F73-282CAFBA888F": "This is yet another description for Circle 3 coverage."
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FD054F03-ACDF-44DF-BE24-49824401EB0B",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "C72F39EE-E9B9-4B4F-BF92-06F0C5EF131C",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "5CC4493A-23CD-46C5-8418-BD782BAB7C16",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "016BDD5E-F5DC-4BD4-A57A-9D31348411E0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2CE38F80-93CA-4C76-B79F-A645B94B9E1E",
+    "height": 53,
+    "width": 830,
+    "x": 0,
+    "y": 2
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Statics / rider-row",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C69A8C35-F773-48B9-A414-1E9F25B77B7B",
+      "overrideName": "718B1709-C62B-4A54-AA31-F634A09B7173_stringValue",
+      "value": "Applies to: Circle 2"
+    }
+  ],
+  "overrides": {
+    "718B1709-C62B-4A54-AA31-F634A09B7173": "Applies to: Circle 2"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5B56BA0F-448E-4550-A289-844B2FFDB4A3",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "DE1C95F8-268B-4747-89A7-EBE848EC8C26",
+  "verticalSpacing": 0
+}

@@ -32,11 +32,11 @@
     {
       "_class": "overrideValue",
       "overrideName": "D6C5B939-770C-4EB5-A04A-811AE08E15C6_stringValue",
-      "value": "Translations"
+      "value": "Coverages & Riders"
     }
   ],
   "overrides": {
-    "D6C5B939-770C-4EB5-A04A-811AE08E15C6": "Translations"
+    "D6C5B939-770C-4EB5-A04A-811AE08E15C6": "Coverages & Riders"
   },
   "resizingConstraint": 63,
   "resizingType": 0,

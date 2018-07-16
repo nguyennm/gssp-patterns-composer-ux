@@ -57,7 +57,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
@@ -69,7 +69,19 @@
     },
     {
       "class": "group",
-      "id": "571A33EF-963C-432B-8D13-BECB35C4D889"
+      "id": "E2E67C83-00EA-4A6B-BD7B-F6D0D3F0B525"
+    },
+    {
+      "class": "group",
+      "id": "C603F2F7-D4F3-4EAB-8D1F-F0486B927F5F"
+    },
+    {
+      "class": "group",
+      "id": "DAD4412E-F3FF-472A-AD09-82DFD4108088"
+    },
+    {
+      "class": "group",
+      "id": "5CD272D3-A307-4A2F-BD35-4CC699EDDD37"
     },
     {
       "class": "group",
@@ -77,15 +89,19 @@
     },
     {
       "class": "group",
-      "id": "00B9C715-E8EB-4310-BFEB-0037E000A329"
-    },
-    {
-      "class": "group",
-      "id": "361482C4-2083-423B-AB3F-60257691D875"
-    },
-    {
-      "class": "group",
       "id": "7119245C-A4E3-4E3B-B680-FD498F1E7C40"
+    },
+    {
+      "class": "group",
+      "id": "6856191A-F336-45D9-8EA2-D6C5A2EAD0A5"
+    },
+    {
+      "class": "group",
+      "id": "571A33EF-963C-432B-8D13-BECB35C4D889"
+    },
+    {
+      "class": "group",
+      "id": "51FF2B9D-BD95-46BC-8801-30D97526204A"
     },
     {
       "class": "group",
@@ -102,10 +118,6 @@
     {
       "class": "symbolInstance",
       "id": "E3FCD9CF-E754-49E5-87BC-11B64FFDCE06"
-    },
-    {
-      "class": "group",
-      "id": "36814CAD-50DE-4008-ADDE-A70472E4A7F6"
     },
     {
       "class": "group",

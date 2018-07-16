@@ -1,0 +1,99 @@
+{
+  "_class": "group",
+  "do_objectID": "EB2CF57F-4221-4938-A57F-D3915EB54805",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 612,
+    "width": 890,
+    "x": 30,
+    "y": 2174
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5E82AEB7-5C01-4EE7-834B-9C9270AFEA9F"
+    },
+    {
+      "class": "text",
+      "id": "1AE11B3C-7BF2-4C62-AA0B-943A50A6B436"
+    },
+    {
+      "class": "text",
+      "id": "9DB24624-769F-4BE8-BFBE-BA115BE06495"
+    },
+    {
+      "class": "group",
+      "id": "C81D2DAF-FE73-4049-9BBD-CE4CFEB91C73"
+    },
+    {
+      "class": "group",
+      "id": "DE705A26-C7C1-4C65-99E8-6BEDD48EACE4"
+    },
+    {
+      "class": "group",
+      "id": "391E7FAD-74AC-4DAF-93B7-E78D53A1512D"
+    },
+    {
+      "class": "group",
+      "id": "963FB4C0-CE65-41A4-9986-6F604F8637C2"
+    },
+    {
+      "class": "group",
+      "id": "EC466F03-F361-4D70-80BE-C8408EE2D408"
+    },
+    {
+      "class": "text",
+      "id": "68840510-CBB8-4098-8B6F-B78F8D17C563"
+    }
+  ],
+  "name": "grp_rider-form",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 4,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4,
+          "green": 0.4,
+          "red": 0.4
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  }
+}

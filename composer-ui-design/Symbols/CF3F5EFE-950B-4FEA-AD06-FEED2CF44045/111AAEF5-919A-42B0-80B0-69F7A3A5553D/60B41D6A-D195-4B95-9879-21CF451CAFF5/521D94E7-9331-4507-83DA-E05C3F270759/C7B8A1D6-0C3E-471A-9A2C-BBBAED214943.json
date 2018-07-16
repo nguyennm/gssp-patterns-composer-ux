@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "C7B8A1D6-0C3E-471A-9A2C-BBBAED214943",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A0FAB2E5-CA20-46E1-9F92-E5284132DEE9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "86294A7F-86B3-4F81-82B3-67E8CC294E94",
+    "height": 19,
+    "width": 400,
+    "x": 4,
+    "y": 55
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Checkbox / Unchecked",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CAAF6C5C-E88B-497F-BCE1-396DBCCEC5D8",
+      "overrideName": "4A868392-AA27-4190-806C-D0B8AE5F1D00_stringValue",
+      "value": "Circle 2"
+    }
+  ],
+  "overrides": {
+    "4A868392-AA27-4190-806C-D0B8AE5F1D00": "Circle 2"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6D0D013C-6A88-47D9-AB14-AAABE76D3E4D",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "18DBAD74-3045-4BEC-A3F3-419893DE450C",
+  "verticalSpacing": 0
+}

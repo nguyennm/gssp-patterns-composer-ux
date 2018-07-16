@@ -13,7 +13,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 3210,
+    "height": 3550,
     "width": 1440,
     "x": 0,
     "y": 0
@@ -30,8 +30,8 @@
       "id": "629F8208-E103-433D-867E-E1A3832E5C1A"
     },
     {
-      "class": "group",
-      "id": "111AAEF5-919A-42B0-80B0-69F7A3A5553D"
+      "class": "symbolInstance",
+      "id": "F22AF37C-235A-4E6C-9DC4-9492EED8A2EF"
     }
   ],
   "name": "grp_modal",

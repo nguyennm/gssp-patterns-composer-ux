@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "18E15653-ABFE-4AD0-81F7-2FFEDD24C130",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 19,
+    "width": 400,
+    "x": 4,
+    "y": 55
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Checkbox / Unchecked",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "4A868392-AA27-4190-806C-D0B8AE5F1D00_stringValue",
+      "value": "Accident Medical Reimbursement (AMR)"
+    }
+  ],
+  "overrides": {
+    "4A868392-AA27-4190-806C-D0B8AE5F1D00": "Accident Medical Reimbursement (AMR)"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "18DBAD74-3045-4BEC-A3F3-419893DE450C",
+  "verticalSpacing": 0
+}

@@ -1,6 +1,6 @@
 {
-  "_class": "group",
-  "do_objectID": "BAF141D5-678A-4CD4-8C97-44254CC286E2",
+  "_class": "symbolInstance",
+  "do_objectID": "BD0F32BD-4648-4410-ABCD-60F974268716",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,37 +13,41 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1024,
-    "width": 1440,
+    "height": 19,
+    "width": 48,
     "x": 0,
-    "y": 0
+    "y": 481
   },
-  "hasClickThrough": false,
+  "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
+  "name": "Form / Hyperlink",
+  "nameIsFixed": false,
+  "overrideValues": [
     {
-      "class": "shapeGroup",
-      "id": "601DA01F-E990-4399-A60C-35B99E65CCCF"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "0E4C8EAB-3FD7-490E-9934-18BF9B2FA6EA"
+      "_class": "overrideValue",
+      "do_objectID": "A4B0735C-738C-4E64-B890-75345C9CC704",
+      "overrideName": "1E36F99A-3E1D-4180-AAE4-C758B68169F1_stringValue",
+      "value": "Cancel"
     }
   ],
-  "name": "grp_modal",
-  "nameIsFixed": true,
+  "overrides": {
+    "1E36F99A-3E1D-4180-AAE4-C758B68169F1": "Cancel"
+  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  }
+  },
+  "symbolID": "1420220F-A643-40CD-8FA3-5EF000E1BB0D",
+  "verticalSpacing": 0
 }

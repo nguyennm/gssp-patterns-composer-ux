@@ -1,6 +1,6 @@
 {
-  "_class": "group",
-  "do_objectID": "BAF141D5-678A-4CD4-8C97-44254CC286E2",
+  "_class": "symbolInstance",
+  "do_objectID": "BD8B144B-0D06-4AC4-8639-5EE5C2361F6E",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,37 +13,40 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1024,
-    "width": 1440,
+    "height": 36,
+    "width": 566,
     "x": 0,
-    "y": 0
+    "y": 26
   },
-  "hasClickThrough": false,
+  "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
+  "name": "Input / Text (Placeholder)",
+  "nameIsFixed": false,
+  "overrideValues": [
     {
-      "class": "shapeGroup",
-      "id": "601DA01F-E990-4399-A60C-35B99E65CCCF"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "0E4C8EAB-3FD7-490E-9934-18BF9B2FA6EA"
+      "_class": "overrideValue",
+      "overrideName": "58BEE4E0-0614-4B4B-830B-7C05D14674D6_stringValue",
+      "value": "Tenant's ID"
     }
   ],
-  "name": "grp_modal",
-  "nameIsFixed": true,
+  "overrides": {
+    "58BEE4E0-0614-4B4B-830B-7C05D14674D6": "Tenant's ID"
+  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  }
+  },
+  "symbolID": "AF234068-A97D-4097-8C29-3839F1341F51",
+  "verticalSpacing": 0
 }

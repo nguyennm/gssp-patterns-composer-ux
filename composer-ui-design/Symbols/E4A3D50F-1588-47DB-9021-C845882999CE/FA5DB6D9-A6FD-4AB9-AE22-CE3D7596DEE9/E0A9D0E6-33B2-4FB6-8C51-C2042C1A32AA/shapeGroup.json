@@ -1,9 +1,10 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "C03088A5-BA4D-4297-A9CD-5E29B15BFC05",
+  "do_objectID": "E0A9D0E6-33B2-4FB6-8C51-C2042C1A32AA",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "7A07978E-00F0-4ABB-BF2B-146C903BEE8A",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -14,10 +15,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 3,
-    "width": 733,
-    "x": 478,
-    "y": 483.4540389972144
+    "do_objectID": "2FB709CB-F9D8-432A-94C7-FFF3547F2EEA",
+    "height": 550,
+    "width": 650,
+    "x": 0,
+    "y": 0
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -28,11 +30,11 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "shapePath",
-      "id": "CE78AD4D-0545-42FF-8D9E-68D9A21A35C5"
+      "class": "rectangle",
+      "id": "E7597AB2-BA36-41A8-ABD6-1A28C6964BE4"
     }
   ],
-  "name": "Line 2 Copy 5",
+  "name": "Rectangle 4",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -40,30 +42,23 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "borderOptions": {
-      "_class": "borderOptions",
-      "dashPattern": [
-      ],
-      "isEnabled": false,
-      "lineCapStyle": 2,
-      "lineJoinStyle": 0
-    },
     "borders": [
       {
         "_class": "border",
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.2,
-          "green": 0.2,
-          "red": 0.2
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
         },
         "fillType": 0,
-        "isEnabled": true,
-        "position": 0,
-        "thickness": 2
+        "isEnabled": false,
+        "position": 1,
+        "thickness": 1
       }
     ],
+    "do_objectID": "098CC57F-3791-42E5-AC05-FF7024AC2ED4",
     "endDecorationType": 0,
     "fills": [
       {
@@ -71,12 +66,12 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.847,
-          "green": 0.847,
-          "red": 0.847
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "fillType": 0,
-        "isEnabled": false,
+        "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 1,

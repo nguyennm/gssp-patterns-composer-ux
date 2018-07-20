@@ -29,8 +29,17 @@
   "name": "SideNav / tenant-overview",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "17EEA96A-69F4-4E48-BD17-FD6F67D1BA83",
+      "overrideName": "EB4B618A-25EC-4EFB-814D-3A2692624B7E/D6C5B939-770C-4EB5-A04A-811AE08E15C6_stringValue",
+      "value": "Translations"
+    }
   ],
   "overrides": {
+    "EB4B618A-25EC-4EFB-814D-3A2692624B7E": {
+      "D6C5B939-770C-4EB5-A04A-811AE08E15C6": "Translations"
+    }
   },
   "resizingConstraint": 63,
   "resizingType": 0,

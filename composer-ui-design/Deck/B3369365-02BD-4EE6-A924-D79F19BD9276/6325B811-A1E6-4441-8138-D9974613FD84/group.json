@@ -23,15 +23,15 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
       "id": "AA665BD5-4D90-4162-AE26-9D326E212440"
     },
     {
-      "class": "group",
-      "id": "FA5DB6D9-A6FD-4AB9-AE22-CE3D7596DEE9"
+      "class": "symbolInstance",
+      "id": "97EF966B-FC0F-4D4B-B4C6-8BA48F629342"
     }
   ],
   "name": "grp_modal",

@@ -1,6 +1,6 @@
 {
   "_class": "group",
-  "do_objectID": "BAF141D5-678A-4CD4-8C97-44254CC286E2",
+  "do_objectID": "D74B32A0-07EB-4F2C-BA0D-B4379E3A1455",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,28 +13,28 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1024,
-    "width": 1440,
-    "x": 0,
-    "y": 0
+    "height": 62,
+    "width": 566,
+    "x": 42,
+    "y": 165
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "601DA01F-E990-4399-A60C-35B99E65CCCF"
+      "class": "text",
+      "id": "11EDEF34-2B01-45D0-9226-AA821E8E01BC"
     },
     {
       "class": "symbolInstance",
-      "id": "0E4C8EAB-3FD7-490E-9934-18BF9B2FA6EA"
+      "id": "BD8B144B-0D06-4AC4-8639-5EE5C2361F6E"
     }
   ],
-  "name": "grp_modal",
+  "name": "grp_code",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,

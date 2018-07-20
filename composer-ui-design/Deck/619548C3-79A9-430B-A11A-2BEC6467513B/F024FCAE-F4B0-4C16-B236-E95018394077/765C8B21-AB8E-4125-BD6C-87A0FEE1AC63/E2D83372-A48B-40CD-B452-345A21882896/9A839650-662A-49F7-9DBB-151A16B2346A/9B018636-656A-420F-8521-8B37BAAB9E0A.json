@@ -1,6 +1,6 @@
 {
-  "_class": "group",
-  "do_objectID": "BAF141D5-678A-4CD4-8C97-44254CC286E2",
+  "_class": "symbolInstance",
+  "do_objectID": "9B018636-656A-420F-8521-8B37BAAB9E0A",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,37 +13,34 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1024,
-    "width": 1440,
-    "x": 0,
-    "y": 0
+    "height": 550,
+    "width": 650,
+    "x": 253,
+    "y": 187
   },
-  "hasClickThrough": false,
+  "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "shapeGroup",
-      "id": "601DA01F-E990-4399-A60C-35B99E65CCCF"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "0E4C8EAB-3FD7-490E-9934-18BF9B2FA6EA"
-    }
+  "name": "Statics / create-tenant-dialog",
+  "nameIsFixed": false,
+  "overrideValues": [
   ],
-  "name": "grp_modal",
-  "nameIsFixed": true,
+  "overrides": {
+  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  }
+  },
+  "symbolID": "2733C173-D914-4E58-AC4D-D36289768397",
+  "verticalSpacing": 0
 }

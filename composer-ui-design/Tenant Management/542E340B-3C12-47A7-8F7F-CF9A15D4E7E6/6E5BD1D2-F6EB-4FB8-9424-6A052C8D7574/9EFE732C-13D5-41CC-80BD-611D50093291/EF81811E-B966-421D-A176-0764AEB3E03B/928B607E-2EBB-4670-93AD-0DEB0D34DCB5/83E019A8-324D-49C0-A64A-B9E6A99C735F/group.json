@@ -1,0 +1,64 @@
+{
+  "_class": "group",
+  "do_objectID": "83E019A8-324D-49C0-A64A-B9E6A99C735F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E2E3DC0F-6A1D-4E77-AD72-DF1401FCFB82",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5776E295-0688-4F65-AED3-50C601F2AC2E",
+    "height": 167,
+    "width": 476,
+    "x": 0,
+    "y": 134
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "72F0BF07-774E-44D1-8262-D315B03C60DC"
+    },
+    {
+      "class": "text",
+      "id": "16117651-0971-49AF-B7F0-3A661CAE244A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "32325EFA-EB98-4BF8-8AF0-2568B2DD9F81"
+    },
+    {
+      "class": "group",
+      "id": "7847D95E-F795-40E7-A110-DAEBFD24CE65"
+    },
+    {
+      "class": "group",
+      "id": "FAB8CFA5-65B8-4642-9BE1-3A48C1BC235D"
+    }
+  ],
+  "name": "grp_cc-question",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "365556CE-E8C5-47C1-847D-1435A70A9142",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

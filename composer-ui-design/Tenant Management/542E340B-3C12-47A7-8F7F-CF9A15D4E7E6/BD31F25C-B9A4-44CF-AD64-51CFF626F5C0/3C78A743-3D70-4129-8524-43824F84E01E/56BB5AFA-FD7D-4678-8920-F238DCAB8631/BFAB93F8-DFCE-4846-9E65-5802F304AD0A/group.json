@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "BFAB93F8-DFCE-4846-9E65-5802F304AD0A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 109,
+    "width": 432,
+    "x": 301,
+    "y": 602
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "F38C5D91-5C8D-4515-B177-06A78C5C4B20"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3C07EB01-5A51-4481-A9F2-42EA59EF562A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "02E10F31-783A-48EB-8E5E-E97F6FFE10F7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B49D8155-019E-4ABB-9709-3E2A2D8AFBA7"
+    }
+  ],
+  "name": "grp-payments-question",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

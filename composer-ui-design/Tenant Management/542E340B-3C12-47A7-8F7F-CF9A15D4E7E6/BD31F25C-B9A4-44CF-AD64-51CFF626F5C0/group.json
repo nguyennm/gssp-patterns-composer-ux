@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "BD31F25C-B9A4-44CF-AD64-51CFF626F5C0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1067,
+    "width": 2069,
+    "x": 77,
+    "y": 1657
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "3C78A743-3D70-4129-8524-43824F84E01E"
+    },
+    {
+      "class": "group",
+      "id": "F9B214C7-032A-449D-A472-76CF9F51BB9B"
+    }
+  ],
+  "name": "Payment Methods View Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

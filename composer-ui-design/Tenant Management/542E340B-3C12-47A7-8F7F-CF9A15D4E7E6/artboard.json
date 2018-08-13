@@ -23,7 +23,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "060C8038-9F9F-44E4-8698-0940A008D72B",
-    "height": 3000,
+    "height": 4250,
     "width": 2250,
     "x": -861,
     "y": 3813
@@ -56,10 +56,14 @@
     },
     {
       "class": "group",
+      "id": "BD31F25C-B9A4-44CF-AD64-51CFF626F5C0"
+    },
+    {
+      "class": "group",
       "id": "E548E50D-C77D-4768-860A-71817921BAD7"
     }
   ],
-  "name": "Tenant Management - Requirement Specs",
+  "name": "Tenant Management - Requirement Specs - Basic Settings",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

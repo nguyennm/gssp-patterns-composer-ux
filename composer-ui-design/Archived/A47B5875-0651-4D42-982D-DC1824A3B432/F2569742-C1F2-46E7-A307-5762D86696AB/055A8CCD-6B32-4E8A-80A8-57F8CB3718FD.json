@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "055A8CCD-6B32-4E8A-80A8-57F8CB3718FD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "833D35BC-8DAE-4720-AB8D-6768AA2E09D2",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "2351CDD6-9997-4384-A86D-097200CE6280",
+    "do_objectID": "0C8B96D1-9D38-495F-839C-5DA2678F4934"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8FF95E03-ED43-4D10-B080-66F988FA35AA",
+    "height": 24,
+    "width": 24,
+    "x": 187,
+    "y": 2
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Icons/Content/ic_create",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DCCCB133-61D7-48B0-9BD2-DB1BC771CC8B",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "339D2664-34C2-4BD4-A771-2827FBC81B26",
+  "verticalSpacing": 0
+}

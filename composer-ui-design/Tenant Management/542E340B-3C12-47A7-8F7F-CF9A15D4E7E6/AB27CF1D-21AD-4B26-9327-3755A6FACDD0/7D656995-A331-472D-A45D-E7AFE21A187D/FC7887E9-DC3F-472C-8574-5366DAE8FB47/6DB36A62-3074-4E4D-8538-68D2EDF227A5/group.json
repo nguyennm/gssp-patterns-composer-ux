@@ -1,9 +1,9 @@
 {
   "_class": "group",
-  "do_objectID": "83E019A8-324D-49C0-A64A-B9E6A99C735F",
+  "do_objectID": "6DB36A62-3074-4E4D-8538-68D2EDF227A5",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "E2E3DC0F-6A1D-4E77-AD72-DF1401FCFB82",
+    "do_objectID": "5076051D-BCD8-4A50-90B1-57657EFFF0B5",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -14,11 +14,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "5776E295-0688-4F65-AED3-50C601F2AC2E",
-    "height": 167,
-    "width": 476,
-    "x": 0,
-    "y": 158
+    "do_objectID": "72ECB51E-3B1E-4ECC-B39B-EA1FE2EED926",
+    "height": 75,
+    "width": 563,
+    "x": 301,
+    "y": 422
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -29,26 +29,18 @@
   "layers": [
     {
       "class": "text",
-      "id": "72F0BF07-774E-44D1-8262-D315B03C60DC"
-    },
-    {
-      "class": "text",
-      "id": "16117651-0971-49AF-B7F0-3A661CAE244A"
+      "id": "9DF130C4-9063-4ED9-8B5F-E2D16A497525"
     },
     {
       "class": "symbolInstance",
-      "id": "32325EFA-EB98-4BF8-8AF0-2568B2DD9F81"
+      "id": "6DC67D19-7316-421C-93D1-94C9AEE89D34"
     },
     {
-      "class": "group",
-      "id": "7847D95E-F795-40E7-A110-DAEBFD24CE65"
-    },
-    {
-      "class": "group",
-      "id": "FAB8CFA5-65B8-4642-9BE1-3A48C1BC235D"
+      "class": "symbolInstance",
+      "id": "4A02D9DD-1E26-4334-84E8-D04090477CE0"
     }
   ],
-  "name": "grp_cc-question",
+  "name": "grp-payments-question copy",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -56,7 +48,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "365556CE-E8C5-47C1-847D-1435A70A9142",
+    "do_objectID": "D410267F-D729-4A94-8276-6EEF768A6336",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0

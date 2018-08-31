@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 301,
+    "height": 325,
     "width": 476,
     "x": 301,
-    "y": 478
+    "y": 568
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -36,6 +36,10 @@
     {
       "class": "symbolInstance",
       "id": "0A85C841-0C1C-481F-887E-41AC43D0672E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7D2E8648-47D1-438A-9A94-7AB6D928C345"
     },
     {
       "class": "symbolInstance",

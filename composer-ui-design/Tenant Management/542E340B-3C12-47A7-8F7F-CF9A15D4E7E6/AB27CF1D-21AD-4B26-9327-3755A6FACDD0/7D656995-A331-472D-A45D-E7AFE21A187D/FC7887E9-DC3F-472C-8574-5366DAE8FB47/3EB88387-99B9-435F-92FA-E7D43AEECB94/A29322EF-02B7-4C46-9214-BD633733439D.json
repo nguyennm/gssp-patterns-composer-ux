@@ -1,8 +1,9 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "5460306D-4765-4599-BB06-D1FFB6D419AB",
+  "do_objectID": "A29322EF-02B7-4C46-9214-BD633733439D",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "4BD04BC3-5D40-45A0-911B-C24BDD4EB031",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -13,10 +14,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "266E76B8-FFBE-4810-B7E8-03E995AF5931",
     "height": 19,
     "width": 400,
     "x": 0,
-    "y": 90
+    "y": 61
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -24,17 +26,17 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Radio / Unchecked Copy",
+  "name": "Radio / Checked Copy",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
       "overrideName": "4A868392-AA27-4190-806C-D0B8AE5F1D00_stringValue",
-      "value": "Application"
+      "value": "Electronic Funds Transfer (EFT)"
     }
   ],
   "overrides": {
-    "4A868392-AA27-4190-806C-D0B8AE5F1D00": "Application"
+    "4A868392-AA27-4190-806C-D0B8AE5F1D00": "Electronic Funds Transfer (EFT)"
   },
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -43,6 +45,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "5D9ED2FE-7548-48AD-979B-D73FB57524F5",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0

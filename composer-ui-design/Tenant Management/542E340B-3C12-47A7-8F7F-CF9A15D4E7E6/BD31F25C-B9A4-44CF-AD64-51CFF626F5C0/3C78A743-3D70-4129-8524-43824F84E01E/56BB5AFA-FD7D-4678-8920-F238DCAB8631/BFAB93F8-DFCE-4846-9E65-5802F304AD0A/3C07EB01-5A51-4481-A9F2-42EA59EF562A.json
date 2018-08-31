@@ -29,13 +29,13 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "FE24319C-88B9-4838-898C-A46032A39557",
-      "overrideName": "4A868392-AA27-4190-806C-D0B8AE5F1D00_stringValue",
+      "do_objectID": "B227EA8C-9FC6-4F2B-8D23-42D253991E2F",
+      "overrideName": "88004E03-25D2-4FC2-97B8-09545590739E_stringValue",
       "value": "Credit/Debit Card"
     }
   ],
   "overrides": {
-    "4A868392-AA27-4190-806C-D0B8AE5F1D00": "Credit/Debit Card"
+    "88004E03-25D2-4FC2-97B8-09545590739E": "Credit/Debit Card"
   },
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -48,6 +48,6 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "18DBAD74-3045-4BEC-A3F3-419893DE450C",
+  "symbolID": "81BC068D-30A4-4C17-8F3B-DC54CEF52CC1",
   "verticalSpacing": 0
 }

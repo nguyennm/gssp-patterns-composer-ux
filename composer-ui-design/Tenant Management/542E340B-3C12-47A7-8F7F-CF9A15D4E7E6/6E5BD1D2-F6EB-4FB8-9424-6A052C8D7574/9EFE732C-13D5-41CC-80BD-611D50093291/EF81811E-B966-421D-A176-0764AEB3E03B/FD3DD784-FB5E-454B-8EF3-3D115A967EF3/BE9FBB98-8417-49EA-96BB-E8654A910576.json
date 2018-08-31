@@ -1,9 +1,8 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "9EA00370-3216-4A30-9F4E-08BC99BBA4ED",
+  "do_objectID": "BE9FBB98-8417-49EA-96BB-E8654A910576",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "534D1560-67EE-49EF-A2F4-25FABAC07C69",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -14,11 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "D67F8AC9-6363-4B0B-AA3C-5264171CC8C2",
-    "height": 19,
-    "width": 400,
+    "height": 53.93654524089307,
+    "width": 270,
     "x": 0,
-    "y": 60
+    "y": 53.93654524089307
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -26,18 +24,17 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Radio / Unchecked",
+  "name": "SideNav / nav-item-inactive",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "8373E148-1FD8-4F86-BE33-1422C22D275D",
-      "overrideName": "4A868392-AA27-4190-806C-D0B8AE5F1D00_stringValue",
-      "value": "Check"
+      "overrideName": "D6C5B939-770C-4EB5-A04A-811AE08E15C6_stringValue",
+      "value": "Supporting Documents"
     }
   ],
   "overrides": {
-    "4A868392-AA27-4190-806C-D0B8AE5F1D00": "Check"
+    "D6C5B939-770C-4EB5-A04A-811AE08E15C6": "Supporting Documents"
   },
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -46,11 +43,10 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "02A63BF5-61A7-48E6-A86C-81D228B43FE3",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "18DBAD74-3045-4BEC-A3F3-419893DE450C",
+  "symbolID": "87774B40-E48F-43F0-829B-869504A26788",
   "verticalSpacing": 0
 }

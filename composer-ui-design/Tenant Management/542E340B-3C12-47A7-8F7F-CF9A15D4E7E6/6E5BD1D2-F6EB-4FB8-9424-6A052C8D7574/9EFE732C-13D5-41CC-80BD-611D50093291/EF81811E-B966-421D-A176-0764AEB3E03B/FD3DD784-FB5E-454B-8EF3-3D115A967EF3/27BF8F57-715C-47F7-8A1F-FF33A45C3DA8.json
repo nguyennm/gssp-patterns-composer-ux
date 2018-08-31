@@ -1,6 +1,6 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "E72A25A7-F0F4-48FB-A326-D081D0570884",
+  "do_objectID": "27BF8F57-715C-47F7-8A1F-FF33A45C3DA8",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 19,
-    "width": 400,
+    "height": 53.93654524089308,
+    "width": 270,
     "x": 0,
-    "y": 124
+    "y": 107.8730904817861
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -24,17 +24,17 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Radio / Unchecked Copy",
+  "name": "SideNav / nav-item-inactive Copy",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "overrideName": "4A868392-AA27-4190-806C-D0B8AE5F1D00_stringValue",
-      "value": "Cash"
+      "overrideName": "D6C5B939-770C-4EB5-A04A-811AE08E15C6_stringValue",
+      "value": "Translations"
     }
   ],
   "overrides": {
-    "4A868392-AA27-4190-806C-D0B8AE5F1D00": "Cash"
+    "D6C5B939-770C-4EB5-A04A-811AE08E15C6": "Translations"
   },
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -47,6 +47,6 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "18DBAD74-3045-4BEC-A3F3-419893DE450C",
+  "symbolID": "87774B40-E48F-43F0-829B-869504A26788",
   "verticalSpacing": 0
 }

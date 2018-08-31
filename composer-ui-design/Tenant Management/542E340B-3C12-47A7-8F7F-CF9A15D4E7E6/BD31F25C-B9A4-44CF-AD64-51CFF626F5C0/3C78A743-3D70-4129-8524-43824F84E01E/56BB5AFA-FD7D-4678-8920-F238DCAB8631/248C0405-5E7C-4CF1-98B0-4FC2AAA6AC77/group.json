@@ -13,8 +13,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 109,
-    "width": 407,
+    "height": 75,
+    "width": 563,
     "x": 301,
     "y": 422
   },
@@ -31,15 +31,11 @@
     },
     {
       "class": "symbolInstance",
-      "id": "FCB41D09-833D-4588-954C-30A0FCE16133"
+      "id": "9EEC1A24-B86A-4874-8253-5A90F79ACB98"
     },
     {
       "class": "symbolInstance",
-      "id": "E9F5D674-F829-4868-83D6-13445D1A651B"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "5460306D-4765-4599-BB06-D1FFB6D419AB"
+      "id": "55FAD236-68D6-40FB-B495-FA63D33B7D8E"
     }
   ],
   "name": "grp-payments-question copy",

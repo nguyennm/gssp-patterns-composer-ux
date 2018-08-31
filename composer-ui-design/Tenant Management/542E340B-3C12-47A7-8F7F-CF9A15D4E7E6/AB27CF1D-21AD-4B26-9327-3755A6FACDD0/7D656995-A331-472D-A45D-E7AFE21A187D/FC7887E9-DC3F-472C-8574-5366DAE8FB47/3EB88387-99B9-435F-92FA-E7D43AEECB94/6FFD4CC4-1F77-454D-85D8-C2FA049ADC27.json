@@ -1,8 +1,9 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "E72A25A7-F0F4-48FB-A326-D081D0570884",
+  "do_objectID": "6FFD4CC4-1F77-454D-85D8-C2FA049ADC27",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "AABE13D9-CB6E-4BE1-9058-6D6FF77EE6B8",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -13,10 +14,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "3E3F7BF0-C40E-40D8-B34D-BD0CBD5A3046",
     "height": 19,
     "width": 400,
     "x": 0,
-    "y": 124
+    "y": 31
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -24,17 +26,18 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Radio / Unchecked Copy",
+  "name": "Radio / Checked",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "overrideName": "4A868392-AA27-4190-806C-D0B8AE5F1D00_stringValue",
-      "value": "Cash"
+      "do_objectID": "B227EA8C-9FC6-4F2B-8D23-42D253991E2F",
+      "overrideName": "88004E03-25D2-4FC2-97B8-09545590739E_stringValue",
+      "value": "Credit/Debit Card"
     }
   ],
   "overrides": {
-    "4A868392-AA27-4190-806C-D0B8AE5F1D00": "Cash"
+    "88004E03-25D2-4FC2-97B8-09545590739E": "Credit/Debit Card"
   },
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -43,10 +46,11 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "EE003215-A644-4CD9-8D5C-238577A14C26",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "18DBAD74-3045-4BEC-A3F3-419893DE450C",
+  "symbolID": "81BC068D-30A4-4C17-8F3B-DC54CEF52CC1",
   "verticalSpacing": 0
 }

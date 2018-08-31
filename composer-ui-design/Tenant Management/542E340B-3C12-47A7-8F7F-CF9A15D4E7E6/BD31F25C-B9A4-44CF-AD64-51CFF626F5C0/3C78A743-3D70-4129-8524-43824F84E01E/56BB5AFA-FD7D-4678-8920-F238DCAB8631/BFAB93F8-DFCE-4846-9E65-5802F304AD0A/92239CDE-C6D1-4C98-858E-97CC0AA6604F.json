@@ -1,6 +1,6 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "E9F5D674-F829-4868-83D6-13445D1A651B",
+  "do_objectID": "92239CDE-C6D1-4C98-858E-97CC0AA6604F",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -24,17 +24,17 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Radio / Unchecked",
+  "name": "Radio / Checked Copy",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
       "overrideName": "4A868392-AA27-4190-806C-D0B8AE5F1D00_stringValue",
-      "value": "Illustration"
+      "value": "Electronic Funds Transfer (EFT)"
     }
   ],
   "overrides": {
-    "4A868392-AA27-4190-806C-D0B8AE5F1D00": "Illustration"
+    "4A868392-AA27-4190-806C-D0B8AE5F1D00": "Electronic Funds Transfer (EFT)"
   },
   "resizingConstraint": 63,
   "resizingType": 0,

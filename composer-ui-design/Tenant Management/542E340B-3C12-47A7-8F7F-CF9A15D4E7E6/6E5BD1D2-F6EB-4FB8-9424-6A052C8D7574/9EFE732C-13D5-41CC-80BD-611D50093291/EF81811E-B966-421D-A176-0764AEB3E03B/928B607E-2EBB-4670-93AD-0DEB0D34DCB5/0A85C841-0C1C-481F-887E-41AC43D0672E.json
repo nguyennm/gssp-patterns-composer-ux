@@ -31,11 +31,11 @@
       "_class": "overrideValue",
       "do_objectID": "445B9968-15B8-4161-B8A1-2DABE19AAC59",
       "overrideName": "88004E03-25D2-4FC2-97B8-09545590739E_stringValue",
-      "value": "Check"
+      "value": "Electronic Funds Transfer (EFT)"
     }
   ],
   "overrides": {
-    "88004E03-25D2-4FC2-97B8-09545590739E": "Check"
+    "88004E03-25D2-4FC2-97B8-09545590739E": "Electronic Funds Transfer (EFT)"
   },
   "resizingConstraint": 63,
   "resizingType": 0,

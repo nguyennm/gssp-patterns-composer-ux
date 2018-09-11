@@ -16,14 +16,14 @@
     "height": 612,
     "width": 890,
     "x": 30,
-    "y": 2174
+    "y": 3200
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",

@@ -15,7 +15,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "3ECA09BE-8743-4D8B-B631-2FA5582AE006",
-    "height": 1440,
+    "height": 1740,
     "width": 1440,
     "x": 0,
     "y": 0
@@ -32,8 +32,8 @@
       "id": "2EF26221-FA52-408F-8918-267E109007F3"
     },
     {
-      "class": "group",
-      "id": "1CB2F0A3-2179-48CF-9A9F-038E93213B98"
+      "class": "symbolInstance",
+      "id": "4B93ED2C-6183-46E9-9A71-0FFB3D2C3F80"
     }
   ],
   "name": "grp_modal",

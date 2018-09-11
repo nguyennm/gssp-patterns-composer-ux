@@ -354,6 +354,18 @@
     },
     {
       "class": "symbolMaster",
+      "id": "CF3F5EFE-950B-4FEA-AD06-FEED2CF44045"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "947BACA5-83E5-4E2E-BD27-7AEC047478C3"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "E4A3D50F-1588-47DB-9021-C845882999CE"
+    },
+    {
+      "class": "symbolMaster",
       "id": "5B866EAF-1926-405F-904A-B7F59A9910B3"
     },
     {
@@ -587,14 +599,6 @@
     {
       "class": "symbolMaster",
       "id": "D3218D01-D430-4C18-9ED2-B7320CA2ABFF"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "CF3F5EFE-950B-4FEA-AD06-FEED2CF44045"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "E4A3D50F-1588-47DB-9021-C845882999CE"
     }
   ],
   "name": "Symbols",

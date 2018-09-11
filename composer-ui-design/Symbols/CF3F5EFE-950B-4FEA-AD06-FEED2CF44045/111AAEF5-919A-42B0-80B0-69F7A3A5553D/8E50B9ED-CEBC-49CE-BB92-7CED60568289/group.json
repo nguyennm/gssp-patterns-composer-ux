@@ -1,0 +1,106 @@
+{
+  "_class": "group",
+  "do_objectID": "8E50B9ED-CEBC-49CE-BB92-7CED60568289",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9ABBEDD4-7C29-4C8B-8D63-9F4888A54D46",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3AE1B2FE-12E1-4957-B79E-B13CD68246EB",
+    "height": 658,
+    "width": 890,
+    "x": 30,
+    "y": 1370
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D1E52843-4BFA-45A1-8DE8-8CA1B574E849"
+    },
+    {
+      "class": "text",
+      "id": "14A65713-410F-49B3-88DB-710A88805885"
+    },
+    {
+      "class": "text",
+      "id": "2F3BA5F6-AC93-4177-AE67-3F607F19BC3F"
+    },
+    {
+      "class": "group",
+      "id": "48F4086E-9DB7-40D5-B26C-B829790DD1F9"
+    },
+    {
+      "class": "group",
+      "id": "5908A7C9-7178-4B30-8225-D3630BD10249"
+    },
+    {
+      "class": "group",
+      "id": "45B56479-4D32-4488-9507-23C2AB0E85C1"
+    },
+    {
+      "class": "group",
+      "id": "072380BF-720F-4438-8776-DED2B54A8107"
+    },
+    {
+      "class": "group",
+      "id": "C7BC372F-9E68-4656-BF69-4A61BC9C279D"
+    },
+    {
+      "class": "group",
+      "id": "75DAFA0E-49E5-42D4-9EB7-0F1F5D9D131E"
+    },
+    {
+      "class": "text",
+      "id": "191DFF7E-4C97-4FE0-A20C-20538F89195E"
+    }
+  ],
+  "name": "grp_insurables-form",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0366424A-D8AF-4EA8-9337-9820FC4C92C8",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 4,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4,
+          "green": 0.4,
+          "red": 0.4
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  }
+}

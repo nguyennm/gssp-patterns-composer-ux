@@ -1,6 +1,6 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "E38B1970-43BC-458F-8872-2AEED4FDB5DF",
+  "do_objectID": "674072A0-2234-4249-B308-A272351D1EAB",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,9 +14,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 19,
-    "width": 48.18823529411762,
-    "x": 0,
-    "y": 4433
+    "width": 400,
+    "x": 4,
+    "y": 55
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -24,17 +24,17 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Form / Hyperlink",
+  "name": "Checkbox / Unchecked",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "overrideName": "1E36F99A-3E1D-4180-AAE4-C758B68169F1_stringValue",
-      "value": "Cancel"
+      "overrideName": "4A868392-AA27-4190-806C-D0B8AE5F1D00_stringValue",
+      "value": "Spouse"
     }
   ],
   "overrides": {
-    "1E36F99A-3E1D-4180-AAE4-C758B68169F1": "Cancel"
+    "4A868392-AA27-4190-806C-D0B8AE5F1D00": "Spouse"
   },
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -47,6 +47,6 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "1420220F-A643-40CD-8FA3-5EF000E1BB0D",
+  "symbolID": "18DBAD74-3045-4BEC-A3F3-419893DE450C",
   "verticalSpacing": 0
 }

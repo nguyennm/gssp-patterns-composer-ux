@@ -39,12 +39,6 @@
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "D8EF351D-D671-492C-911E-652338115592",
-      "overrideName": "46447FA2-D5C4-43C5-94B8-E6B2B1F2AF42/D6C5B939-770C-4EB5-A04A-811AE08E15C6_stringValue",
-      "value": "Advanced Settings"
-    },
-    {
-      "_class": "overrideValue",
       "do_objectID": "E75193D8-83E0-46F5-9807-DD69989A5A4F",
       "overrideName": "EB4B618A-25EC-4EFB-814D-3A2692624B7E_symbolID",
       "value": "F8E156BE-BEAB-4FBA-9DB5-7E3BEAF9E854"
@@ -57,9 +51,6 @@
     }
   ],
   "overrides": {
-    "46447FA2-D5C4-43C5-94B8-E6B2B1F2AF42": {
-      "D6C5B939-770C-4EB5-A04A-811AE08E15C6": "Advanced Settings"
-    },
     "D480DA7E-42C5-4B2F-8D9C-7C7006A80B70": {
       "D6C5B939-770C-4EB5-A04A-811AE08E15C6": "Basic Settings",
       "symbolID": "87774B40-E48F-43F0-829B-869504A26788"

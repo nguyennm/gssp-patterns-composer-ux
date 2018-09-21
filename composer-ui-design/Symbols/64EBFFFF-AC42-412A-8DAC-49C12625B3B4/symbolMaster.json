@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 15,
+  "changeIdentifier": 22,
   "do_objectID": "64EBFFFF-AC42-412A-8DAC-49C12625B3B4",
   "exportOptions": {
     "_class": "exportOptions",
@@ -42,11 +42,23 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
+      "class": "shapeGroup",
+      "id": "CCF8AB3F-A6A5-418F-AED6-5504831E8866"
+    },
+    {
       "class": "group",
-      "id": "24656177-69EA-46D0-816C-7BE2EF160695"
+      "id": "9862C570-B7C8-4651-B38A-FE5944DFA137"
+    },
+    {
+      "class": "text",
+      "id": "B29163B9-C8B3-4BC2-82B1-6DD96DFE6856"
+    },
+    {
+      "class": "group",
+      "id": "8E54569D-7CE6-4E63-8B2A-5B3933E25CCC"
     }
   ],
   "name": "Select / Select (Focus)",

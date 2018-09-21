@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 12,
+  "changeIdentifier": 18,
   "do_objectID": "690748E8-6045-4D32-9EC1-FDFFD8318CDF",
   "exportOptions": {
     "_class": "exportOptions",
@@ -42,11 +42,19 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
+      "class": "shapeGroup",
+      "id": "6536859F-535D-4414-93F9-ADF8E9F3E880"
+    },
+    {
       "class": "group",
-      "id": "9D8BF050-D36F-4C60-9152-5DEFF49F54E3"
+      "id": "85C4002F-795F-4B0D-AD82-6DD4B8E5C43D"
+    },
+    {
+      "class": "text",
+      "id": "DE9D6476-D68D-4C23-AC87-EB4A1EDB6FF0"
     }
   ],
   "name": "Select / Select (Error)",

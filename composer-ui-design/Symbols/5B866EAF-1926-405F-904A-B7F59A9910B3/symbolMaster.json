@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 480,
+  "changeIdentifier": 706,
   "do_objectID": "5B866EAF-1926-405F-904A-B7F59A9910B3",
   "exportOptions": {
     "_class": "exportOptions",
@@ -42,15 +42,27 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
+      "class": "shapeGroup",
+      "id": "04B5CE95-9A08-4163-8E54-A622AAEFF4A4"
+    },
+    {
       "class": "group",
-      "id": "D1535DA4-122C-4C11-BEB3-AFD0A21E8881"
+      "id": "734E75B7-FB48-40F6-BD67-1BC7387D817F"
+    },
+    {
+      "class": "text",
+      "id": "8D270472-E617-48E0-A82C-31670FAB13E2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8C716908-DD70-43E4-8887-77DB61488C48"
     }
   ],
-  "name": "Statics / designer-footer-bar",
-  "nameIsFixed": false,
+  "name": "Statics / save-footer-bar",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -29,17 +29,8 @@
   "name": "Statics / designer-footer-bar",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "4401C0D3-49BF-4A43-91CC-2E02B0C38847",
-      "overrideName": "143A790D-B5A7-49D4-9EC9-161EFA5EAF94/8FE9C54A-8499-40C6-A05B-ECE86274AAEC_stringValue",
-      "value": "SAVE"
-    }
   ],
   "overrides": {
-    "143A790D-B5A7-49D4-9EC9-161EFA5EAF94": {
-      "8FE9C54A-8499-40C6-A05B-ECE86274AAEC": "SAVE"
-    }
   },
   "resizingConstraint": 63,
   "resizingType": 0,

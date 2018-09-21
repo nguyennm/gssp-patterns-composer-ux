@@ -14,8 +14,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 1067,
-    "width": 2069,
-    "x": 77,
+    "width": 1140,
+    "x": 671,
     "y": 448
   },
   "hasClickThrough": false,
@@ -28,10 +28,6 @@
     {
       "class": "group",
       "id": "68336FBA-36B7-444E-B756-D633D98CB48A"
-    },
-    {
-      "class": "group",
-      "id": "C1F216B4-1F96-4BBC-AA07-24F51D5F1C03"
     }
   ],
   "name": "Default View",

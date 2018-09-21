@@ -1,0 +1,46 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGoKFYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QLQcIERIYIyQlJjIzNDU2Nzg5OkBETE1OT1BTV2Bkbm9wfH1+f4KFjY6PkJSYnFUkbnVsbNQJCgsMDQ4PEFhOU1N0cmluZ18QD05TQXR0cmlidXRlSW5mb1xOU0F0dHJpYnV0ZXNWJGNsYXNzgAKAKoADgCxfEQLMVGhlIFRlbmFudCBNYW5hZ2VtZW50IENvbnNvbGUgKFRNQykgcmVwcmVzZW50cyB0aGUgbGFuZGluZyBwYWdlIHRoYXQgdGhlIHVzZXIgd2lsbCBhY2Nlc3MgdG8gbWFuYWdlIGEgdGVuYW50LiBUaGUgcGFnZSBnaXZlcyB0aGUgdXNlciBhY2Nlc3MgdG8gc2V0IHZhcmlvdXMgb3B0aW9ucyBhYm91dCB0aGUgdGVuYW50IGFzIHdlbGwgYXMgZW50cnkgcG9pbnRzIHRvIG90aGVyIGZlYXR1cmVzIHN1Y2ggYXMgUHJvc3BlY3QgTWFuYWdlbWVudCwgUHJvZHVjdCBEZWZpbml0aW9uIGFuZCBQdWJsaWNhdGlvbnMuCgpHZW5lcmFsIFJlcXVpcmVtZW50czoKLSBUaGlzIHNlY3Rpb24gYWxsb3dzIHRoZSB1c2VyIHRvIGVuYWJsZSB0aGUgcmlzayBwcm9maWxlIGZlYXR1cmUgd2l0aGluIEdTU1AuCi0gSWYgcmlzayBwcm9maWxlIGlzIGVuYWJsZWQsIHRoZSB1c2VyIHNob3VsZCBiZSBhYmxlIHRvIGFkZCBhbmQvb3IgbW9kaWZ5IHRoZSB2YXJpb3VzIGludmVzdG1lbnQgc3RyYXRlZ2llcyB0aGF0IGlzIHV0aWxpemVkIGZvciBmdW5kIGFsbG9jYXRpb24gYW5kIGNhbGN1bGF0aW9uLgotIElmIHJpc2sgcHJvZmlsZSBpcyBlbmFibGVkLCB0aGUgdXNlciBzaG91bGQgYmUgYWJsZSB0byBpbXBvcnQgYW5kL29yIGRlZmluZSBhbGwgb2YgdGhlIGZ1bmRzIHRoYXQgY2FuIGJlIGFwcGxpZWQgdG8gYW4gaW52ZXN0bWVudCBzdHJhdGVneSAoVHJlYXRtZW50cyBwZW5kaW5nKS7SEwwUF1pOUy5vYmplY3RzohUWgASAHIAp0xkTDBoeIldOUy5rZXlzoxscHYAFgAaAB6MfICGACIASgBqAEV8QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfEBBOU1BhcmFncmFwaFN0eWxl0xkTDCcsIqQoKSorgAmACoALgAykLS4vMIANgA6AD4AQgBFTcmVkVWFscGhhVGJsdWVVZ3JlZW4jP8mZmZmZmZojP/AAAAAAAAAjP8mZmZmZmZojP8mZmZmZmZrSOzw9PlokY2xhc3NuYW1lWCRjbGFzc2VzXE5TRGljdGlvbmFyeaI9P1hOU09iamVjdNIMQUJDXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAGYAT0xkTDEVIS6JGR4AUgBWiSUqAFoAXgBhfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAMgAAAAAAAF5Sb2JvdG8tUmVndWxhctI7PFFSXxATTlNNdXRhYmxlRGljdGlvbmFyeaNRPT/SOzxUVV8QEE5TRm9udERlc2NyaXB0b3KiVj9fEBBOU0ZvbnREZXNjcmlwdG9y1VhZWgxbXF1eX15bTlNBbGlnbm1lbnRaTlNUYWJTdG9wc18QD05TTWluTGluZUhlaWdodF8QD05TTWF4TGluZUhlaWdodBAEgAAjQDoAAAAAAACAG9I7PGFiXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjYWM/XxAQTlNQYXJhZ3JhcGhTdHlsZdMZEwxlaSKjZh1ogB2AB4Aeo2prbIAfgCOAJIARXxAqTVNBdHRyaWJ1dGVkU3RyaW5nQ29sb3JEaWN0aW9uYXJ5QXR0cmlidXRlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZdMZEwxxdiKkKCkqK4AJgAqAC4AMpHcueXqAIIAOgCGAIoARIz/JmZmZmZmaIz/JmZmZmZmaIz/JmZmZmZma1VhZWgxbXF1eX16AAIAb0gxBQoSAGYAl0xkTDIaJS6KHiIAmgCeiSYuAFoAogBhfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZVtSb2JvdG8tQm9sZNI7PJGSXk5TTXV0YWJsZUFycmF5o5GTP1dOU0FycmF50pUMlpdXTlMuZGF0YUiiAgAWAZQDAIAr0js8mZpdTlNNdXRhYmxlRGF0YaOZmz9WTlNEYXRh0js8nZ5fEBJOU0F0dHJpYnV0ZWRTdHJpbmeinz9fEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRoqNUcm9vdIABAAgAEQAaACMALQAyADcAZwBtAHYAfwCRAJ4ApQCnAKkAqwCtA30DggONA5ADkgOUA5YDnQOlA6kDqwOtA68DswO1A7cDuQO7A+gECgQdBCQEKQQrBC0ELwQxBDYEOAQ6BDwEPgRABEQESgRPBFUEXgRnBHAEeQR+BIkEkgSfBKIEqwSwBM0EzwTRBNgE2wTdBN8E4gTkBOYE6AT+BRQFHQUsBTEFRwVLBVAFYwVmBXkFhAWQBZsFrQW/BcEFwwXMBc4F0wXtBfEGBAYLBg8GEQYTBhUGGQYbBh0GHwYhBk4GcAZ3BnwGfgaABoIGhAaJBosGjQaPBpEGkwacBqUGrga5BrsGvQbCBsQGxgbNBtAG0gbUBtcG2QbbBt0G8wcJBxUHGgcpBy0HNQc6B0IHSwdNB1IHYAdkB2sHcAeFB4gHnQevB7IHtwAAAAAAAAIBAAAAAAAAAKQAAAAAAAAAAAAAAAAAAAe5"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "609A045C-0D39-44C0-B6FB-75554F9FB4F0",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 189,
+    "width": 1500,
+    "x": 591,
+    "y": 82
+  },
+  "glyphBounds": "{{0, 4}, {1479, 176}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "The Tenant Managemen",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "17DEBC2B-4F49-4824-AE4D-D06C4A26C955"
+  },
+  "textBehaviour": 2
+}

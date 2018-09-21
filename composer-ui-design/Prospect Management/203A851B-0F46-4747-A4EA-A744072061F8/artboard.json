@@ -59,7 +59,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
@@ -100,10 +100,6 @@
     {
       "class": "group",
       "id": "E85E94AD-688F-4A20-989B-CCD3BFACCBE1"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "E25518CC-157B-4C34-AD34-BC5B038C84BD"
     }
   ],
   "layout": {

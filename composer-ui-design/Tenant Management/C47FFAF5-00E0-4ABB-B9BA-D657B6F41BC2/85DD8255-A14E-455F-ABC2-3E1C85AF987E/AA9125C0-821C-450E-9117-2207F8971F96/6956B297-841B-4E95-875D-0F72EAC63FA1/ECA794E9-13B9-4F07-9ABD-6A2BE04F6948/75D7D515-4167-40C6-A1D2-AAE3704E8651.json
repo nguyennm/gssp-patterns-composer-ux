@@ -1,0 +1,63 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "75D7D515-4167-40C6-A1D2-AAE3704E8651",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4BA7F71C-B390-4F06-8385-9A4166D43154",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BF417F56-6116-4D0A-981D-9EC237B51A79",
+    "height": 53,
+    "width": 830,
+    "x": 2,
+    "y": 26
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Statics / coverage-row",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "43F78622-CCB5-4E75-BB58-86ADAB801871",
+      "overrideName": "B1D2C8AB-C131-43C1-91DB-7FF881E28503_stringValue",
+      "value": "Conservative"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "80580299-E236-4DF7-9EB5-87D097F7BA1A",
+      "overrideName": "E32E595C-D1D2-4C40-8F73-282CAFBA888F_stringValue",
+      "value": "Lorem ipsum consectetur eu aptent quis vulputate eros tempus, praesent"
+    }
+  ],
+  "overrides": {
+    "B1D2C8AB-C131-43C1-91DB-7FF881E28503": "Conservative",
+    "E32E595C-D1D2-4C40-8F73-282CAFBA888F": "Lorem ipsum consectetur eu aptent quis vulputate eros tempus, praesent"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "67E7EC26-06F8-452A-8317-DE6022F38E0B",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "C72F39EE-E9B9-4B4F-BF92-06F0C5EF131C",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,174 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "4CA46EC7-5F7B-4E4E-B22A-8FA442D6D758",
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "B5F49B1F-CA35-4510-A794-41375105D8DF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "65151F76-33BC-4038-9AD3-709536E2B358",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8870AD9C-20D5-40E0-BDA9-1E6FFE2ED187",
+    "height": 1440,
+    "width": 1440,
+    "x": 10367,
+    "y": -10111
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "A51322F5-8F97-4E4C-9FF8-868118FB116F",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "19660765-1F64-4FFD-80DC-35EB12D4626E",
+    "guides": [
+      150,
+      1290,
+      1195,
+      1100,
+      1005,
+      910,
+      815,
+      720,
+      625,
+      530,
+      435,
+      340,
+      245
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "D3019F21-2959-4BEE-B7D9-ADBF56E9D6FB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FB8B8048-E292-44FE-90D8-08715C9A1431"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "ADA1DA92-21BA-4B4A-AD03-31BDA81CEF3F"
+    },
+    {
+      "class": "group",
+      "id": "9F0E633F-4EFF-43E2-B45D-1DC618312F04"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "94C53F4F-E49B-4B83-B6D2-6C4C5316D913"
+    },
+    {
+      "class": "group",
+      "id": "0E81D41A-995A-487D-BA94-5D0C625796B5"
+    },
+    {
+      "class": "group",
+      "id": "2AAEA4C2-51C2-4619-A5D0-B07BB5AC7DFC"
+    },
+    {
+      "class": "group",
+      "id": "52AF860A-2161-4093-820B-3AF9BD55C92A"
+    },
+    {
+      "class": "group",
+      "id": "736EB81B-66AD-4024-88DC-F8AF734D32D6"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 65,
+    "do_objectID": "58DFCA77-A16F-42E7-94C3-B5F3B53D7911",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 30,
+    "guttersOutside": true,
+    "horizontalOffset": 150,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1140
+  },
+  "name": "Prospect Management - Component Rules (Adding - Completed) - Desktop HD",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F2C5FE8B-3B76-4DCB-B0CF-6DFA37D7EB5B",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "CE51DC84-58AD-4176-B8B4-C46311E241C8",
+    "guides": [
+    ]
+  }
+}

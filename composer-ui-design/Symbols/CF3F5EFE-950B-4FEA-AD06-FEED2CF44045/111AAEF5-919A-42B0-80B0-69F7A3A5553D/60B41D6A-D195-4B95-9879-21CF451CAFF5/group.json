@@ -16,7 +16,7 @@
     "height": 647,
     "width": 890,
     "x": 30,
-    "y": 2296
+    "y": 2225
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -88,7 +88,7 @@
           "blendMode": 0,
           "opacity": 1
         },
-        "isEnabled": true,
+        "isEnabled": false,
         "offsetX": 0,
         "offsetY": 2,
         "spread": 0

@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "36DF3FE9-674F-42A8-92A4-6119FA8136E4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 62,
+    "width": 858,
+    "x": 42,
+    "y": 558
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "6E49C0DC-2A15-40EE-A008-30C2318D5055"
+    },
+    {
+      "class": "group",
+      "id": "94CC66B0-1313-4D3D-A8B2-5A38DA22506E"
+    },
+    {
+      "class": "group",
+      "id": "F22CE534-E61B-4582-9EB4-BC293B8FB913"
+    },
+    {
+      "class": "text",
+      "id": "08A3BF4A-004A-4A70-A2B7-2A0E0E6738FA"
+    }
+  ],
+  "name": "grp_brochure-links",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

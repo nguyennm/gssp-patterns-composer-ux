@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "D699E918-31BA-4C4E-8BCA-FE2C038B1EC5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3D726C12-9B54-4232-A451-6491B48FE5AF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "18DAA227-1AF1-4BE2-81E0-44167E55C450",
+    "height": 36,
+    "width": 245,
+    "x": 873,
+    "y": 195
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "name": "Buttons / Secondary",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "75C76DCE-57CE-4F91-B1C0-EEC80BD9F106",
+      "overrideName": "1D8CA4F3-BF52-4455-A24B-752CEA4768E8_stringValue",
+      "value": "LAUNCH WORKFLOW DESIGNER"
+    }
+  ],
+  "overrides": {
+    "1D8CA4F3-BF52-4455-A24B-752CEA4768E8": "LAUNCH WORKFLOW DESIGNER"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "52799A97-DC89-47C7-AEEE-8EC3123ED4B2",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "B6470CF9-7D69-4AD6-B3F1-4C99FE773686",
+  "verticalSpacing": 0
+}

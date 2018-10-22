@@ -1,0 +1,113 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "A52F2E0F-44E7-42BD-8546-C5957690457A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FA5E947D-38B8-4C95-99BC-CBCAB1395DAB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C2B13E32-7F54-4CD7-93A3-DF8A14C445A5",
+    "height": 550,
+    "width": 650,
+    "x": 395,
+    "y": 187
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Statics / create-tenant-dialog",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B8F4D965-409C-4B7B-AC7F-09CDA9EF674B",
+      "overrideName": "8BD0E494-487B-4E59-8BCD-A314B33D63DD_symbolID",
+      "value": "E35F300E-3B3D-4B03-A154-1BF2FDC00282"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DBFC2AA3-762F-412A-AE39-344233678B92",
+      "overrideName": "8BD0E494-487B-4E59-8BCD-A314B33D63DD/CD6C78BC-230F-41C2-8041-829ECCA73478_stringValue",
+      "value": "CREATE"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D33CD59F-D29A-4454-A165-FF64CF6F6742",
+      "overrideName": "BD8B144B-0D06-4AC4-8639-5EE5C2361F6E_symbolID",
+      "value": "9F7A31B5-C35D-437B-ACBE-C677D8C84828"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "56D01539-3C93-470C-825E-6DDE58A61A16",
+      "overrideName": "BD8B144B-0D06-4AC4-8639-5EE5C2361F6E/6B6EF206-56E2-466D-9489-25C5CB64A344_stringValue",
+      "value": "LEBANON_TENANT"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B1516812-9675-45EF-9605-169F130F0706",
+      "overrideName": "2170DD29-602F-4CD2-A9C7-B660736E8DA6_symbolID",
+      "value": "960D83C8-DE3E-4307-8EE2-D61B1920B9B1"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2AA06D56-B3EA-4149-B209-C4C044E1FEDD",
+      "overrideName": "7C134D50-DA7D-469F-B326-1E06D02EE62B_symbolID",
+      "value": "9F7A31B5-C35D-437B-ACBE-C677D8C84828"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7901F949-0351-4D60-9076-9A800E2E077A",
+      "overrideName": "7C134D50-DA7D-469F-B326-1E06D02EE62B/6B6EF206-56E2-466D-9489-25C5CB64A344_stringValue",
+      "value": "Lebanon"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "53552D77-A381-479B-94CD-834BACA3DB9B",
+      "overrideName": "2170DD29-602F-4CD2-A9C7-B660736E8DA6/43B4C8AB-EC0A-4B94-97EB-1E35EF9B47AF_stringValue",
+      "value": "Lebanon, officially known as the Lebanese Republic, is a sovereign state in Western Asia. It is bordered by Syria to the north and east and Israel to the south, while Cyprus is west across the Mediterranean Sea."
+    }
+  ],
+  "overrides": {
+    "2170DD29-602F-4CD2-A9C7-B660736E8DA6": {
+      "43B4C8AB-EC0A-4B94-97EB-1E35EF9B47AF": "Lebanon, officially known as the Lebanese Republic, is a sovereign state in Western Asia. It is bordered by Syria to the north and east and Israel to the south, while Cyprus is west across the Mediterranean Sea.",
+      "symbolID": "960D83C8-DE3E-4307-8EE2-D61B1920B9B1"
+    },
+    "7C134D50-DA7D-469F-B326-1E06D02EE62B": {
+      "6B6EF206-56E2-466D-9489-25C5CB64A344": "Lebanon",
+      "symbolID": "9F7A31B5-C35D-437B-ACBE-C677D8C84828"
+    },
+    "8BD0E494-487B-4E59-8BCD-A314B33D63DD": {
+      "CD6C78BC-230F-41C2-8041-829ECCA73478": "CREATE",
+      "symbolID": "E35F300E-3B3D-4B03-A154-1BF2FDC00282"
+    },
+    "BD8B144B-0D06-4AC4-8639-5EE5C2361F6E": {
+      "6B6EF206-56E2-466D-9489-25C5CB64A344": "LEBANON_TENANT",
+      "symbolID": "9F7A31B5-C35D-437B-ACBE-C677D8C84828"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A8C99CC4-63E5-4B4C-B118-B3F767566E79",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "2733C173-D914-4E58-AC4D-D36289768397",
+  "verticalSpacing": 0
+}

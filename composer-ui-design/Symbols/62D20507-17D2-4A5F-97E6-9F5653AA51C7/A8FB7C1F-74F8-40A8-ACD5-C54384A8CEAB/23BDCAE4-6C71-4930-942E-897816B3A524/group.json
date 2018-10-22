@@ -13,29 +13,21 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 392,
+    "height": 191,
     "width": 250,
     "x": 10,
-    "y": 271
+    "y": 276
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
       "id": "C0AB9EA2-C552-4FEB-8769-093641E23B3A"
-    },
-    {
-      "class": "group",
-      "id": "E2738789-DBF9-4640-BBA5-71AB61A66E3D"
-    },
-    {
-      "class": "group",
-      "id": "D14BF027-0A5C-40FB-9085-025B9584F570"
     },
     {
       "class": "group",
@@ -44,10 +36,6 @@
     {
       "class": "group",
       "id": "0F015F27-A110-4A09-B45D-EC3ECD8C94A1"
-    },
-    {
-      "class": "group",
-      "id": "5F3AFD97-C395-4866-A4ED-6B466C72DD95"
     }
   ],
   "name": "grp_component-props",

@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "AB2AF467-C79E-4FF1-85D2-37934AC68FA4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 247,
+    "width": 889,
+    "x": 12,
+    "y": 341
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "1D36F44D-40E9-4AE0-8DB3-7283ADBBA495"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A57C6FCE-F947-498F-8703-CA8EE84A5921"
+    },
+    {
+      "class": "text",
+      "id": "B30A70BE-C209-4456-AC17-0D8C9772332A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D8EAB251-474E-466A-9C93-C5DE36191E3C"
+    },
+    {
+      "class": "text",
+      "id": "DF1E01A8-03BD-4AA0-95F7-E9693B38D439"
+    },
+    {
+      "class": "group",
+      "id": "013538E3-A2C6-4B2B-A518-51FE397FFFAA"
+    }
+  ],
+  "name": "grp_funds-selection",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

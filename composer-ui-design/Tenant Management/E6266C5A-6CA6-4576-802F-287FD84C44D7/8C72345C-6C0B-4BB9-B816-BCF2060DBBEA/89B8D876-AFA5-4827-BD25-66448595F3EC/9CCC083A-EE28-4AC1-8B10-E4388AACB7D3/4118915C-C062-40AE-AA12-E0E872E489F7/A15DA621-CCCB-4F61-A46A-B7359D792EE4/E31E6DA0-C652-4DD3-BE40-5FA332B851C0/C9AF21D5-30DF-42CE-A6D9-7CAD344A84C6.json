@@ -1,0 +1,55 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "C9AF21D5-30DF-42CE-A6D9-7CAD344A84C6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FDE9A54E-CF46-4CBC-AA05-19B219ABD6AA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C5DED35D-27A1-4CE7-9AB6-9E559ED4B8DC",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Icons/File/ic_cloud_upload",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "33D66812-5E1C-4FBB-9307-28931683BA91",
+      "opacity": 0.5
+    },
+    "do_objectID": "A714ACAA-2D15-46DD-A794-1391931D685F",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "90391A77-D63F-419F-B3F4-8109A5A9EF16",
+  "verticalSpacing": 0
+}

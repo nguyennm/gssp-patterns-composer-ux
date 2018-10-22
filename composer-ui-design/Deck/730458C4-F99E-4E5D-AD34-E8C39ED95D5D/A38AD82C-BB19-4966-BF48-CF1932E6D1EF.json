@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "A38AD82C-BB19-4966-BF48-CF1932E6D1EF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DB1CB523-C8BD-4A46-AEE7-3B8768BFA55C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E86FF32F-6D7C-4BAB-84DB-653A64335463",
+    "height": 295,
+    "width": 350,
+    "x": 165,
+    "y": 245
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Cards / deck-tenant-desktop",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E53146C9-1385-408D-91E2-242616257D65",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "422C9FC4-F610-4CF4-B2B2-AC2CBBEB4601",
+  "verticalSpacing": 0
+}

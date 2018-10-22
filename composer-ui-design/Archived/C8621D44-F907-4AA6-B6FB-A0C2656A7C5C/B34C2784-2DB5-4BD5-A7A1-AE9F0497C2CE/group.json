@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "B34C2784-2DB5-4BD5-A7A1-AE9F0497C2CE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CB1F315C-FE30-4638-94D3-F60466E1A390",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7C80236A-7727-43FA-BEC3-AD15E2A88DBF",
+    "height": 219,
+    "width": 270,
+    "x": 1020,
+    "y": 421
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "1831F21A-634D-4966-BBFB-E5DEF5C331F3"
+    },
+    {
+      "class": "group",
+      "id": "480F8561-CE80-43CF-A7E1-8A2A2EAA8D00"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FCD3AF84-ED0F-4A92-B1AF-742D4474CD9E"
+    }
+  ],
+  "name": "grp_designer-toolbar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A2911D38-C369-43E2-BBAC-0722EDED007C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

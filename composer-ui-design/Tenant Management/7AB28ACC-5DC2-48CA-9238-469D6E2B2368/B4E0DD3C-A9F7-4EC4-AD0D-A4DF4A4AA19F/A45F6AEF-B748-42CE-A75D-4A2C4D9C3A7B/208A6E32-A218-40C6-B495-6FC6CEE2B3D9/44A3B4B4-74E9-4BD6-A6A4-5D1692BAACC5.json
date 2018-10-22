@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "44A3B4B4-74E9-4BD6-A6A4-5D1692BAACC5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2F717E39-E26D-4FC3-B324-AAD0B940722B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C8C8C383-B733-4B30-9152-354E6BAB9780",
+    "height": 36,
+    "width": 300,
+    "x": 0,
+    "y": 131
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Input / Text (Placeholder)",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "23EE82C8-BFC1-4C64-989B-4697D3B43B63",
+      "overrideName": "58BEE4E0-0614-4B4B-830B-7C05D14674D6_stringValue",
+      "value": "Payment Gateway URL"
+    }
+  ],
+  "overrides": {
+    "58BEE4E0-0614-4B4B-830B-7C05D14674D6": "Payment Gateway URL"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2556708B-FD7E-4590-BE9B-022029940224",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "AF234068-A97D-4097-8C29-3839F1341F51",
+  "verticalSpacing": 0
+}

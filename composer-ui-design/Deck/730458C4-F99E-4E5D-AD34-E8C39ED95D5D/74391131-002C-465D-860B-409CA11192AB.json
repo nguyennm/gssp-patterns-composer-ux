@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "74391131-002C-465D-860B-409CA11192AB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8E1EFB66-325D-41B2-8FDF-72BF55B5B10A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2AD3E66C-ED22-43AC-888F-A605EDB67004",
+    "height": 16,
+    "width": 269,
+    "x": 1006,
+    "y": 209
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Links / sort-menu",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2337A490-7F67-4588-B2DA-B4052A9C3038",
+      "overrideName": "BFF0890A-CDFC-46B9-B560-7924D7746713_stringValue",
+      "value": "RECENT ACTIVITY (NEWEST)"
+    }
+  ],
+  "overrides": {
+    "BFF0890A-CDFC-46B9-B560-7924D7746713": "RECENT ACTIVITY (NEWEST)"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EB04CFC8-9089-4FE6-A7CA-FB829D336F97",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "442094E9-FDAE-46D8-913A-86DE26C201BA",
+  "verticalSpacing": 0
+}

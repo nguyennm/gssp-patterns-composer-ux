@@ -1,0 +1,68 @@
+{
+  "_class": "group",
+  "do_objectID": "8AC1B5DB-A32B-4B51-9202-EC9A42BC0050",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "22F3531E-0ADD-45B0-A1EE-783D78AE0D0F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "41796C38-8A3C-4B8D-95CD-D6307392F385",
+    "height": 66,
+    "width": 361,
+    "x": 301,
+    "y": 195
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "B0418562-64C5-4195-AF41-5947A0EF1BBD"
+    },
+    {
+      "class": "text",
+      "id": "58834DE3-ED8B-49E1-A33A-77D82F9D55C5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EB85AF72-6EC9-489F-85DD-74A17FF6DB29"
+    },
+    {
+      "class": "text",
+      "id": "DE03E88B-41AC-4C46-AAC8-CC4516D9CABF"
+    },
+    {
+      "class": "text",
+      "id": "6EAB1967-0240-4594-BE32-455B8169299B"
+    },
+    {
+      "class": "text",
+      "id": "E1CACA99-CA09-48E8-A2B5-67E146AA08F6"
+    }
+  ],
+  "name": "grp_banner",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C88EBB54-DE02-40B7-8250-A0894448B8B9",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

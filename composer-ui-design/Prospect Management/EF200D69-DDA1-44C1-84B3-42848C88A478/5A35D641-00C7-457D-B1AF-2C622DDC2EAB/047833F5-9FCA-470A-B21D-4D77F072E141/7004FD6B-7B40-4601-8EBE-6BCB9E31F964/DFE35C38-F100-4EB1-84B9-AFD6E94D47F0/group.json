@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "DFE35C38-F100-4EB1-84B9-AFD6E94D47F0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 273,
+    "width": 270,
+    "x": 870,
+    "y": 51
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "23FD9BB3-6E5D-464D-89D6-1AA1D0D938E8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7D2F5F9F-215C-45E0-95DE-E3901E668202"
+    },
+    {
+      "class": "text",
+      "id": "576F665E-235D-49DB-8272-FDBF18936977"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9E91BADA-DD8C-4542-AA4C-74D362F80592"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "818D253E-D5C9-4BDD-B725-CD298E7A9101"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D2FD4FB0-4A3B-4E53-8271-700E5FD5534A"
+    }
+  ],
+  "name": "grp_designer-toolbar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

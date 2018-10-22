@@ -1,0 +1,178 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "9BB4CC53-5989-4C49-9B02-9AD6117C3B58",
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "B019AD25-F095-4375-A1B2-4E261B909A94",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FA9E0347-4004-401B-B7F1-DB2A65BF4B0D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BF0C66D8-3287-46C5-B701-5113C0260D34",
+    "height": 1440,
+    "width": 1440,
+    "x": 10367,
+    "y": -8526
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "FE309B52-744E-4BD5-875E-D87797438D18",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "66BD4363-DD10-4E67-B7AB-2E7616C421AD",
+    "guides": [
+      150,
+      1290,
+      1195,
+      1100,
+      1005,
+      910,
+      815,
+      720,
+      625,
+      530,
+      435,
+      340,
+      245
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "6B51E165-FB20-4896-A224-15E49C6CFE54"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1618D88E-320C-40BE-A251-70842F1060EA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A8B4F731-E115-47B9-BBAF-4799B3AD2C00"
+    },
+    {
+      "class": "group",
+      "id": "89F48F7B-5802-4940-8549-959913AB3F9A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3502FC69-00CC-4902-A505-C1866399611C"
+    },
+    {
+      "class": "group",
+      "id": "9A4FB9E9-6107-4B97-93AF-9AA86940D397"
+    },
+    {
+      "class": "group",
+      "id": "D7319620-B14F-49E4-80A3-3C16B4051438"
+    },
+    {
+      "class": "group",
+      "id": "923777DE-A6CF-47AC-BB3E-8841CEB10997"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D3FC7383-002D-4E20-9472-CDB4C4890DF5"
+    },
+    {
+      "class": "group",
+      "id": "8DB4B846-92A8-488C-8D9F-90D040E16882"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 65,
+    "do_objectID": "88B5EB12-947B-4376-9290-0E6F08F8E968",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 30,
+    "guttersOutside": true,
+    "horizontalOffset": 150,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1140
+  },
+  "name": "Prospect Management - Component Rules (Added) - Desktop HD",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "ACEB4DE7-EAEE-412E-A5AD-C61105CF2E50",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "11EC3F0D-4BFF-432B-8946-4E2847712A15",
+    "guides": [
+    ]
+  }
+}

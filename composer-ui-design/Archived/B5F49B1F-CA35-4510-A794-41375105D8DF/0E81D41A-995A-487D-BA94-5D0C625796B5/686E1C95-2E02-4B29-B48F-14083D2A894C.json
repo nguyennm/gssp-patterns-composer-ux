@@ -1,0 +1,63 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "686E1C95-2E02-4B29-B48F-14083D2A894C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0C3F174A-E9FF-4F76-9303-EC5F03B735AB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "06FDB527-6126-45F8-9443-D320F3A9E904",
+    "height": 71,
+    "width": 536,
+    "x": 0,
+    "y": 773
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "name": "Workflow Designer / Dropzone Inputs / textbox (normal)",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "0222CA73-84BD-4847-96D3-6B057F05775C_symbolID",
+      "value": "4AD30566-D36B-4234-A6F0-4A6FC8C70912"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "85799104-F2F0-4236-AAF4-604E4D8C2E5E_stringValue",
+      "value": "Monthly Income"
+    }
+  ],
+  "overrides": {
+    "0222CA73-84BD-4847-96D3-6B057F05775C": {
+      "symbolID": "4AD30566-D36B-4234-A6F0-4A6FC8C70912"
+    },
+    "85799104-F2F0-4236-AAF4-604E4D8C2E5E": "Monthly Income"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "48BBF152-FAA5-492F-B9F7-C34CEA9D0E99",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "59F03254-0061-4833-A3FA-6B1754EA83C8",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,87 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "120CCD14-4189-454D-A0D3-97242A3BA034",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FC50E8BE-DBF2-4EAA-B501-A6C385CA484C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DA60F768-A858-411E-9F98-E53C066EFCD2",
+    "height": 50,
+    "width": 1140,
+    "x": 150,
+    "y": 123
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Navigation / tabs",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "D0FD8981-8BB2-4189-A330-B8EE186BD1C6_symbolID",
+      "value": "63B00F7A-CD88-451B-9E53-96A331288FEF"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "D0FD8981-8BB2-4189-A330-B8EE186BD1C6/16482CD0-DDDA-42D0-B351-4C321DC54B87_stringValue",
+      "value": "Overview"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "89DF5A4A-9C77-4C58-B785-899BDE747A25/16482CD0-DDDA-42D0-B351-4C321DC54B87_stringValue",
+      "value": "Client Configuration"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "23D40C31-C6F5-4F5D-8755-E4314E6673E0",
+      "overrideName": "B9775647-F6A9-4C60-BCF4-78BB986E956D_symbolID",
+      "value": "EAA0942A-9D0C-4F96-BFBB-622FD4D20B64"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "50F85E70-7694-4E4D-A337-7550A61CEF7C",
+      "overrideName": "B9775647-F6A9-4C60-BCF4-78BB986E956D/67830810-BDCB-4DE8-84B2-CAFC6B8AAF65_stringValue",
+      "value": "Products"
+    }
+  ],
+  "overrides": {
+    "89DF5A4A-9C77-4C58-B785-899BDE747A25": {
+      "16482CD0-DDDA-42D0-B351-4C321DC54B87": "Client Configuration"
+    },
+    "B9775647-F6A9-4C60-BCF4-78BB986E956D": {
+      "67830810-BDCB-4DE8-84B2-CAFC6B8AAF65": "Products",
+      "symbolID": "EAA0942A-9D0C-4F96-BFBB-622FD4D20B64"
+    },
+    "D0FD8981-8BB2-4189-A330-B8EE186BD1C6": {
+      "16482CD0-DDDA-42D0-B351-4C321DC54B87": "Overview",
+      "symbolID": "63B00F7A-CD88-451B-9E53-96A331288FEF"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F8DFD9D1-6407-4D85-AC11-CA3C924F2A30",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "0D20AF47-0B06-4334-A21F-6B31F2E834F6",
+  "verticalSpacing": 0
+}

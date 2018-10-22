@@ -1,0 +1,46 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGZ2hYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHgcIDxAeHyAhIi00OEBBQkNESExNWVpbXF1eX2BhY1UkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgB2AA18QGkNPTkZJR1VSRSBGVU5EIEFMTE9DQVRJT05T0xESChMYHVdOUy5rZXlzWk5TLm9iamVjdHOkFBUWF4AEgAWABoAHpBkaGxyACIAKgBKAE4AcXxAQTlNQYXJhZ3JhcGhTdHlsZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVbTlNVbmRlcmxpbmVfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGXWIyQlJgonKCkqKywqXxASTlNQYXJhZ3JhcGhTcGFjaW5nW05TQWxpZ25tZW50XxAPTlNNaW5MaW5lSGVpZ2h0Wk5TVGFiU3RvcHNfEA9OU01heExpbmVIZWlnaHQjQCQAAAAAAAAQBCNAMAAAAAAAAIAAgAnSLi8wMVokY2xhc3NuYW1lWCRjbGFzc2VzXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjMDIzXxAQTlNQYXJhZ3JhcGhTdHlsZVhOU09iamVjdNIKNTY3XxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAEYAL0xESCjk8P6I6O4AMgA2iPT6ADoAPgBBfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNALAAAAAAAAFtSb2JvdG8tQm9sZNIuL0VGXxATTlNNdXRhYmxlRGljdGlvbmFyeaNFRzNcTlNEaWN0aW9uYXJ50i4vSUpfEBBOU0ZvbnREZXNjcmlwdG9yokszXxAQTlNGb250RGVzY3JpcHRvchAB0xESCk5THaRPUFFSgBSAFYAWgBekVFVWV4AYgBmAGoAbgBxTcmVkVWFscGhhVGJsdWVVZ3JlZW4jAAAAAAAAAAAjP/AAAAAAAAAjP+eXl5eXl5gjP96enp6enqbSLi9HYqJHM9IuL2RlXxASTlNBdHRyaWJ1dGVkU3RyaW5nomYzXxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0WlqVHJvb3SAAQAIABEAGgAjAC0AMgA3AFgAXgBlAG4AdQCCAIQAhgCIAKUArAC0AL8AxADGAMgAygDMANEA0wDVANcA2QDbAO4BEAEcAUkBVgFrAXcBiQGUAaYBrwGxAboBvAG+AcMBzgHXAfEB9QIIAhECFgIzAjUCNwI+AkECQwJFAkgCSgJMAk4CZAJ6AoMCjwKUAqoCrgK7AsAC0wLWAukC6wLyAvcC+QL7Av0C/wMEAwYDCAMKAwwDDgMSAxgDHQMjAywDNQM+A0cDTANPA1QDaQNsA4EDkwOWA5sAAAAAAAACAQAAAAAAAABrAAAAAAAAAAAAAAAAAAADnQ=="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "62A8ED71-1F35-441A-BFA0-C2FACA559916",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 16,
+    "width": 212,
+    "x": 21,
+    "y": 90
+  },
+  "glyphBounds": "{{0, 2}, {211, 12}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "CONFIGURE FUND ALLOC",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "2FBB3A33-993B-43A8-8665-4A37FF86139E"
+  },
+  "textBehaviour": 0
+}

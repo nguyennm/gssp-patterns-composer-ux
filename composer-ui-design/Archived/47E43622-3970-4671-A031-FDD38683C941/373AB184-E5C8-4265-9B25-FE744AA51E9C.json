@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "373AB184-E5C8-4265-9B25-FE744AA51E9C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "212D71A0-0185-41D3-AD26-C3B4219ED41A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "339A855F-ADB7-4402-A53A-2838AFA41B88",
+    "height": 53,
+    "width": 1140,
+    "x": 150,
+    "y": 70
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Navigation / breadcrumb-nav-bar-tenant",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "82A469C0-E647-41AC-BA5E-B57FC99525BB",
+      "overrideName": "63114C21-39B8-4A60-BB69-D47D8539F011_stringValue",
+      "value": "Lebanon"
+    }
+  ],
+  "overrides": {
+    "63114C21-39B8-4A60-BB69-D47D8539F011": "Lebanon"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "98B348E3-3D5B-478E-8DC6-307B923AF3CC",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "21512FF4-7F7F-45BD-B34C-1DD1C691AF8C",
+  "verticalSpacing": 0
+}

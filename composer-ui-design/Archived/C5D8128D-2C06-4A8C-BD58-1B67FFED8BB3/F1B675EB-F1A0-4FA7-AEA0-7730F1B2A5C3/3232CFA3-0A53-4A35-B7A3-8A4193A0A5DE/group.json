@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "do_objectID": "3232CFA3-0A53-4A35-B7A3-8A4193A0A5DE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7E7EE2B3-531E-4539-AF92-053EE6F9A723",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "20E6A7FF-5B08-4EE7-8E9A-0DC5D54985F8",
+    "height": 685,
+    "width": 950,
+    "x": 245,
+    "y": 187
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A4C9AB92-49B4-48A4-BC66-3C0ADDCB241E"
+    },
+    {
+      "class": "group",
+      "id": "4CBEC3C6-E374-405C-86C1-D3BF8D4648D7"
+    },
+    {
+      "class": "group",
+      "id": "EC165BAD-EC68-43E7-9E01-5714AA8E5C00"
+    },
+    {
+      "class": "text",
+      "id": "FCE2A3D4-56D7-41D9-9CE9-1FB4110FA4C0"
+    }
+  ],
+  "name": "grp_dialog",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E2A49DFD-6B43-4733-B646-92D28DD20196",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

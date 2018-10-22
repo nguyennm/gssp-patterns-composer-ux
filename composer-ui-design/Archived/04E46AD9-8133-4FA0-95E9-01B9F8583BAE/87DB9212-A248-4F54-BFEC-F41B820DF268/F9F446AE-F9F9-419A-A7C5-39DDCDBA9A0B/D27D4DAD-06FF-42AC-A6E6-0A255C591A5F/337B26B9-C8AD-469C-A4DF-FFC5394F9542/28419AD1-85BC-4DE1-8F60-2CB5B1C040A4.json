@@ -1,0 +1,55 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "28419AD1-85BC-4DE1-8F60-2CB5B1C040A4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "612F4CD5-B580-4BF1-B5AE-C2F27C0B04EB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2EF99504-C918-4CEE-ABAD-8D22BF7617E6",
+    "height": 16,
+    "width": 48.18823529411762,
+    "x": 704,
+    "y": 231
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form / Hyperlink",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "1E36F99A-3E1D-4180-AAE4-C758B68169F1_stringValue",
+      "value": "Cancel"
+    }
+  ],
+  "overrides": {
+    "1E36F99A-3E1D-4180-AAE4-C758B68169F1": "Cancel"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "629BAABE-2A71-4234-9E31-F0E2E82465DF",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "1420220F-A643-40CD-8FA3-5EF000E1BB0D",
+  "verticalSpacing": 0
+}

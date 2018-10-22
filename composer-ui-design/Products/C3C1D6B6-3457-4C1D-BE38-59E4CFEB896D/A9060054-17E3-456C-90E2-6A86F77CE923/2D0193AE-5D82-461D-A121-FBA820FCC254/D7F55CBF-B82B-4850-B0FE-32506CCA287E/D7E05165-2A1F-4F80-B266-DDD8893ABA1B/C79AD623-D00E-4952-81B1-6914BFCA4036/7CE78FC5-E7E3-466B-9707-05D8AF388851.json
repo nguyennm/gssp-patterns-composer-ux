@@ -1,0 +1,48 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGXV5YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHAcIDxAcHR4fKywtLi8wMTIzOT9CRk5PUFFSVVlVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAbgANfEC1BcmUgeW91IHN1cmUgeW91IHdhbnQgdG8gZGVsZXRlIHRoaXMgcHJvZHVjdD/TERIKExcbV05TLmtleXNaTlMub2JqZWN0c6MUFRaABIAFgAajGBkagAeAEYATgBBfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVfEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZdMREgogJRukISIjJIAIgAmACoALpCYnKCmADIANgA6AD4AQU3JlZFVhbHBoYVRibHVlVWdyZWVuIz/JmZmZmZmaIz/wAAAAAAAAIz/JmZmZmZmaIz/JmZmZmZma0jQ1NjdaJGNsYXNzbmFtZVgkY2xhc3Nlc1xOU0RpY3Rpb25hcnmiNjhYTlNPYmplY3TTOgo7PD0+Wk5TVGFiU3RvcHNbTlNBbGlnbm1lbnSAAIASEATSNDVAQV8QEE5TUGFyYWdyYXBoU3R5bGWiQDjSCkNERV8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBqAFNMREgpHSk2iSEmAFYAWoktMgBeAGIAZXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQDgAAAAAAABcR2VvcmdpYS1Cb2xk0jQ1U1RfEBNOU011dGFibGVEaWN0aW9uYXJ5o1M2ONI0NVZXXxAQTlNGb250RGVzY3JpcHRvcqJYOF8QEE5TRm9udERlc2NyaXB0b3LSNDVaW18QEk5TQXR0cmlidXRlZFN0cmluZ6JcOF8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctFfYFRyb290gAEACAARABoAIwAtADIANwBWAFwAYwBsAHMAgACCAIQAhgC2AL0AxQDQANQA1gDYANoA3gDgAOIA5ADmARMBJgFIAU8BVAFWAVgBWgFcAWEBYwFlAWcBaQFrAW8BdQF6AYABiQGSAZsBpAGpAbQBvQHKAc0B1gHdAegB9AH2AfgB+gH/AhICFQIaAjcCOQI7AkICRQJHAkkCTAJOAlACUgJoAn4ChwKUApkCrwKzArgCywLOAuEC5gL7Av4DEwMlAygDLQAAAAAAAAIBAAAAAAAAAGEAAAAAAAAAAAAAAAAAAAMv"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "7CE78FC5-E7E3-466B-9707-05D8AF388851",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1E428ADD-8DBE-4257-AC6D-9B7E050383B8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E085DD1C-759C-4E0E-B27C-F598E77443F1",
+    "height": 54,
+    "width": 521,
+    "x": 42,
+    "y": 64
+  },
+  "glyphBounds": "{{-1, 3}, {440, 52}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 1,
+  "name": "Are you sure you wan",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "C08D5B10-28BB-4AA5-9F36-9F3877518885"
+  },
+  "textBehaviour": 1
+}

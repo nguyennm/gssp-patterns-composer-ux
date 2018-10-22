@@ -15,7 +15,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "3AE1B2FE-12E1-4957-B79E-B13CD68246EB",
-    "height": 658,
+    "height": 587,
     "width": 890,
     "x": 30,
     "y": 1370
@@ -42,10 +42,6 @@
     {
       "class": "group",
       "id": "48F4086E-9DB7-40D5-B26C-B829790DD1F9"
-    },
-    {
-      "class": "group",
-      "id": "5908A7C9-7178-4B30-8225-D3630BD10249"
     },
     {
       "class": "group",
@@ -95,7 +91,7 @@
           "blendMode": 0,
           "opacity": 1
         },
-        "isEnabled": true,
+        "isEnabled": false,
         "offsetX": 0,
         "offsetY": 2,
         "spread": 0

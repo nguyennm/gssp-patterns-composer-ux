@@ -1,0 +1,46 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGXV5YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHAcIDxAcHR4fKywtLi8wMTIzOT9CRk5PUFFSVVlVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAbgANfECtBZGQgYSBwcm9kdWN0IGJ5IGNvbXBsZXRpbmcgdGhlIGZvcm0gYmVsb3cu0xESChMXG1dOUy5rZXlzWk5TLm9iamVjdHOjFBUWgASABYAGoxgZGoAHgBGAE4AQXxAqTVNBdHRyaWJ1dGVkU3RyaW5nQ29sb3JEaWN0aW9uYXJ5QXR0cmlidXRlXxAQTlNQYXJhZ3JhcGhTdHlsZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGXTERIKICUbpCEiIySACIAJgAqAC6QmJygpgAyADYAOgA+AEFNyZWRVYWxwaGFUYmx1ZVVncmVlbiM/yZmZmZmZmiM/8AAAAAAAACM/yZmZmZmZmiM/yZmZmZmZmtI0NTY3WiRjbGFzc25hbWVYJGNsYXNzZXNcTlNEaWN0aW9uYXJ5ojY4WE5TT2JqZWN00zoKOzw9PlpOU1RhYlN0b3BzW05TQWxpZ25tZW50gACAEhAE0jQ1QEFfEBBOU1BhcmFncmFwaFN0eWxlokA40gpDREVfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AagBTTERIKR0pNokhJgBWAFqJLTIAXgBiAGV8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0A4AAAAAAAAXEdlb3JnaWEtQm9sZNI0NVNUXxATTlNNdXRhYmxlRGljdGlvbmFyeaNTNjjSNDVWV18QEE5TRm9udERlc2NyaXB0b3KiWDhfEBBOU0ZvbnREZXNjcmlwdG9y0jQ1WltfEBJOU0F0dHJpYnV0ZWRTdHJpbmeiXDhfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRX2BUcm9vdIABAAgAEQAaACMALQAyADcAVgBcAGMAbABzAIAAggCEAIYAtAC7AMMAzgDSANQA1gDYANwA3gDgAOIA5AERASQBRgFNAVIBVAFWAVgBWgFfAWEBYwFlAWcBaQFtAXMBeAF+AYcBkAGZAaIBpwGyAbsByAHLAdQB2wHmAfIB9AH2AfgB/QIQAhMCGAI1AjcCOQJAAkMCRQJHAkoCTAJOAlACZgJ8AoUCkgKXAq0CsQK2AskCzALfAuQC+QL8AxEDIwMmAysAAAAAAAACAQAAAAAAAABhAAAAAAAAAAAAAAAAAAADLQ=="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "3B47CF07-0264-4A41-8C63-0F49831C78FE",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 27,
+    "width": 568,
+    "x": 42,
+    "y": 64
+  },
+  "glyphBounds": "{{-1, 3}, {555, 25}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 1,
+  "name": "Add a product by com",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "C08D5B10-28BB-4AA5-9F36-9F3877518885"
+  },
+  "textBehaviour": 1
+}

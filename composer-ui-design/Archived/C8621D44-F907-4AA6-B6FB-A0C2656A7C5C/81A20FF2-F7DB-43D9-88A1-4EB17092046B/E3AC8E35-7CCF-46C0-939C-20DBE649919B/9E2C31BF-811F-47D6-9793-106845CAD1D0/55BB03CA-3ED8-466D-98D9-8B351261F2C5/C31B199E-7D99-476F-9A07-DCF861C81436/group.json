@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "C31B199E-7D99-476F-9A07-DCF861C81436",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5B078849-43EB-4ECA-ADA2-D67758FCE598",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0392E372-C918-4805-95D7-97C5CD9795DE",
+    "height": 182,
+    "width": 503,
+    "x": 250,
+    "y": 112
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "7EF7D395-B09A-4C2F-AB2D-17DB6F3ABE47"
+    },
+    {
+      "class": "text",
+      "id": "1D92005B-A014-4588-B6FF-CD64B0D8925F"
+    },
+    {
+      "class": "text",
+      "id": "A6099207-98B6-478A-8469-1AB0025C5C6B"
+    }
+  ],
+  "name": "Input / Text - URL Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5DAB5C90-2F37-467D-8EC8-410CEAFD8A8F",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

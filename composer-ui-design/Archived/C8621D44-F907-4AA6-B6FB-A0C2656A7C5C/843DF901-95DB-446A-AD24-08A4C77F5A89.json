@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "843DF901-95DB-446A-AD24-08A4C77F5A89",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "19EC4718-9460-4A18-B414-0B089B369420",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A01C57F0-579E-433C-AFB6-3EC2299BDE4C",
+    "height": 70,
+    "width": 1140,
+    "x": 150,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Navigation / main-nav-bar",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "09A675ED-E564-4B11-8F11-F4F847B27CF1",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "1B6CC5D3-9208-473A-8034-CCD468C913C8",
+  "verticalSpacing": 0
+}

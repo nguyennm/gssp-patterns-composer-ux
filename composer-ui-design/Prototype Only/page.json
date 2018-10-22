@@ -38,14 +38,6 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
-    {
-      "class": "artboard",
-      "id": "C019C577-0901-42D5-AD71-78508F565087"
-    },
-    {
-      "class": "artboard",
-      "id": "3827172B-9B7E-4412-8483-DE6A60D6661B"
-    }
   ],
   "layout": {
     "_class": "layoutGrid",

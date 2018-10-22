@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "023A416A-2815-4F1D-9006-4B3664452E7C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "173642F1-EB21-483D-808B-B573F4891801",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "82B10C33-5DC4-4FBE-96F0-8040FFFCB64F",
+    "height": 72,
+    "width": 225,
+    "x": 597,
+    "y": 57
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "9E810C60-2110-4148-97DC-F021C26DDB35"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "19E55AB6-4A52-40FD-8B1D-769F5046BEF8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "86ED9CA2-83AE-472D-900E-68F98E424C4B"
+    }
+  ],
+  "name": "Flow Selection",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1440226A-A578-4E78-A627-EB60C2AF45BC",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

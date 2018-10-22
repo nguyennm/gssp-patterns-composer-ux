@@ -1,0 +1,88 @@
+{
+  "_class": "group",
+  "do_objectID": "3C3CD820-07CC-464D-A2EA-C371419C24AB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4A1F5436-FAD9-4231-800C-037435EE1E19",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "50D392CD-8837-4B1C-A9DF-9FA8A836F17A",
+    "height": 277,
+    "width": 190,
+    "x": 0,
+    "y": 36
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9FEF1AC3-A650-4588-9961-E153A92CBBE6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "ED2D1B4E-5B6D-40AB-B72A-A534DCAE6166"
+    },
+    {
+      "class": "text",
+      "id": "5AC03AC2-14EE-43E3-A8B5-334288BD61A7"
+    },
+    {
+      "class": "text",
+      "id": "0A2B8BA7-9807-4D65-8CF1-E2374EC2A2D4"
+    },
+    {
+      "class": "text",
+      "id": "E8FC6A4D-6DAB-4E7F-B245-8CC53DC3887D"
+    },
+    {
+      "class": "text",
+      "id": "A904C9C9-CB36-43D1-BA4A-514B7915A8F4"
+    },
+    {
+      "class": "text",
+      "id": "F25AD2EF-BDDF-4545-A3F9-D61E8C2FB422"
+    },
+    {
+      "class": "text",
+      "id": "2841F112-480A-497F-BEBA-0AB01F759DBC"
+    },
+    {
+      "class": "text",
+      "id": "F28CAA48-6EFE-4E1A-9F52-A10F336171EB"
+    },
+    {
+      "class": "text",
+      "id": "67100C42-D385-48AA-8799-1DDF9A8CDD33"
+    },
+    {
+      "class": "text",
+      "id": "A65ABCBD-C063-4700-8DED-78B877839221"
+    }
+  ],
+  "name": "dropdown_menu",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6A4DD9F6-5632-464A-8898-E1946E5B71D2",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

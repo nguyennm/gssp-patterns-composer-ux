@@ -1,0 +1,97 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "4A2F6650-4B5F-418D-81F5-F2C0B173103C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "802C2CC6-C9EB-4F83-9A8B-9A60AC287647",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "12219E6D-7C62-4C25-A514-15E4277FE2AC",
+    "height": 101,
+    "width": 866,
+    "x": 0,
+    "y": 305
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Statics / state-rule-row Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "FA5344AF-1B4E-4AAE-B144-7EB6D819E9A5/AFC41224-15DF-4C2A-B727-8254764CDCA2_stringValue",
+      "value": "Prospect Update"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "68795A32-628D-489B-8CFE-3960875ED3F1/AFC41224-15DF-4C2A-B727-8254764CDCA2_stringValue",
+      "value": "Prospect Create"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6B4EFA00-10B7-47D1-AF60-78CCDD757300",
+      "overrideName": "0090BADC-8AE9-48F4-B833-6914726A55DE_stringValue",
+      "value": "ATTRIBUTE"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DC0A7F31-36A6-4D76-9B84-0C4E901D0319",
+      "overrideName": "00FDD5B3-1729-4912-B5F7-74E6CB719220_stringValue",
+      "value": "ATTRIBUTE"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BEB43D50-C9FC-4B7E-8EE4-5C38FE4A5118",
+      "overrideName": "85C5AF04-7994-4992-8DC7-866F14CFD0F2/AFC41224-15DF-4C2A-B727-8254764CDCA2_stringValue",
+      "value": "Prospect Update"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C644AF48-36DA-4070-B10F-36F7F0498D6D",
+      "overrideName": "1F808639-49FB-445C-BA9A-6BCD1B125240/AFC41224-15DF-4C2A-B727-8254764CDCA2_stringValue",
+      "value": "Prospect Create"
+    }
+  ],
+  "overrides": {
+    "0090BADC-8AE9-48F4-B833-6914726A55DE": "ATTRIBUTE",
+    "00FDD5B3-1729-4912-B5F7-74E6CB719220": "ATTRIBUTE",
+    "1F808639-49FB-445C-BA9A-6BCD1B125240": {
+      "AFC41224-15DF-4C2A-B727-8254764CDCA2": "Prospect Create"
+    },
+    "68795A32-628D-489B-8CFE-3960875ED3F1": {
+      "AFC41224-15DF-4C2A-B727-8254764CDCA2": "Prospect Create"
+    },
+    "85C5AF04-7994-4992-8DC7-866F14CFD0F2": {
+      "AFC41224-15DF-4C2A-B727-8254764CDCA2": "Prospect Update"
+    },
+    "FA5344AF-1B4E-4AAE-B144-7EB6D819E9A5": {
+      "AFC41224-15DF-4C2A-B727-8254764CDCA2": "Prospect Update"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8B432542-3304-4635-9D9E-22B155B5938E",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "D3D8C566-68CB-4EC1-82F9-39A4124B1C8D",
+  "verticalSpacing": 0
+}

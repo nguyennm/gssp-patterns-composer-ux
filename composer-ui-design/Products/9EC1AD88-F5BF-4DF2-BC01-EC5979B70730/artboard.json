@@ -20,9 +20,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 6850,
+    "height": 6650,
     "width": 2250,
-    "x": 9999,
+    "x": 3839,
     "y": 2689
   },
   "hasBackgroundColor": false,
@@ -55,7 +55,7 @@
       "id": "B995664D-589F-4D88-93DA-BF57873AD493"
     }
   ],
-  "name": "Products - Create Product Requirement Specs",
+  "name": "Products - Requirement Specs - Create Product",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

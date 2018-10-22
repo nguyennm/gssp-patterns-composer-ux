@@ -1,0 +1,83 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "4A48F22F-C755-4CAF-BA50-2C82CE6546D7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0AF7C254-E28F-4B56-8210-52CACDDFDF4D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "001E480E-2972-4ECF-844F-A625B1E80A4A",
+    "height": 101,
+    "width": 866,
+    "x": 0,
+    "y": 103
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Statics / state-rule-row Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "99EC0BC5-1B3E-4F46-B15E-9112EC0D7E1B_stringValue",
+      "value": "HIDDEN"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "A8686BD5-0ADF-4FDE-BABA-47EFEF00FE50_stringValue",
+      "value": "When @gpe.value prospect.attrs.isHidden,"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "505BA853-2CD4-42A1-B52C-54412B2AD027_stringValue",
+      "value": "hide this component."
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "FA5344AF-1B4E-4AAE-B144-7EB6D819E9A5/AFC41224-15DF-4C2A-B727-8254764CDCA2_stringValue",
+      "value": "Prospect Create"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "68795A32-628D-489B-8CFE-3960875ED3F1/AFC41224-15DF-4C2A-B727-8254764CDCA2_stringValue",
+      "value": "Prospect Update"
+    }
+  ],
+  "overrides": {
+    "505BA853-2CD4-42A1-B52C-54412B2AD027": "hide this component.",
+    "68795A32-628D-489B-8CFE-3960875ED3F1": {
+      "AFC41224-15DF-4C2A-B727-8254764CDCA2": "Prospect Update"
+    },
+    "99EC0BC5-1B3E-4F46-B15E-9112EC0D7E1B": "HIDDEN",
+    "A8686BD5-0ADF-4FDE-BABA-47EFEF00FE50": "When @gpe.value prospect.attrs.isHidden,",
+    "FA5344AF-1B4E-4AAE-B144-7EB6D819E9A5": {
+      "AFC41224-15DF-4C2A-B727-8254764CDCA2": "Prospect Create"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "81DEBC2A-6802-46A5-AAAE-5C3EF62DF779",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "BC507441-1353-4E93-B17C-7AB0F64D744A",
+  "verticalSpacing": 0
+}

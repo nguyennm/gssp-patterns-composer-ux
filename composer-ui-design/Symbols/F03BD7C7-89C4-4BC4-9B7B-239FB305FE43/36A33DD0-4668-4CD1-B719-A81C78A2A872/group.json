@@ -42,8 +42,16 @@
       "id": "FBB37F88-AD24-48A1-9AE4-E7B1DC65F258"
     },
     {
-      "class": "text",
-      "id": "FC32B156-A327-4ED9-B328-0D78D0C970AF"
+      "class": "symbolInstance",
+      "id": "514C3AA5-0C52-44D7-A77B-6186B7B12634"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E74D621E-5992-4E9A-8A60-FD0F04C1314C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "578E26FB-0E48-489F-B8FA-89131C227A71"
     }
   ],
   "name": "grp_model_row",

@@ -1,0 +1,86 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "E0B1FDC9-A91A-4746-938F-5C9948DC8246",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 101,
+    "width": 866,
+    "x": 0,
+    "y": 204
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Statics / state-rule-row Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "99EC0BC5-1B3E-4F46-B15E-9112EC0D7E1B_stringValue",
+      "value": "INVALID"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "A8686BD5-0ADF-4FDE-BABA-47EFEF00FE50_stringValue",
+      "value": "When this.attrs.nickName === '',"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "505BA853-2CD4-42A1-B52C-54412B2AD027_stringValue",
+      "value": "invalidate component with message 'This field is required'."
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "FA5344AF-1B4E-4AAE-B144-7EB6D819E9A5/AFC41224-15DF-4C2A-B727-8254764CDCA2_stringValue",
+      "value": "Prospect Update"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "68795A32-628D-489B-8CFE-3960875ED3F1/AFC41224-15DF-4C2A-B727-8254764CDCA2_stringValue",
+      "value": "Prospect Create"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "68795A32-628D-489B-8CFE-3960875ED3F1_symbolID",
+      "value": ""
+    }
+  ],
+  "overrides": {
+    "505BA853-2CD4-42A1-B52C-54412B2AD027": "invalidate component with message 'This field is required'.",
+    "68795A32-628D-489B-8CFE-3960875ED3F1": {
+      "AFC41224-15DF-4C2A-B727-8254764CDCA2": "Prospect Create",
+      "symbolID": ""
+    },
+    "99EC0BC5-1B3E-4F46-B15E-9112EC0D7E1B": "INVALID",
+    "A8686BD5-0ADF-4FDE-BABA-47EFEF00FE50": "When this.attrs.nickName === '',",
+    "FA5344AF-1B4E-4AAE-B144-7EB6D819E9A5": {
+      "AFC41224-15DF-4C2A-B727-8254764CDCA2": "Prospect Update"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "BC507441-1353-4E93-B17C-7AB0F64D744A",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "670A013C-2207-4516-A3CF-26EEC7AD8075",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 924,
+    "width": 2069,
+    "x": 80,
+    "y": 389
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "68E97F29-5460-440C-A7BA-16883656DC25"
+    },
+    {
+      "class": "group",
+      "id": "2BBFC401-1870-4D1F-A66F-205F854F8E7D"
+    }
+  ],
+  "name": "Create Product Modal - Default",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

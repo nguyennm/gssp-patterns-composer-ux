@@ -1,0 +1,97 @@
+{
+  "_class": "group",
+  "do_objectID": "2EFA74EA-25A2-40A6-9A21-7D24EAE26EB5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 913,
+    "width": 1889,
+    "x": 0,
+    "y": 82
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "1BA31340-7CD2-4648-ACE7-A74FDE1C389F"
+    },
+    {
+      "class": "text",
+      "id": "D24527A6-BE29-4E3F-9A45-7458925F566C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "40398FC3-5204-47B5-B876-3D2EBF591DD2"
+    },
+    {
+      "class": "text",
+      "id": "08F5751D-77B1-4184-9119-9BE1EC90A3DA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DC10A292-825B-4A8E-A35A-84D5C60B629E"
+    },
+    {
+      "class": "text",
+      "id": "4F7C47B9-A9BA-4090-8B1D-08F59470D5C8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CF571859-B0E2-4201-BB7C-D8C43CF27CD9"
+    },
+    {
+      "class": "text",
+      "id": "652B9C8A-ACEE-4EC5-A02A-F67629394FA7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7C95AFB7-3E89-466A-A4DD-3617F38EDA37"
+    },
+    {
+      "class": "text",
+      "id": "578B8249-550B-4931-9DB5-863C4F864A51"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BDB87E1E-BA92-4FCF-A618-18A3E307B05F"
+    },
+    {
+      "class": "text",
+      "id": "374685E8-DA3A-49D8-93EA-4ECA782AFDD7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "03ABE864-E2FA-422C-AF81-18FCDE925FC1"
+    },
+    {
+      "class": "text",
+      "id": "D32AF005-9735-4F8E-9298-9AFE2274C0D6"
+    }
+  ],
+  "name": "SPECS",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

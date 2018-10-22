@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "8D4BB64D-287C-4478-8C37-B675CADABEDF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A6D967D3-BF04-4B76-867C-5C1AE3BA9EC7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3EFE7EB6-701C-4068-995F-E809C4C0AA38",
+    "height": 164,
+    "width": 1111,
+    "x": 164,
+    "y": 352
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Statics / product-row",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8B13B649-6FA2-4E1B-8F6A-39A8844FAF1D",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "1C8FA606-D518-445B-8948-589A508114A6",
+  "verticalSpacing": 0
+}

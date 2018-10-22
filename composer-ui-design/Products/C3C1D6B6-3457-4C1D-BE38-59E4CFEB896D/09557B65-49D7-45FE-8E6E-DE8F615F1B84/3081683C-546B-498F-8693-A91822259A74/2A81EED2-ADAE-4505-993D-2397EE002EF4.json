@@ -1,0 +1,106 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "2A81EED2-ADAE-4505-993D-2397EE002EF4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DFD2C985-ED9F-4092-9D01-CECE054B66F0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "301E2BCA-D315-4795-96E4-066AE993B984",
+    "height": 1473,
+    "width": 950,
+    "x": 0,
+    "y": 42
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Statics / create-product-dialog",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0B2868B0-ABD0-43BF-AB4E-B9C3ABA74078",
+      "overrideName": "96B58BAC-9A40-4869-9EC2-F2B0CC49B67A_stringValue",
+      "value": "Cloning from Product Future Protect..."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7AD40D02-05F8-4184-9F1F-5DF5FB65D555",
+      "overrideName": "9DA1F5BE-9E8F-401C-A9DB-EE3D7E71DBF1_stringValue",
+      "value": "Clone of Future Protect"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E54980F4-9992-4D83-91DE-C99CA549541D",
+      "overrideName": "57EB9B87-3C06-4400-99FE-00D6FDED1B63_stringValue",
+      "value": "futureProtect_clone"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BEAB4D30-AFDB-43FA-9ECF-0FF27AEC1968",
+      "overrideName": "047F9B54-D6D2-4AD5-A78A-EA42171BD8BB_stringValue",
+      "value": "Future Protect is a regular premium Variable Universal Life product written to mature at age 95. Future Protect has a death benefit of the greater of the Face Amount or Account Value. The Face Amount is chosen by the client subject to a minimum Face Amount of USD 100,000. Premiums are paid for the full term of the policy. The premium is chosen by the client subject to a minimum premium requirement."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "08FD0F23-0A1C-4A3F-8299-A7FC9E50629A",
+      "overrideName": "F5D1EAA6-821A-4B0C-8BDA-298726536836_stringValue",
+      "value": "Variable Universal Life"
+    }
+  ],
+  "overrides": {
+    "047F9B54-D6D2-4AD5-A78A-EA42171BD8BB": "Future Protect is a regular premium Variable Universal Life product written to mature at age 95. Future Protect has a death benefit of the greater of the Face Amount or Account Value. The Face Amount is chosen by the client subject to a minimum Face Amount of USD 100,000. Premiums are paid for the full term of the policy. The premium is chosen by the client subject to a minimum premium requirement.",
+    "57EB9B87-3C06-4400-99FE-00D6FDED1B63": "futureProtect_clone",
+    "96B58BAC-9A40-4869-9EC2-F2B0CC49B67A": "Cloning from Product Future Protect...",
+    "9DA1F5BE-9E8F-401C-A9DB-EE3D7E71DBF1": "Clone of Future Protect",
+    "F5D1EAA6-821A-4B0C-8BDA-298726536836": "Variable Universal Life"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4AAE8479-79C4-4AFF-96A9-02ABD55A6F4C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 4,
+        "color": {
+          "_class": "color",
+          "alpha": 0.5,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  },
+  "symbolID": "81FC7F33-4AEF-4976-A2C1-C790E623540D",
+  "verticalSpacing": 0
+}

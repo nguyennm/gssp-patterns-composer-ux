@@ -1,0 +1,174 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "EC4727EF-DF45-4D8A-8D20-ACC9A0E1F0C9",
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "47E43622-3970-4671-A031-FDD38683C941",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9CBDAEEB-D2D6-45B5-9D69-CE7D26A9FA65",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "52E736B8-46ED-4947-B2B6-651E8A5DCBD2",
+    "height": 1440,
+    "width": 1440,
+    "x": 5719,
+    "y": -14866
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "C3D87502-AF04-4575-BA3B-3DBABA2DA69F",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "8AAED1B8-4F8A-44D7-8151-5DFE3048C9C3",
+    "guides": [
+      150,
+      1290,
+      1195,
+      1100,
+      1005,
+      910,
+      815,
+      720,
+      625,
+      530,
+      435,
+      340,
+      245
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "44390FAB-8EC4-4ABB-9322-24FF7533AF01"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "373AB184-E5C8-4265-9B25-FE744AA51E9C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F5C56112-090A-4393-B547-C0F3D294750D"
+    },
+    {
+      "class": "group",
+      "id": "4FF8BB1C-AB59-4C87-82D8-1FD066D52924"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E961505A-0763-4851-A80B-0D3EC0D44934"
+    },
+    {
+      "class": "group",
+      "id": "710FA2E0-55B9-4C1C-9BB5-8AF7846D060C"
+    },
+    {
+      "class": "group",
+      "id": "7E14F9CA-BB49-476D-92E4-53AD257A6745"
+    },
+    {
+      "class": "group",
+      "id": "8156C9EB-66D3-4E2B-BF13-D7C1DB4FFD12"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FDA907F9-740A-4106-B702-995253449368"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 65,
+    "do_objectID": "F35F1CD5-EFC2-4F75-8FBE-B964F5316E8E",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 30,
+    "guttersOutside": true,
+    "horizontalOffset": 150,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1140
+  },
+  "name": "Prospect Management - Default - Desktop HD",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "43D55F10-376E-400C-AFF5-10437FF4EE71",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "EC94CC98-8F5B-4CDA-A7E0-36E99A5622E2",
+    "guides": [
+    ]
+  }
+}

@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 718,
+    "height": 719,
     "width": 890,
     "x": 30,
-    "y": 3319
+    "y": 3248
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -92,7 +92,7 @@
           "blendMode": 0,
           "opacity": 1
         },
-        "isEnabled": true,
+        "isEnabled": false,
         "offsetX": 0,
         "offsetY": 2,
         "spread": 0

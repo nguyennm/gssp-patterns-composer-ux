@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 161,
-    "width": 220,
-    "x": 1553.5,
-    "y": 538.7437325905294
+    "height": 57,
+    "width": 226,
+    "x": 1554.5,
+    "y": 517.7437325905294
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -43,6 +43,9 @@
     "borderOptions": {
       "_class": "borderOptions",
       "dashPattern": [
+        1,
+        1,
+        1
       ],
       "isEnabled": false,
       "lineCapStyle": 2,

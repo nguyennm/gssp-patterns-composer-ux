@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "CCC96689-0CDC-4024-A006-4B396B22FFD1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1167,
+    "width": 2069,
+    "x": 80,
+    "y": 2551
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "FFBCFE28-4D4A-41FB-975C-9A449524B070"
+    },
+    {
+      "class": "group",
+      "id": "B02306B6-BA3C-4523-81C0-CC67D20728E6"
+    }
+  ],
+  "name": "Create Product Modal - Fund Allocations Edited",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

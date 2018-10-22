@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "A15DA621-CCCB-4F61-A46A-B7359D792EE4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 54,
+    "width": 870,
+    "x": 37,
+    "y": 665
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "261052AD-BE5F-467E-B1C5-C9DEA2B52B9A"
+    },
+    {
+      "class": "text",
+      "id": "7FFABEFF-C2F9-4B47-8B34-5CD671F0781E"
+    },
+    {
+      "class": "group",
+      "id": "476B57FE-0747-4370-B344-168C6B543F04"
+    },
+    {
+      "class": "group",
+      "id": "21199DA3-D9C7-44E8-8FEF-4129836D31AC"
+    },
+    {
+      "class": "group",
+      "id": "103D5167-63BE-4A63-A250-D049E5084861"
+    },
+    {
+      "class": "group",
+      "id": "E31E6DA0-C652-4DD3-BE40-5FA332B851C0"
+    }
+  ],
+  "name": "table-footer",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

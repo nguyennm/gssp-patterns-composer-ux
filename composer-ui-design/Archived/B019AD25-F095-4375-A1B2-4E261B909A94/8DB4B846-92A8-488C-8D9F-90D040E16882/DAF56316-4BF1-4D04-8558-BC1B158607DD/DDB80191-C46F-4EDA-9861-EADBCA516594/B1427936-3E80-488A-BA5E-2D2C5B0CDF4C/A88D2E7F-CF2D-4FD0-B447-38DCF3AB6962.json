@@ -1,0 +1,88 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "A88D2E7F-CF2D-4FD0-B447-38DCF3AB6962",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DB67151D-C61B-4C41-A03E-A222A8DCDEE4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "94FC7221-8FA5-427F-BAAF-B3759DB785BB",
+    "height": 101,
+    "width": 866,
+    "x": 0,
+    "y": 2
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Statics / state-rule-row",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "69C6CD3E-B3A7-4B74-9939-9FC334119F89",
+      "overrideName": "99EC0BC5-1B3E-4F46-B15E-9112EC0D7E1B_stringValue",
+      "value": "DISABLE"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B0A9AC8B-E1A7-49E8-8376-1851457C9012",
+      "overrideName": "A8686BD5-0ADF-4FDE-BABA-47EFEF00FE50_stringValue",
+      "value": "When @gpe.value prospect.attrs.firstName === ‘Nick’,"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "78EC0C75-28CA-46DA-B950-3F10CFF793FF",
+      "overrideName": "505BA853-2CD4-42A1-B52C-54412B2AD027_stringValue",
+      "value": "disable this component."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0EC887D0-1BE4-4E25-BD6E-996AB3EEECD8",
+      "overrideName": "FA5344AF-1B4E-4AAE-B144-7EB6D819E9A5/AFC41224-15DF-4C2A-B727-8254764CDCA2_stringValue",
+      "value": "Prospect Update"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "258D7AE0-9B1F-429B-AC44-7CEB9758F08C",
+      "overrideName": "68795A32-628D-489B-8CFE-3960875ED3F1_symbolID",
+      "value": ""
+    }
+  ],
+  "overrides": {
+    "505BA853-2CD4-42A1-B52C-54412B2AD027": "disable this component.",
+    "68795A32-628D-489B-8CFE-3960875ED3F1": {
+      "symbolID": ""
+    },
+    "99EC0BC5-1B3E-4F46-B15E-9112EC0D7E1B": "DISABLE",
+    "A8686BD5-0ADF-4FDE-BABA-47EFEF00FE50": "When @gpe.value prospect.attrs.firstName === ‘Nick’,",
+    "FA5344AF-1B4E-4AAE-B144-7EB6D819E9A5": {
+      "AFC41224-15DF-4C2A-B727-8254764CDCA2": "Prospect Update"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BFD97A18-2232-4ABA-9A33-ECDDB775AEDF",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "BC507441-1353-4E93-B17C-7AB0F64D744A",
+  "verticalSpacing": 0
+}
